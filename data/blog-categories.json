@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "weddings",
+    "name": "Weddings",
+    "description": "Destination weddings, venues, and planning tips for your perfect day in Kenya."
+  },
+  {
+    "slug": "travel-tips",
+    "name": "Travel Tips",
+    "description": "Essential tips and guides for traveling to and within Kenya."
+  },
+  {
+    "slug": "destinations",
+    "name": "Destinations",
+    "description": "In-depth guides to Kenya's most stunning destinations."
+  },
+  {
+    "slug": "corporate-events",
+    "name": "Corporate Events",
+    "description": "Corporate retreats, team building, and business events in luxury settings."
+  }
+]

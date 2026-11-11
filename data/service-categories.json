@@ -1,0 +1,137 @@
+[
+  {
+    "id": "celebrations",
+    "title": "Celebrations & Life Events",
+    "services": [
+      {
+        "slug": "wedding-planning",
+        "title": "Wedding Planning",
+        "description": "Bespoke weddings designed to reflect your love story with elegance, precision, and flawless execution.",
+        "image": "/images/bueno-scenic-sunset.webp",
+        "category": "celebrations",
+        "featured": true
+      },
+      {
+        "slug": "birthday-parties",
+        "title": "Birthday Parties & Milestones",
+        "description": "Exclusive, tailored celebrations that turn milestones into unforgettable memories.",
+        "image": "/images/bueno-nairobi-skyline.webp",
+        "category": "celebrations"
+      },
+      {
+        "slug": "baby-showers",
+        "title": "Baby Showers",
+        "description": "Intimate, thoughtfully curated gatherings celebrating life's newest beginnings.",
+        "image": "/images/bueno-coral-reef.webp",
+        "category": "celebrations"
+      },
+      {
+        "slug": "graduation-parties",
+        "title": "Graduation Parties",
+        "description": "Stylish, personalized events honouring achievements with sophistication and flair.",
+        "image": "/images/bueno-african-market.webp",
+        "category": "celebrations"
+      },
+      {
+        "slug": "anniversaries-honeymoons",
+        "title": "Anniversaries & Honeymoons",
+        "description": "Romantic, elevated experiences that celebrate milestones and unforgettable journeys together.",
+        "image": "/images/bueno-dhow-zanzibar.webp",
+        "category": "celebrations",
+        "featured": true
+      }
+    ]
+  },
+  {
+    "id": "experiences",
+    "title": "Experiences & Leisure",
+    "services": [
+      {
+        "slug": "school-trips",
+        "title": "School Trips & Educational Travel",
+        "description": "Curated journeys combining learning, adventure, and luxury comfort for students and educators.",
+        "image": "/images/bueno-giraffes-savannah.webp",
+        "category": "experiences"
+      },
+      {
+        "slug": "corporate-retreats",
+        "title": "Corporate Retreats & Events",
+        "description": "High-end retreats and corporate gatherings designed for impact, creativity, and seamless execution.",
+        "image": "/images/bueno-nairobi-skyline.webp",
+        "category": "experiences",
+        "featured": true
+      },
+      {
+        "slug": "wellness-retreats",
+        "title": "Wellness Retreats",
+        "description": "Bespoke wellness retreats designed for renewal, balance, and luxury — curated for women, men, and couples.",
+        "image": "/images/bueno-scenic-sunset.webp",
+        "category": "experiences",
+        "featured": true,
+        "detailHref": "/services/wellness"
+      },
+      {
+        "slug": "reunions",
+        "title": "Reunions",
+        "description": "Elegant family or alumni gatherings, thoughtfully designed to foster connection and celebration.",
+        "image": "/images/bueno-beach-lounging.webp",
+        "category": "experiences"
+      },
+      {
+        "slug": "holiday-packages",
+        "title": "Holiday Packages & Vacations",
+        "description": "Bespoke seasonal escapes that blend luxury, comfort, and immersive experiences.",
+        "image": "/images/bueno-elephants-sunrise.webp",
+        "category": "experiences"
+      },
+      {
+        "slug": "premium-getaways",
+        "title": "Premium Getaways",
+        "description": "Exclusive travel experiences crafted to exceed expectations and create lifelong memories.",
+        "image": "/images/bueno-lions-golden-hour.webp",
+        "category": "experiences"
+      },
+      {
+        "slug": "launch-parties",
+        "title": "Launch Parties",
+        "description": "Sophisticated brand and product launches, orchestrated with style, attention to detail, and memorable flair.",
+        "image": "/images/bueno-nairobi-skyline.webp",
+        "category": "experiences"
+      },
+      {
+        "slug": "proms-leavers",
+        "title": "Proms & Leavers Parties",
+        "description": "Elegant, unforgettable events marking important school milestones with style and sophistication.",
+        "image": "/images/bueno-african-market.webp",
+        "category": "experiences"
+      }
+    ]
+  },
+  {
+    "id": "signature",
+    "title": "Signature Experiences",
+    "services": [
+      {
+        "slug": "art-music-cultural",
+        "title": "Art, Music & Cultural Events",
+        "description": "Private concerts, gallery openings, and immersive cultural experiences designed for refined tastes.",
+        "image": "/images/bueno-maasai-crafts.webp",
+        "category": "signature"
+      },
+      {
+        "slug": "philanthropy-galas",
+        "title": "Philanthropy & Charity Galas",
+        "description": "Exclusive fundraising events blending elegance, storytelling, and high-impact giving for social causes.",
+        "image": "/images/bueno-nairobi-skyline.webp",
+        "category": "signature"
+      },
+      {
+        "slug": "seasonal-popup",
+        "title": "Seasonal & Pop-Up Experiences",
+        "description": "Curated, limited-access experiences — from ski retreats to secret dinners — designed to be extraordinary and unforgettable.",
+        "image": "/images/bueno-snorkeling.webp",
+        "category": "signature"
+      }
+    ]
+  }
+]

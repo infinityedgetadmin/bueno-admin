@@ -1,0 +1,1239 @@
+[
+  {
+    "slug": "luxury-safari-experience",
+    "title": "Luxury Safari Experience",
+    "location": "Maasai Mara & Amboseli",
+    "duration": "7 Days",
+    "listPriceUsd": 4500,
+    "description": "Embark on the ultimate luxury safari across Kenya's most iconic wildlife reserves. From the sweeping plains of the Maasai Mara to the elephant paradise of Amboseli with stunning views of Mount Kilimanjaro, this curated journey offers world-class game drives, exclusive lodge stays, and intimate encounters with the Big Five.",
+    "shortDescription": "A 7-day luxury safari through Kenya's most iconic wildlife reserves.",
+    "image": "/images/bueno-lion-mara.webp",
+    "gallery": [
+      "/images/bueno-lion-mara.webp",
+      "/images/bueno-elephants-sunrise.webp",
+      "/images/bueno-hot-air-balloon.webp"
+    ],
+    "highlights": [
+      "Big Five game drives in the Maasai Mara",
+      "Sunrise hot air balloon over the savanna",
+      "Exclusive luxury lodge accommodation",
+      "Mount Kilimanjaro views from Amboseli",
+      "Maasai cultural village experience"
+    ],
+    "included": [
+      "All accommodation in luxury lodges",
+      "Daily game drives with expert guides",
+      "All park and conservancy fees",
+      "Full board meals and beverages",
+      "Airport transfers and internal flights"
+    ],
+    "notIncluded": [
+      "International flights",
+      "Travel insurance",
+      "Visa fees",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival in Nairobi",
+        "description": "Welcome at Jomo Kenyatta International Airport. Transfer to a luxury hotel in Nairobi for overnight rest."
+      },
+      {
+        "day": "Day 2-3",
+        "title": "Maasai Mara Reserve",
+        "description": "Fly to the Mara. Afternoon game drive. Full day of exploration with morning and evening drives."
+      },
+      {
+        "day": "Day 4",
+        "title": "Balloon Safari",
+        "description": "Pre-dawn hot air balloon ride over the Mara followed by champagne breakfast in the bush."
+      },
+      {
+        "day": "Day 5-6",
+        "title": "Amboseli National Park",
+        "description": "Transfer to Amboseli. Game drives with views of Kilimanjaro. Visit a Maasai village."
+      },
+      {
+        "day": "Day 7",
+        "title": "Departure",
+        "description": "Morning game drive, then transfer to Nairobi for your departing flight."
+      }
+    ],
+    "destinations": [
+      "maasai-mara",
+      "amboseli"
+    ],
+    "category": "safari"
+  },
+  {
+    "slug": "coastal-escape",
+    "title": "Coastal Escape",
+    "location": "Diani Beach & Watamu",
+    "duration": "5 Days",
+    "listPriceUsd": 2800,
+    "description": "Discover the pristine white sand beaches and turquoise waters of Kenya's Indian Ocean coast. This luxury coastal retreat takes you from the powdery shores of Diani Beach to the marine wonderland of Watamu, featuring exclusive beach villas, world-class snorkeling, and sunset dhow cruises.",
+    "shortDescription": "A 5-day luxury beach retreat along Kenya's stunning Indian Ocean coast.",
+    "image": "/images/bueno-beach-lounging.webp",
+    "gallery": [
+      "/images/bueno-beach-lounging.webp",
+      "/images/bueno-dhow-zanzibar.webp",
+      "/images/bueno-snorkeling.webp"
+    ],
+    "highlights": [
+      "Private beach villa accommodation",
+      "Snorkeling in Watamu Marine Park",
+      "Traditional dhow sunset cruise",
+      "Fresh seafood dining experiences",
+      "Optional deep-sea fishing excursion"
+    ],
+    "included": [
+      "Beachfront luxury villa accommodation (all-inclusive resort)",
+      "All meals, snacks, and house beverages at the resort",
+      "Snorkeling equipment and guided trip in Watamu Marine Park",
+      "Sunset dhow cruise with refreshments",
+      "All airport and inter-resort transfers",
+      "Daily activities programme at the resort"
+    ],
+    "notIncluded": [
+      "International and domestic flights",
+      "Travel insurance",
+      "Visa fees",
+      "Premium spirits and wines",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival in Diani",
+        "description": "Transfer from Mombasa airport to your private beach villa. Welcome dinner."
+      },
+      {
+        "day": "Day 2",
+        "title": "Diani Beach Day",
+        "description": "Full day of relaxation, water sports, and spa treatments."
+      },
+      {
+        "day": "Day 3",
+        "title": "Transfer to Watamu",
+        "description": "Scenic coastal drive to Watamu. Afternoon snorkeling in the marine park."
+      },
+      {
+        "day": "Day 4",
+        "title": "Marine Adventures",
+        "description": "Morning dolphin-watching boat trip. Sunset dhow cruise with dinner."
+      },
+      {
+        "day": "Day 5",
+        "title": "Departure",
+        "description": "Leisurely morning before airport transfer."
+      }
+    ],
+    "destinations": [
+      "diani-beach",
+      "watamu"
+    ],
+    "category": "beach"
+  },
+  {
+    "slug": "nairobi-city-and-culture",
+    "title": "Nairobi City & Culture",
+    "location": "Nairobi",
+    "duration": "3 Days",
+    "listPriceUsd": 1200,
+    "description": "Experience the vibrant heart of East Africa with this curated city tour of Nairobi. From the emotional David Sheldrick Elephant Orphanage to the Karen Blixen Museum and bustling Maasai Market, discover why Nairobi is one of Africa's most exciting capitals.",
+    "shortDescription": "A 3-day curated exploration of Nairobi's best cultural highlights.",
+    "image": "/images/bueno-nairobi-skyline.webp",
+    "gallery": [
+      "/images/bueno-nairobi-skyline.webp",
+      "/images/bueno-african-market.webp",
+      "/images/bueno-rhino-nairobi.webp"
+    ],
+    "highlights": [
+      "David Sheldrick Elephant Orphanage",
+      "Giraffe Centre feeding experience",
+      "Karen Blixen Museum visit",
+      "Nairobi National Park game drive",
+      "Maasai Market shopping experience"
+    ],
+    "included": [
+      "Boutique hotel accommodation",
+      "All entrance and park fees",
+      "Private guide and transport",
+      "Daily breakfast"
+    ],
+    "notIncluded": [
+      "Flights",
+      "Travel insurance",
+      "Lunches and dinners",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Nairobi Highlights",
+        "description": "Visit the Elephant Orphanage and Giraffe Centre. Afternoon at the Karen Blixen Museum."
+      },
+      {
+        "day": "Day 2",
+        "title": "Wildlife & Markets",
+        "description": "Morning game drive in Nairobi National Park. Afternoon shopping at Maasai Market."
+      },
+      {
+        "day": "Day 3",
+        "title": "Departure",
+        "description": "Leisure morning, optional brunch, then airport transfer."
+      }
+    ],
+    "destinations": [
+      "nairobi"
+    ],
+    "category": "city"
+  },
+  {
+    "slug": "romantic-getaway",
+    "title": "Romantic Getaway",
+    "location": "Lake Naivasha & Nanyuki",
+    "duration": "4 Days",
+    "listPriceUsd": 3200,
+    "description": "A bespoke romantic escape through Kenya's Great Rift Valley and the foothills of Mount Kenya. Stay in exclusive lakeside lodges at Lake Naivasha, enjoy private boat rides among hippos, and end with a starlit dinner at a luxury ranch in Nanyuki with views of Mount Kenya.",
+    "shortDescription": "A 4-day romantic escape through Kenya's Rift Valley and Mount Kenya region.",
+    "image": "/images/bueno-scenic-sunset.webp",
+    "gallery": [
+      "/images/bueno-scenic-sunset.webp",
+      "/images/bueno-hippo-mara.webp",
+      "/images/bueno-giraffes-savannah.webp"
+    ],
+    "highlights": [
+      "Private boat ride on Lake Naivasha",
+      "Walking safari on Crescent Island",
+      "Luxury lodge with Mount Kenya views",
+      "Private starlit bush dinner",
+      "Couples spa treatment"
+    ],
+    "included": [
+      "Luxury lodge accommodation",
+      "All meals and selected beverages",
+      "Private boat rides and walking safaris",
+      "Bush dinner experience",
+      "All transfers"
+    ],
+    "notIncluded": [
+      "Flights",
+      "Travel insurance",
+      "Premium wines and spirits",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Lake Naivasha",
+        "description": "Drive from Nairobi through the Rift Valley. Check into lakeside lodge. Sunset boat ride."
+      },
+      {
+        "day": "Day 2",
+        "title": "Crescent Island & Spa",
+        "description": "Walking safari on Crescent Island. Afternoon couples spa. Romantic dinner."
+      },
+      {
+        "day": "Day 3",
+        "title": "Nanyuki",
+        "description": "Drive to Nanyuki. Check into Mount Kenya lodge. Private starlit bush dinner."
+      },
+      {
+        "day": "Day 4",
+        "title": "Departure",
+        "description": "Morning nature walk. Transfer back to Nairobi."
+      }
+    ],
+    "destinations": [
+      "lake-naivasha",
+      "nanyuki"
+    ],
+    "category": "romantic"
+  },
+  {
+    "slug": "ultimate-kenya",
+    "title": "Ultimate Kenya",
+    "location": "Multi-destination",
+    "duration": "14 Days",
+    "listPriceUsd": 9500,
+    "description": "The definitive Kenya experience. This comprehensive two-week journey takes you from the savannas of the Maasai Mara to the peaks of Mount Kenya, from the flamingo-filled lakes of the Rift Valley to the palm-fringed beaches of the coast. Every aspect of Kenya's extraordinary diversity in one unforgettable trip.",
+    "shortDescription": "The ultimate 14-day journey across all of Kenya's most spectacular regions.",
+    "image": "/images/bueno-wildebeest-migration.webp",
+    "gallery": [
+      "/images/bueno-wildebeest-migration.webp",
+      "/images/bueno-leopard.webp",
+      "/images/bueno-coral-reef.webp"
+    ],
+    "highlights": [
+      "Big Five safari in Maasai Mara",
+      "Lake Nakuru flamingo spectacle",
+      "Mount Kenya trekking experience",
+      "Lamu Island cultural immersion",
+      "Diani Beach luxury relaxation"
+    ],
+    "included": [
+      "Luxury safari lodge accommodation on the Mara, Lake Nakuru, Naivasha, and Mount Kenya legs (full board)",
+      "All meals and house beverages on the safari portion",
+      "All-inclusive boutique stay on Lamu and beach resort at Diani — meals, snacks, drinks, and resort activities included",
+      "All internal flights",
+      "Expert guides throughout",
+      "All park and activity fees"
+    ],
+    "notIncluded": [
+      "International flights",
+      "Travel insurance",
+      "Visa fees",
+      "Premium spirits and wines",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1-2",
+        "title": "Nairobi",
+        "description": "City tour, Elephant Orphanage, and preparation for the journey ahead."
+      },
+      {
+        "day": "Day 3-5",
+        "title": "Maasai Mara",
+        "description": "Three days of exceptional game drives and a hot air balloon safari."
+      },
+      {
+        "day": "Day 6-7",
+        "title": "Lake Nakuru & Naivasha",
+        "description": "Flamingos, rhinos, and a private boat ride on Lake Naivasha."
+      },
+      {
+        "day": "Day 8-9",
+        "title": "Mount Kenya",
+        "description": "Trekking in the foothills, luxury mountain lodge stay."
+      },
+      {
+        "day": "Day 10-11",
+        "title": "Lamu Island",
+        "description": "Fly to Lamu. Explore the UNESCO World Heritage old town. Dhow sailing."
+      },
+      {
+        "day": "Day 12-13",
+        "title": "Diani Beach",
+        "description": "Coastal relaxation, snorkeling, and spa treatments."
+      },
+      {
+        "day": "Day 14",
+        "title": "Departure",
+        "description": "Final morning on the coast before transfer to Mombasa airport."
+      }
+    ],
+    "destinations": [
+      "maasai-mara",
+      "lake-nakuru",
+      "lake-naivasha",
+      "nanyuki",
+      "lamu",
+      "diani-beach"
+    ],
+    "category": "safari"
+  },
+  {
+    "slug": "northern-kenya-explorer",
+    "title": "Northern Kenya Explorer",
+    "location": "Samburu & Laikipia",
+    "duration": "5 Days",
+    "listPriceUsd": 3800,
+    "description": "Venture into Kenya's untamed north, where arid landscapes meet extraordinary wildlife found nowhere else in the country. Samburu National Reserve is home to the rare Grevy's zebra, reticulated giraffe, and gerenuk, while the private conservancies of Laikipia offer exclusive encounters with endangered black rhinos and wild dogs in settings that feel entirely your own.",
+    "shortDescription": "A 5-day luxury expedition through Samburu and the private conservancies of Laikipia.",
+    "image": "/images/bueno-camel-ride.webp",
+    "gallery": [
+      "/images/bueno-camel-ride.webp",
+      "/images/bueno-leopard.webp",
+      "/images/bueno-scenic-sunset.webp"
+    ],
+    "highlights": [
+      "The Samburu Special Five wildlife",
+      "Private conservancy game drives",
+      "Black rhino tracking on foot",
+      "Sundowner cocktails overlooking the Ewaso Ng'iro River",
+      "Cultural visit to a Samburu community"
+    ],
+    "included": [
+      "Luxury lodge and tented camp accommodation",
+      "All meals and selected beverages",
+      "Daily game drives with expert naturalists",
+      "All conservancy and park fees",
+      "Internal flight from Nairobi"
+    ],
+    "notIncluded": [
+      "International flights",
+      "Travel insurance",
+      "Premium wines and spirits",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Fly to Samburu",
+        "description": "Morning flight from Nairobi's Wilson Airport. Afternoon game drive along the Ewaso Ng'iro River."
+      },
+      {
+        "day": "Day 2",
+        "title": "Full Day in Samburu",
+        "description": "Morning and evening game drives searching for leopard, Grevy's zebra, and gerenuk. Cultural visit to a Samburu manyatta."
+      },
+      {
+        "day": "Day 3",
+        "title": "Transfer to Laikipia",
+        "description": "Scenic drive to a private conservancy in Laikipia. Afternoon guided bush walk and sundowners."
+      },
+      {
+        "day": "Day 4",
+        "title": "Conservancy Experience",
+        "description": "Black rhino tracking on foot with conservancy rangers. Night game drive to spot nocturnal species."
+      },
+      {
+        "day": "Day 5",
+        "title": "Departure",
+        "description": "Morning nature walk, then fly back to Nairobi."
+      }
+    ],
+    "destinations": [
+      "samburu",
+      "laikipia"
+    ],
+    "category": "safari"
+  },
+  {
+    "slug": "fly-in-mara-safari",
+    "title": "Fly-in Mara Safari",
+    "location": "Maasai Mara",
+    "duration": "3 Days",
+    "listPriceUsd": 3500,
+    "description": "For travellers short on time but unwilling to compromise on experience, this exclusive fly-in safari delivers the very best of the Maasai Mara in three focused days. Skip the long road transfer and land directly on the plains. Every moment is spent where it matters: among the wildlife, with a world-class guide at your side.",
+    "shortDescription": "A 3-day fly-in luxury safari for the full Maasai Mara experience without the long drive.",
+    "image": "/images/bueno-hot-air-balloon.webp",
+    "gallery": [
+      "/images/bueno-hot-air-balloon.webp",
+      "/images/bueno-lions-golden-hour.webp",
+      "/images/bueno-safari-game-drive.webp"
+    ],
+    "highlights": [
+      "Direct flight to a private Mara airstrip",
+      "Exclusive luxury tented camp stay",
+      "Morning and evening Big Five game drives",
+      "Optional hot air balloon safari",
+      "Bush breakfast in the savanna"
+    ],
+    "included": [
+      "Luxury tented camp accommodation",
+      "Return flights Nairobi to Masai Mara",
+      "All meals and house beverages",
+      "Twice-daily game drives with a private guide",
+      "Park and conservancy fees"
+    ],
+    "notIncluded": [
+      "International flights",
+      "Travel insurance",
+      "Hot air balloon safari (optional add-on)",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrive in the Mara",
+        "description": "Morning flight from Wilson Airport. Arrive at your luxury tented camp. Afternoon game drive through the open savanna."
+      },
+      {
+        "day": "Day 2",
+        "title": "Full Day of Game Drives",
+        "description": "Sunrise drive targeting big cats and the Great Migration (seasonal). Bush breakfast under an acacia tree. Evening drive and sundowners."
+      },
+      {
+        "day": "Day 3",
+        "title": "Departure",
+        "description": "Early morning game drive or optional balloon ride. Fly back to Nairobi by midday."
+      }
+    ],
+    "destinations": [
+      "maasai-mara"
+    ],
+    "category": "safari"
+  },
+  {
+    "slug": "bush-and-beach",
+    "title": "Bush & Beach",
+    "location": "Maasai Mara, Tsavo & Diani",
+    "duration": "10 Days",
+    "listPriceUsd": 6200,
+    "description": "The definitive two-in-one Kenya journey. Begin with world-class game drives in the Maasai Mara, traverse the vast red landscapes of Tsavo where elephants dust themselves in crimson earth, then unwind on the white sands of Diani Beach. This itinerary weaves together the very best of safari and coast in a single, seamless trip.",
+    "shortDescription": "A 10-day journey from the Mara's savannas through Tsavo to the beaches of Diani.",
+    "image": "/images/bueno-safari-game-drive.webp",
+    "gallery": [
+      "/images/bueno-safari-game-drive.webp",
+      "/images/bueno-cheetah-safari.webp",
+      "/images/bueno-palm-beach.webp"
+    ],
+    "highlights": [
+      "Big Five game drives in the Maasai Mara",
+      "Tsavo's legendary red elephants",
+      "Mzima Springs crystal-clear underwater viewing",
+      "White sand beaches and turquoise waters at Diani",
+      "Sunset dhow cruise along the coast"
+    ],
+    "included": [
+      "Luxury safari lodge accommodation on the Mara and Tsavo legs",
+      "All meals and house beverages on the safari portion (full board)",
+      "All-inclusive beach resort accommodation at Diani — meals, snacks, drinks, and resort activities included",
+      "Daily game drives with expert guides",
+      "All park and conservancy fees",
+      "Internal flight and ground transfers"
+    ],
+    "notIncluded": [
+      "International flights",
+      "Travel insurance",
+      "Visa fees",
+      "Premium spirits and wines",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival in Nairobi",
+        "description": "Welcome at Jomo Kenyatta International Airport. Overnight in Nairobi."
+      },
+      {
+        "day": "Day 2-4",
+        "title": "Maasai Mara",
+        "description": "Fly to the Mara for three days of game drives. Morning and evening drives targeting the Big Five."
+      },
+      {
+        "day": "Day 5-6",
+        "title": "Tsavo West",
+        "description": "Drive south through the Great Rift Valley to Tsavo West. Visit Mzima Springs and spot the famed red elephants."
+      },
+      {
+        "day": "Day 7",
+        "title": "Tsavo East",
+        "description": "Cross into Tsavo East. Game drive through the Yatta Plateau, the world's longest lava flow."
+      },
+      {
+        "day": "Day 8-9",
+        "title": "Diani Beach",
+        "description": "Transfer to the coast. Two days of white sand, warm ocean, and total relaxation. Optional snorkeling or dhow cruise."
+      },
+      {
+        "day": "Day 10",
+        "title": "Departure",
+        "description": "Leisurely morning before transfer to Mombasa airport."
+      }
+    ],
+    "destinations": [
+      "maasai-mara",
+      "tsavo",
+      "diani-beach"
+    ],
+    "category": "safari"
+  },
+  {
+    "slug": "rift-valley-discovery",
+    "title": "Rift Valley Discovery",
+    "location": "Lake Nakuru, Naivasha & Hells Gate",
+    "duration": "4 Days",
+    "listPriceUsd": 2400,
+    "description": "Explore the dramatic landscapes of Kenya's Great Rift Valley, where flamingo-lined lakes meet towering volcanic cliffs. This compact itinerary takes you from the rhino sanctuary of Lake Nakuru to the hippo-filled waters of Lake Naivasha and the striking gorges of Hells Gate, one of the few parks in Kenya where you can walk and cycle among wildlife.",
+    "shortDescription": "A 4-day exploration of the Great Rift Valley's lakes, wildlife, and volcanic landscapes.",
+    "image": "/images/bueno-giraffes-savannah.webp",
+    "gallery": [
+      "/images/bueno-giraffes-savannah.webp",
+      "/images/bueno-hippo-mara.webp",
+      "/images/bueno-scenic-sunset.webp"
+    ],
+    "highlights": [
+      "Flamingos and rhinos at Lake Nakuru",
+      "Boat safari on Lake Naivasha",
+      "Walking or cycling through Hells Gate",
+      "Fischer's Tower and the gorge trail",
+      "Crescent Island walking safari"
+    ],
+    "included": [
+      "Boutique lodge accommodation",
+      "All meals and soft drinks",
+      "Park entry fees and boat safari",
+      "Private guide and vehicle",
+      "Bicycle hire at Hells Gate"
+    ],
+    "notIncluded": [
+      "Flights",
+      "Travel insurance",
+      "Premium beverages",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Nairobi to Lake Nakuru",
+        "description": "Morning drive through the escarpment to Lake Nakuru National Park. Afternoon game drive among flamingos, rhinos, and leopards."
+      },
+      {
+        "day": "Day 2",
+        "title": "Lake Naivasha",
+        "description": "Drive to Lake Naivasha. Boat safari to spot hippos and fish eagles. Afternoon walking safari on Crescent Island."
+      },
+      {
+        "day": "Day 3",
+        "title": "Hells Gate National Park",
+        "description": "Full day exploring Hells Gate on foot and by bicycle. Hike the volcanic gorge with its towering cliffs and hot springs."
+      },
+      {
+        "day": "Day 4",
+        "title": "Departure",
+        "description": "Morning at leisure, then transfer back to Nairobi."
+      }
+    ],
+    "destinations": [
+      "lake-nakuru",
+      "lake-naivasha",
+      "hells-gate"
+    ],
+    "category": "adventure"
+  },
+  {
+    "slug": "great-migration-safari",
+    "title": "Great Migration Safari",
+    "location": "Maasai Mara",
+    "duration": "5 Days",
+    "listPriceUsd": 5000,
+    "description": "Witness one of the natural world's greatest spectacles. Timed for peak migration season, this immersive five-day safari places you at the heart of the action as over a million wildebeest and zebra cross the Mara River. Staying in an exclusive private conservancy bordering the reserve ensures front-row access with fewer vehicles and more intimate encounters.",
+    "shortDescription": "A 5-day safari timed for the Great Migration river crossings in the Maasai Mara.",
+    "image": "/images/bueno-wildebeest-migration.webp",
+    "gallery": [
+      "/images/bueno-wildebeest-migration.webp",
+      "/images/bueno-lion-mara.webp",
+      "/images/bueno-hot-air-balloon.webp"
+    ],
+    "highlights": [
+      "Mara River crossing viewings",
+      "Private conservancy with limited vehicles",
+      "Full-day game drives with picnic lunches",
+      "Optional hot air balloon safari",
+      "Night game drive in the conservancy"
+    ],
+    "included": [
+      "Luxury tented camp in a private conservancy",
+      "Return flights from Nairobi",
+      "All meals and house beverages",
+      "Unlimited game drives with a private guide",
+      "All conservancy and park fees"
+    ],
+    "notIncluded": [
+      "International flights",
+      "Travel insurance",
+      "Hot air balloon safari (optional add-on)",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrive in the Mara",
+        "description": "Morning flight to the Mara. Check into your luxury tented camp in the private conservancy. Afternoon game drive."
+      },
+      {
+        "day": "Day 2",
+        "title": "Migration Tracking",
+        "description": "Full-day game drive following the migration herds. Picnic lunch on the plains. Evening drive and sundowners."
+      },
+      {
+        "day": "Day 3",
+        "title": "River Crossing Watch",
+        "description": "Position at a prime Mara River crossing point. Watch for herds gathering to make the dramatic crossing. Predators often patrol the banks."
+      },
+      {
+        "day": "Day 4",
+        "title": "Conservancy Exclusive",
+        "description": "Morning walking safari with a Maasai guide. Afternoon game drive. Night drive to spot hyenas, aardvarks, and bush babies."
+      },
+      {
+        "day": "Day 5",
+        "title": "Departure",
+        "description": "Sunrise game drive. Fly back to Nairobi by midday."
+      }
+    ],
+    "destinations": [
+      "maasai-mara"
+    ],
+    "category": "safari"
+  },
+  {
+    "slug": "wilderness-and-adventure",
+    "title": "Wilderness & Adventure",
+    "location": "Mount Kenya, Hells Gate & Laikipia",
+    "duration": "10 Days",
+    "listPriceUsd": 4500,
+    "description": "Ten days for travellers who want more than a traditional game drive. This active expedition combines a multi-day Mount Kenya trek, gorge hiking through Hells Gate, walking safaris in Laikipia's private conservancies, and a rainforest day in the Aberdares. Summit the lower peaks of Mount Kenya, cycle alongside zebras and giraffes, and track black rhinos on foot through some of Kenya's most dramatic high-country terrain.",
+    "shortDescription": "A 10-day active expedition combining mountain trekking, gorge hikes, and walking safaris.",
+    "image": "/images/bueno-scenic-sunset.webp",
+    "gallery": [
+      "/images/bueno-scenic-sunset.webp",
+      "/images/bueno-impala-wildlife.webp",
+      "/images/bueno-coffee-farm.webp"
+    ],
+    "highlights": [
+      "Mount Kenya trek to Point Lenana",
+      "Cycling safari through Hells Gate",
+      "Guided bush walks in Laikipia conservancies",
+      "Gorge hiking past volcanic hot springs",
+      "Ol Pejeta Conservancy rhino sanctuary"
+    ],
+    "included": [
+      "Mountain lodge and tented camp accommodation",
+      "All meals and beverages",
+      "Mountain guide and porters",
+      "Park and conservancy fees",
+      "All ground transfers"
+    ],
+    "notIncluded": [
+      "Flights",
+      "Travel insurance",
+      "Specialized trekking gear",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Nairobi to Mount Kenya",
+        "description": "Drive to the foothills of Mount Kenya. Check into a mountain lodge. Afternoon nature walk through the montane forest."
+      },
+      {
+        "day": "Day 2",
+        "title": "Forest Acclimatisation",
+        "description": "Guided walk through the bamboo zone with a mountain naturalist. Equipment check and trek briefing in the afternoon."
+      },
+      {
+        "day": "Day 3",
+        "title": "Trek to Old Moses Camp",
+        "description": "Begin the multi-day ascent. Hike through montane forest into the moorland zone. Overnight at Old Moses Camp."
+      },
+      {
+        "day": "Day 4",
+        "title": "Trek to Shipton's Camp",
+        "description": "Cross the Mackinder Valley with views of the main peaks. Reach Shipton's Camp at 4,200m for acclimatisation overnight."
+      },
+      {
+        "day": "Day 5",
+        "title": "Point Lenana Summit & Descent",
+        "description": "Pre-dawn summit attempt at Point Lenana (4,985m). Descend to the mountain lodge by afternoon for a celebratory dinner."
+      },
+      {
+        "day": "Day 6",
+        "title": "Rest & Nature Walk",
+        "description": "A slower day at the lodge. Optional guided walks, spa treatments, or simply unwinding by the mountain views."
+      },
+      {
+        "day": "Day 7",
+        "title": "Aberdares National Park",
+        "description": "Drive to the Aberdares for a rainforest day. Game drive in search of elephants, buffalo, and the elusive bongo."
+      },
+      {
+        "day": "Day 8",
+        "title": "Hells Gate",
+        "description": "Drive to Hells Gate National Park. Cycle through the park among giraffes and zebras. Hike the volcanic gorge past hot springs."
+      },
+      {
+        "day": "Day 9",
+        "title": "Laikipia Conservancy",
+        "description": "Transfer to a private conservancy in Laikipia. Walking safari with rangers, then visit Ol Pejeta rhino sanctuary."
+      },
+      {
+        "day": "Day 10",
+        "title": "Departure",
+        "description": "Morning bush walk, then drive back to Nairobi."
+      }
+    ],
+    "destinations": [
+      "nanyuki",
+      "hells-gate",
+      "laikipia"
+    ],
+    "category": "adventure"
+  },
+  {
+    "slug": "naivasha-weekend-escape",
+    "title": "Naivasha Weekend Escape",
+    "location": "Lake Naivasha",
+    "duration": "2 Days",
+    "listPriceUsd": 450,
+    "description": "The perfect short break from Nairobi. Just ninety minutes from the city, Lake Naivasha offers hippo-filled boat rides, a walking safari on Crescent Island where giraffes and wildebeest roam freely, and some of the best birdwatching in the Rift Valley. Ideal for a Friday evening departure with a full Saturday of adventure and a relaxed Sunday return.",
+    "shortDescription": "A 2-day weekend break with boat safaris and walking among wildlife on Crescent Island.",
+    "image": "/images/bueno-hippo-mara.webp",
+    "gallery": [
+      "/images/bueno-hippo-mara.webp",
+      "/images/bueno-giraffes-savannah.webp",
+      "/images/bueno-scenic-sunset.webp"
+    ],
+    "highlights": [
+      "Boat safari among hippos and fish eagles",
+      "Walking safari on Crescent Island",
+      "Lakeside lodge with Rift Valley views",
+      "Optional Hells Gate cycling add-on"
+    ],
+    "included": [
+      "Lakeside lodge accommodation (1 night)",
+      "All meals",
+      "Boat safari and Crescent Island entry",
+      "Return transport from Nairobi"
+    ],
+    "notIncluded": [
+      "Travel insurance",
+      "Optional activities",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Nairobi to Naivasha",
+        "description": "Depart Nairobi in the afternoon. Check into your lakeside lodge. Sunset boat ride on Lake Naivasha."
+      },
+      {
+        "day": "Day 2",
+        "title": "Crescent Island & Return",
+        "description": "Morning walking safari on Crescent Island. Lunch at the lodge, then drive back to Nairobi."
+      }
+    ],
+    "destinations": [
+      "lake-naivasha"
+    ],
+    "category": "weekend"
+  },
+  {
+    "slug": "nakuru-weekend-safari",
+    "title": "Nakuru Weekend Safari",
+    "location": "Lake Nakuru",
+    "duration": "2 Days",
+    "listPriceUsd": 550,
+    "description": "A compact weekend safari that puts you face to face with rhinos, flamingos, and leopards within hours of leaving Nairobi. Lake Nakuru National Park is one of the best places in Kenya to spot both black and white rhinos, and the Baboon Cliff viewpoint offers sweeping panoramas of the entire Rift Valley lake basin.",
+    "shortDescription": "A 2-day weekend safari to Lake Nakuru for rhinos, flamingos, and Rift Valley views.",
+    "image": "/images/bueno-safari-game-drive.webp",
+    "gallery": [
+      "/images/bueno-safari-game-drive.webp",
+      "/images/bueno-rhino-nairobi.webp",
+      "/images/bueno-giraffes-savannah.webp"
+    ],
+    "highlights": [
+      "Black and white rhino sightings",
+      "Flamingo-lined lakeshores",
+      "Baboon Cliff panoramic viewpoint",
+      "Leopard tracking in the acacia forest"
+    ],
+    "included": [
+      "Lodge accommodation (1 night)",
+      "All meals",
+      "Park entry fees",
+      "Game drives with expert guide",
+      "Return transport from Nairobi"
+    ],
+    "notIncluded": [
+      "Travel insurance",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Nairobi to Nakuru",
+        "description": "Early morning departure. Arrive at Lake Nakuru National Park by mid-morning. Full day of game drives with a lunch break at the lodge."
+      },
+      {
+        "day": "Day 2",
+        "title": "Morning Drive & Return",
+        "description": "Sunrise game drive to Baboon Cliff. Final drive through the park, then return to Nairobi by late afternoon."
+      }
+    ],
+    "destinations": [
+      "lake-nakuru"
+    ],
+    "category": "weekend"
+  },
+  {
+    "slug": "mt-kenya-weekend-retreat",
+    "title": "Mt Kenya Weekend Retreat",
+    "location": "Nanyuki & Mount Kenya",
+    "duration": "3 Days",
+    "listPriceUsd": 950,
+    "description": "Escape to the cool highlands at the foot of Africa's second-highest peak. This three-day retreat combines nature walks through montane forest, a visit to the Ol Pejeta Conservancy to see the last northern white rhinos, and the novelty of standing on the equator line. Stay in a luxury mountain lodge with views of the snow-capped peaks.",
+    "shortDescription": "A 3-day highland retreat with conservancy visits and Mount Kenya views.",
+    "image": "/images/bueno-coffee-farm.webp",
+    "gallery": [
+      "/images/bueno-coffee-farm.webp",
+      "/images/bueno-impala-wildlife.webp",
+      "/images/bueno-leopard.webp"
+    ],
+    "highlights": [
+      "Ol Pejeta Conservancy and rhino sanctuary",
+      "Equator crossing photo stop",
+      "Mount Kenya forest nature walks",
+      "Luxury mountain lodge stay"
+    ],
+    "included": [
+      "Mountain lodge accommodation (2 nights)",
+      "All meals",
+      "Ol Pejeta conservancy fees",
+      "Guided nature walks",
+      "Return transport from Nairobi"
+    ],
+    "notIncluded": [
+      "Travel insurance",
+      "Optional horse riding",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Nairobi to Nanyuki",
+        "description": "Morning drive through the central highlands. Stop at the equator line. Check into your mountain lodge. Afternoon nature walk."
+      },
+      {
+        "day": "Day 2",
+        "title": "Ol Pejeta Conservancy",
+        "description": "Full day at Ol Pejeta. Game drive to see the Big Five, visit the chimpanzee sanctuary, and the northern white rhino enclosure."
+      },
+      {
+        "day": "Day 3",
+        "title": "Departure",
+        "description": "Morning walk in the Mount Kenya forest. Return to Nairobi after lunch."
+      }
+    ],
+    "destinations": [
+      "nanyuki"
+    ],
+    "category": "weekend"
+  },
+  {
+    "slug": "safari-honeymoon",
+    "title": "Safari Honeymoon",
+    "location": "Maasai Mara & Lake Naivasha",
+    "duration": "6 Days",
+    "listPriceUsd": 5200,
+    "description": "Begin married life surrounded by the wild beauty of Kenya. This honeymoon journey pairs the romance of a private Mara conservancy with the serenity of a lakeside retreat at Naivasha. Expect private game drives, a champagne bush dinner under the stars, a hot air balloon at sunrise, and a couples boat ride among hippos on the lake.",
+    "shortDescription": "A 6-day safari honeymoon blending Mara wildlife with lakeside romance at Naivasha.",
+    "image": "/images/bueno-lions-golden-hour.webp",
+    "gallery": [
+      "/images/bueno-lions-golden-hour.webp",
+      "/images/bueno-hot-air-balloon.webp",
+      "/images/bueno-scenic-sunset.webp"
+    ],
+    "highlights": [
+      "Private game drives in a Mara conservancy",
+      "Champagne bush dinner under the stars",
+      "Sunrise hot air balloon safari",
+      "Couples boat ride on Lake Naivasha",
+      "Spa treatments at each lodge"
+    ],
+    "included": [
+      "Luxury lodge and tented camp accommodation",
+      "All meals and house beverages",
+      "Private game drives and balloon safari",
+      "Bush dinner experience",
+      "Internal flight and all transfers"
+    ],
+    "notIncluded": [
+      "International flights",
+      "Travel insurance",
+      "Premium champagnes",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrival",
+        "description": "Welcome at Nairobi airport. Transfer to a boutique hotel for overnight rest."
+      },
+      {
+        "day": "Day 2-3",
+        "title": "Maasai Mara Conservancy",
+        "description": "Fly to the Mara. Private game drives morning and evening. Champagne bush dinner on night two."
+      },
+      {
+        "day": "Day 4",
+        "title": "Balloon & Transfer",
+        "description": "Sunrise balloon ride over the savanna. Fly to Lake Naivasha and check into your lakeside retreat."
+      },
+      {
+        "day": "Day 5",
+        "title": "Lake Naivasha",
+        "description": "Private boat ride. Afternoon couples spa. Romantic farewell dinner."
+      },
+      {
+        "day": "Day 6",
+        "title": "Departure",
+        "description": "Leisurely morning, then transfer to Nairobi."
+      }
+    ],
+    "destinations": [
+      "maasai-mara",
+      "lake-naivasha"
+    ],
+    "category": "honeymoon"
+  },
+  {
+    "slug": "7-days-lamu-diani",
+    "title": "7 Days Lamu & Diani",
+    "location": "Diani Beach & Lamu Island",
+    "duration": "7 Days",
+    "listPriceUsd": 3400,
+    "description": "Seven days of barefoot luxury along Kenya's Indian Ocean coast. Begin on the powdery white sands of Diani Beach with private villa stays and sunset dhow cruises, then fly to the ancient island of Lamu where donkey carts replace cars and centuries-old Swahili architecture lines the narrow streets. An unhurried coastal journey that pairs two of Kenya's most distinctive coastal destinations into a single week.",
+    "shortDescription": "A 7-day coastal journey from Diani's white sands to Lamu's ancient island charm.",
+    "image": "/images/bueno-palm-beach.webp",
+    "gallery": [
+      "/images/bueno-palm-beach.webp",
+      "/images/bueno-dhow-zanzibar.webp",
+      "/images/bueno-beach-dining.webp"
+    ],
+    "highlights": [
+      "Private beachfront villa at Diani",
+      "Sunset dhow cruise with dinner",
+      "Lamu Old Town UNESCO walking tour",
+      "Shela Beach private picnic",
+      "Couples snorkeling excursion"
+    ],
+    "included": [
+      "All-inclusive beachfront villa at Diani",
+      "All-inclusive boutique Swahili hotel on Lamu",
+      "All meals, snacks, and house beverages at both stays",
+      "Sunset dhow cruise and Shela Beach picnic",
+      "Snorkeling trips and equipment",
+      "Lamu internal flight",
+      "All ground and boat transfers"
+    ],
+    "notIncluded": [
+      "International and domestic flights to Mombasa",
+      "Travel insurance",
+      "Visa fees",
+      "Spa treatments",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrive in Diani",
+        "description": "Transfer from Mombasa airport to your private beach villa. Welcome cocktails on the terrace."
+      },
+      {
+        "day": "Day 2-3",
+        "title": "Diani Beach",
+        "description": "Two days of beach bliss. Sunset dhow cruise, snorkeling at the reef, couples spa afternoon."
+      },
+      {
+        "day": "Day 4",
+        "title": "Fly to Lamu",
+        "description": "Morning flight to Lamu Island. Settle into your boutique Swahili hotel. Afternoon Old Town walking tour."
+      },
+      {
+        "day": "Day 5-6",
+        "title": "Lamu Island",
+        "description": "Dhow sailing, Shela Beach picnic, visit local artisans. Rooftop dinner overlooking the waterfront."
+      },
+      {
+        "day": "Day 7",
+        "title": "Departure",
+        "description": "Morning at leisure, then fly back to Nairobi or Mombasa."
+      }
+    ],
+    "destinations": [
+      "diani-beach",
+      "lamu"
+    ],
+    "category": "beach"
+  },
+  {
+    "slug": "bush-and-beach-honeymoon",
+    "title": "Bush & Beach Honeymoon",
+    "location": "Amboseli & Diani Beach",
+    "duration": "8 Days",
+    "listPriceUsd": 3500,
+    "description": "The best of both worlds for couples who want wildlife and ocean. Start with three days of private game drives in Amboseli, where elephants walk in silhouette against Mount Kilimanjaro, then fly to Diani Beach for four days of white sand, warm water, and absolute relaxation. A honeymoon designed for couples who want to experience everything Kenya has to offer.",
+    "shortDescription": "An 8-day honeymoon combining Amboseli safari with Diani Beach luxury.",
+    "image": "/images/bueno-elephants-sunrise.webp",
+    "gallery": [
+      "/images/bueno-elephants-sunrise.webp",
+      "/images/bueno-beach-lounging.webp",
+      "/images/bueno-beach-dining.webp"
+    ],
+    "highlights": [
+      "Elephants against Mount Kilimanjaro",
+      "Private sundowner on Observation Hill",
+      "Beachfront villa at Diani",
+      "Couples deep-sea fishing excursion",
+      "Farewell sunset dinner on the beach"
+    ],
+    "included": [
+      "Luxury safari lodge accommodation in Amboseli",
+      "All meals and house beverages on the safari portion (full board)",
+      "All-inclusive beachfront villa at Diani — meals, snacks, drinks, and resort activities included",
+      "Private game drives in Amboseli",
+      "Internal flight Amboseli to Diani",
+      "All park fees and ground transfers"
+    ],
+    "notIncluded": [
+      "International flights",
+      "Travel insurance",
+      "Visa fees",
+      "Premium spirits and wines",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Arrive in Amboseli",
+        "description": "Fly from Nairobi to Amboseli. Afternoon game drive with Kilimanjaro views."
+      },
+      {
+        "day": "Day 2-3",
+        "title": "Amboseli Safari",
+        "description": "Two full days of private game drives. Sundowner on Observation Hill. Visit a Maasai community."
+      },
+      {
+        "day": "Day 4",
+        "title": "Fly to Diani",
+        "description": "Morning flight to the coast. Check into your beachfront villa. Afternoon at leisure."
+      },
+      {
+        "day": "Day 5-7",
+        "title": "Diani Beach",
+        "description": "Three days of beach relaxation. Snorkeling, spa, and a sunset dinner on the sand."
+      },
+      {
+        "day": "Day 8",
+        "title": "Departure",
+        "description": "Morning at the beach, then transfer to Mombasa airport."
+      }
+    ],
+    "destinations": [
+      "amboseli",
+      "diani-beach"
+    ],
+    "category": "honeymoon"
+  },
+  {
+    "slug": "sgr-coastal-explorer",
+    "title": "SGR Coastal Explorer",
+    "location": "Nairobi to Mombasa & Diani",
+    "duration": "5 Days",
+    "listPriceUsd": 1800,
+    "description": "Experience Kenya's modern Standard Gauge Railway on a scenic journey from Nairobi to the coast. The SGR train crosses the plains of Tsavo, offering glimpses of wildlife from the window as you travel in first-class comfort. Arrive in Mombasa for a day of Old Town exploration, then head south to Diani Beach for white sand and warm ocean. A unique way to see the country from a completely different perspective.",
+    "shortDescription": "A 5-day train journey from Nairobi to the coast, combining the SGR experience with Diani Beach.",
+    "image": "/images/bueno-nairobi-city.webp",
+    "gallery": [
+      "/images/bueno-nairobi-city.webp",
+      "/images/bueno-beach-lounging.webp",
+      "/images/bueno-palm-beach.webp"
+    ],
+    "highlights": [
+      "First-class SGR train from Nairobi to Mombasa",
+      "Wildlife spotting through Tsavo from the train",
+      "Mombasa Old Town and Fort Jesus visit",
+      "Diani Beach relaxation",
+      "Fresh seafood dining on the coast"
+    ],
+    "included": [
+      "First-class SGR train ticket",
+      "Mombasa boutique hotel (bed and breakfast)",
+      "All-inclusive beach resort accommodation at Diani — meals, snacks, drinks, and resort activities included",
+      "Mombasa city tour with guide",
+      "All transfers between Mombasa and Diani"
+    ],
+    "notIncluded": [
+      "Flights",
+      "Travel insurance",
+      "Visa fees",
+      "Lunches and dinners in Mombasa city",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "SGR to Mombasa",
+        "description": "Board the morning SGR train at Nairobi Terminus. Five-hour scenic journey through Tsavo. Arrive in Mombasa and transfer to your hotel."
+      },
+      {
+        "day": "Day 2",
+        "title": "Mombasa Old Town",
+        "description": "Guided tour of Fort Jesus, the Old Town's narrow streets, and the Likoni ferry crossing. Afternoon at leisure."
+      },
+      {
+        "day": "Day 3-4",
+        "title": "Diani Beach",
+        "description": "Transfer south to Diani Beach. Two days of white sand, snorkeling, and coastal relaxation."
+      },
+      {
+        "day": "Day 5",
+        "title": "Departure",
+        "description": "Morning on the beach. Transfer to Mombasa airport, or take the SGR back to Nairobi."
+      }
+    ],
+    "destinations": [
+      "tsavo",
+      "diani-beach"
+    ],
+    "category": "train"
+  },
+  {
+    "slug": "sgr-watamu-getaway",
+    "title": "SGR Watamu Getaway",
+    "location": "Nairobi to Mombasa & Watamu",
+    "duration": "4 Days",
+    "listPriceUsd": 1500,
+    "description": "Combine the thrill of Kenya's SGR train with the marine paradise of Watamu. Travel in first-class comfort from Nairobi to Mombasa, then drive north along the coast to Watamu, where coral reefs, sea turtles, and pristine beaches await. A perfect blend of overland adventure and coastal discovery.",
+    "shortDescription": "A 4-day SGR train trip from Nairobi to Mombasa, continuing to Watamu's marine paradise.",
+    "image": "/images/bueno-coral-reef.webp",
+    "gallery": [
+      "/images/bueno-coral-reef.webp",
+      "/images/bueno-snorkeling.webp",
+      "/images/bueno-dhow-zanzibar.webp"
+    ],
+    "highlights": [
+      "First-class SGR train experience",
+      "Watamu Marine National Park snorkeling",
+      "Sea turtle conservation visit",
+      "Gede Ruins historical site",
+      "Glass-bottom boat ride"
+    ],
+    "included": [
+      "First-class SGR train ticket",
+      "All-inclusive beach resort accommodation at Watamu — meals, snacks, drinks, and resort activities included",
+      "Snorkeling gear, marine park entry, and glass-bottom boat trip",
+      "Transfer Mombasa to Watamu",
+      "Gede Ruins excursion"
+    ],
+    "notIncluded": [
+      "Flights",
+      "Travel insurance",
+      "Visa fees",
+      "Deep-sea fishing excursion",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "SGR to Mombasa",
+        "description": "Morning SGR train from Nairobi. Arrive Mombasa and drive north to Watamu. Settle into your beach resort."
+      },
+      {
+        "day": "Day 2",
+        "title": "Marine Park",
+        "description": "Morning snorkeling in Watamu Marine National Park. Afternoon visit to the sea turtle conservation centre."
+      },
+      {
+        "day": "Day 3",
+        "title": "Gede Ruins & Beach",
+        "description": "Explore the mysterious Gede Ruins. Afternoon glass-bottom boat ride over the reef. Evening at leisure."
+      },
+      {
+        "day": "Day 4",
+        "title": "Departure",
+        "description": "Morning swim, then transfer to Mombasa for your SGR train or flight home."
+      }
+    ],
+    "destinations": [
+      "watamu"
+    ],
+    "category": "train"
+  }
+]

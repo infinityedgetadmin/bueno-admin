@@ -1,0 +1,32 @@
+[
+  {
+    "id": "visa-application",
+    "title": "Visa Application",
+    "description": "End-to-end guidance on visa applications and entry requirements — from selecting the right category to preparing and reviewing every supporting document before submission.",
+    "icon": "Stamp"
+  },
+  {
+    "id": "passport-application",
+    "title": "Passport Application & Renewal",
+    "description": "Assistance with new passport applications and renewals, including appointment scheduling, document preparation, and follow-through until collection.",
+    "icon": "BookUser"
+  },
+  {
+    "id": "work-permit",
+    "title": "Work Permit Application & Renewal",
+    "description": "Support through work permit and special pass processes for individuals and employers — advising on the correct class, compiling submissions, and tracking renewals ahead of expiry.",
+    "icon": "BriefcaseBusiness"
+  },
+  {
+    "id": "business-registration",
+    "title": "Business Registration",
+    "description": "Company and business name registration handled from start to finish — name search, incorporation filings, statutory registrations, and the certificates you need to begin trading.",
+    "icon": "Building2"
+  },
+  {
+    "id": "tax-consultation",
+    "title": "Tax Consultation",
+    "description": "Practical tax guidance for individuals and businesses, covering registration, compliance obligations, filing, and planning — so you stay in good standing without the guesswork.",
+    "icon": "Receipt"
+  }
+]

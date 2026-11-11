@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "the-bloom",
+    "title": "The Bloom",
+    "tagline": "Women's Wellness Retreat",
+    "audience": "Women",
+    "heroImage": "/images/bueno-scenic-sunset.webp",
+    "description": "Step into a curated escape designed exclusively for women, where mindfulness, creativity, and self-care meet luxury and elegance. From yoga and spa experiences to nutrition workshops and artistic activities, every moment is thoughtfully curated to inspire renewal, reflection, and empowerment.",
+    "highlights": [
+      "Guided yoga and meditation sessions",
+      "Luxury spa and wellness treatments",
+      "Nutrition and holistic health workshops",
+      "Creative arts and journaling sessions",
+      "Curated dining experiences",
+      "Nature walks and mindful exploration"
+    ],
+    "image": "/images/bueno-scenic-sunset.webp"
+  },
+  {
+    "slug": "the-ascend",
+    "title": "The Ascend",
+    "tagline": "Men's Wellness Retreat",
+    "audience": "Men",
+    "heroImage": "/images/bueno-hot-air-balloon.webp",
+    "description": "Experience a bespoke retreat designed exclusively for men, blending adventure, fitness, mindfulness, and luxury leisure. From guided hikes and meditation sessions to curated workshops on personal growth and stress mastery, every detail is thoughtfully planned for balance, energy, and connection.",
+    "highlights": [
+      "Guided hikes and outdoor adventures",
+      "Fitness and strength training sessions",
+      "Meditation and mindfulness workshops",
+      "Personal growth and leadership seminars",
+      "Stress mastery and recovery techniques",
+      "Premium dining and leisure experiences"
+    ],
+    "image": "/images/bueno-hot-air-balloon.webp"
+  },
+  {
+    "slug": "the-harmony",
+    "title": "The Harmony",
+    "tagline": "Couples Wellness Retreat",
+    "audience": "Couples",
+    "heroImage": "/images/bueno-beach-lounging.webp",
+    "description": "Step into a bespoke retreat designed exclusively for couples, where connection, wellness, and luxury come together. Every detail is thoughtfully curated to nurture intimacy, relaxation, and shared experiences — from serene spa sessions to guided adventures and romantic dining under the stars.",
+    "highlights": [
+      "Couples spa and massage sessions",
+      "Guided adventures and nature exploration",
+      "Romantic dining under the stars",
+      "Wellness and mindfulness workshops",
+      "Creative bonding activities",
+      "Private scenic excursions"
+    ],
+    "image": "/images/bueno-beach-lounging.webp"
+  }
+]

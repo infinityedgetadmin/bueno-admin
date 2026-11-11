@@ -1,0 +1,4447 @@
+[
+  {
+    "slug": "maasai-mara-3-day-safari",
+    "name": "Maasai Mara 3-Day Safari",
+    "category": "classic-safari",
+    "region": "Maasai Mara, Narok County",
+    "description": "Experience Kenya's crown jewel on a three-day safari through the Maasai Mara National Reserve. Witness vast herds of wildebeest, zebra, and gazelle roaming golden plains patrolled by big cats and elephants. During the Great Migration season (July-October), over two million animals cross the Mara River in one of nature's most breathtaking spectacles.",
+    "shortDescription": "Three-day game drive adventure through Kenya's iconic Maasai Mara, home to the Big Five and the Great Migration.",
+    "duration": "3 days",
+    "bestSeason": "Year-round (peak Jul-Oct for Great Migration)",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 300,
+      "max": 6900,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$300 - $6,900 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "First-time safari visitors",
+      "Couples",
+      "Families",
+      "Photographers",
+      "Luxury travellers"
+    ],
+    "operators": [
+      "Governors' Camp Collection",
+      "andBeyond",
+      "Angama Mara",
+      "Basecamp Explorer",
+      "Saruni Mara"
+    ],
+    "image": "/images/bueno-wildebeest-migration.webp",
+    "highlights": [
+      "Big Five game drives across the Mara's sweeping plains",
+      "Mara River crossing during the Great Migration (Jul-Oct)",
+      "Exclusive lodge or tented camp accommodation",
+      "Sundowner cocktails on the savanna at golden hour",
+      "Expert Maasai naturalist guides with decades of experience"
+    ],
+    "notes": "Budget safaris use shared 4x4 vehicles and basic camps; luxury tiers include private vehicles, fly-in transfers, and all-inclusive lodges. Book 3-6 months ahead for peak migration season (July-October).",
+    "placeholder": false
+  },
+  {
+    "slug": "amboseli-safari-experience",
+    "name": "Amboseli Safari Experience",
+    "category": "classic-safari",
+    "region": "Amboseli, Kajiado County",
+    "description": "Set against the magnificent backdrop of Mount Kilimanjaro, Amboseli National Park is famous for its large elephant herds and sweeping panoramas. Game drives here offer front-row views of elephants silhouetted against Africa's highest peak, alongside buffalo, hippo, and an impressive array of birdlife in the park's seasonal wetlands.",
+    "shortDescription": "Safari through Amboseli with stunning Kilimanjaro views and some of Kenya's largest elephant herds.",
+    "duration": "2-3 days",
+    "bestSeason": "June to October (dry season, best visibility of Kilimanjaro)",
+    "peakMonths": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 350,
+      "max": 1300,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$350 - $1,300 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Photographers",
+      "Families",
+      "Elephant enthusiasts",
+      "Couples"
+    ],
+    "operators": [
+      "Tortilis Camp",
+      "Ol Tukai Lodge",
+      "Amboseli Serena Safari Lodge",
+      "Tawi Lodge"
+    ],
+    "image": "/images/bueno-elephants-sunrise.webp",
+    "highlights": [
+      "Massive elephant herds with Mount Kilimanjaro as backdrop",
+      "Observation Hill panoramic viewpoint over the park",
+      "Wetland birdwatching with 400+ species recorded",
+      "Maasai cultural visits in surrounding group ranches",
+      "Sunrise and sunset game drives for optimal photography"
+    ],
+    "notes": "Kilimanjaro is best viewed in the early morning before clouds build. The park can be combined with Tsavo for a longer safari circuit. Afternoon haze is common. Plan photography for dawn.",
+    "placeholder": false
+  },
+  {
+    "slug": "tsavo-safari-adventure",
+    "name": "Tsavo Safari Adventure",
+    "category": "classic-safari",
+    "region": "Tsavo East & West, Coast Province",
+    "description": "Explore one of the world's largest wildlife sanctuaries spanning Tsavo East and Tsavo West together, covering over 20,000 square kilometres of red-earth wilderness. Tsavo East's open plains host vast herds of red-dusted elephants, while Tsavo West's volcanic landscapes harbour the crystal-clear Mzima Springs, where hippos and crocodiles glide through underwater viewing chambers.",
+    "shortDescription": "Vast wilderness safari across Tsavo East and West featuring red elephants, volcanic landscapes, and Mzima Springs.",
+    "duration": "2-3 days",
+    "bestSeason": "June to October (dry season, animals concentrate at water sources)",
+    "peakMonths": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 300,
+      "max": 1000,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$300 - $1,000 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Adventure seekers",
+      "Budget travellers",
+      "Wildlife enthusiasts",
+      "History buffs"
+    ],
+    "operators": [
+      "Sarova Salt Lick Game Lodge",
+      "Kilaguni Serena Safari Lodge",
+      "Finch Hattons Luxury Camp",
+      "Voi Safari Lodge"
+    ],
+    "image": "/images/bueno-lion-mara.webp",
+    "highlights": [
+      "Famous red-dusted elephants of Tsavo East",
+      "Mzima Springs underwater hippo and crocodile viewing",
+      "Shetani Lava Flow volcanic landscapes in Tsavo West",
+      "Man-eaters of Tsavo historical sites",
+      "Lugard Falls and the Galana River game viewing"
+    ],
+    "notes": "Tsavo East is flatter and drier with better elephant sightings; Tsavo West is hillier and more scenic. The parks are conveniently located between Nairobi and Mombasa, making them ideal for safari-and-beach combinations.",
+    "placeholder": false
+  },
+  {
+    "slug": "samburu-wildlife-safari",
+    "name": "Samburu Wildlife Safari",
+    "category": "classic-safari",
+    "region": "Samburu, Isiolo County",
+    "description": "Journey to the remote semi-arid landscapes of Samburu National Reserve to encounter the 'Samburu Special Five': Grevy's zebra, reticulated giraffe, Somali ostrich, gerenuk, and Beisa oryx. These species are found nowhere else in Kenya's popular safari circuit. The Ewaso Ng'iro River bisects the reserve, drawing dense concentrations of wildlife to its palm-lined banks.",
+    "shortDescription": "Discover rare wildlife species in the stunning semi-arid landscapes of northern Kenya's Samburu Reserve.",
+    "duration": "2-3 days",
+    "bestSeason": "July to October (dry season, best game viewing)",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 350,
+      "max": 1500,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$350 - $1,500 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Experienced safari-goers",
+      "Photographers",
+      "Birders",
+      "Couples seeking exclusivity"
+    ],
+    "operators": [
+      "Saruni Samburu",
+      "Elephant Bedroom Camp",
+      "Samburu Intrepids",
+      "Sasaab Lodge"
+    ],
+    "image": "/images/bueno-leopard.webp",
+    "highlights": [
+      "The Samburu Special Five: unique northern species",
+      "Ewaso Ng'iro River game viewing from camp verandas",
+      "Leopard sightings: Samburu has one of the highest densities",
+      "Samburu warrior-led cultural experiences",
+      "Fewer crowds than the Mara for an intimate bush feel"
+    ],
+    "notes": "Samburu is approximately 5-6 hours' drive from Nairobi or a short charter flight. Temperatures can exceed 35 °C. Light, breathable clothing and sun protection are essential. Best combined with Laikipia for a comprehensive northern Kenya circuit.",
+    "placeholder": false
+  },
+  {
+    "slug": "lake-nakuru-safari",
+    "name": "Lake Nakuru Safari",
+    "category": "classic-safari",
+    "region": "Lake Nakuru, Nakuru County",
+    "description": "Lake Nakuru National Park, a UNESCO World Heritage Site, is renowned for its dramatic flamingo congregations and as a sanctuary for both black and white rhinos. The alkaline lake's shallow waters attract millions of lesser flamingos that paint the shoreline pink, while the surrounding acacia woodland provides habitat for leopard, lion, and Rothschild's giraffe.",
+    "shortDescription": "Rhino sanctuary and flamingo spectacle at Lake Nakuru, a compact but wildlife-rich national park.",
+    "duration": "1-2 days",
+    "bestSeason": "June to October (dry season)",
+    "peakMonths": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 250,
+      "max": 800,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$250 - $800 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Birders",
+      "Short-stay visitors",
+      "Families",
+      "Photographers"
+    ],
+    "operators": [
+      "Lake Nakuru Lodge",
+      "Sarova Lion Hill Game Lodge",
+      "Flamingo Hill Tented Camp"
+    ],
+    "image": "/images/bueno-rhino-nairobi.webp",
+    "highlights": [
+      "Millions of flamingos carpeting the alkaline lake shore",
+      "Black and white rhino sighting opportunities",
+      "Rothschild's giraffe: one of the most endangered subspecies",
+      "Baboon Cliff panoramic viewpoint over the lake",
+      "Compact park ideal for a one-day safari"
+    ],
+    "notes": "Flamingo numbers vary with water levels and algae bloom cycles. They may move to other Rift Valley lakes such as Bogoria. The park is just 2 hours from Nairobi, making it ideal for a day trip or overnight. Entry is $60 for non-residents.",
+    "placeholder": false
+  },
+  {
+    "slug": "walking-safari-conservancy",
+    "name": "Walking Safari (Conservancy)",
+    "category": "classic-safari",
+    "region": "Laikipia, Mara Conservancies, Samburu",
+    "description": "Step out of the vehicle and into the African bush on a guided walking safari through a private conservancy. Led by armed rangers and expert trackers, these intimate foot patrols bring you face-to-face with the sights, sounds, and scents that a game drive can never capture. Learn from tracking elephant spoor to identifying medicinal plants used by local communities.",
+    "shortDescription": "Guided bush walk through a private conservancy for an intimate, on-foot wildlife experience.",
+    "duration": "Half day to full day",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 150,
+      "max": 200,
+      "currency": "USD",
+      "unit": "per day"
+    },
+    "priceDisplay": "$150 - $200 per day",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Adventure seekers",
+      "Repeat safari visitors",
+      "Nature enthusiasts",
+      "Photographers"
+    ],
+    "operators": [
+      "Ol Pejeta Conservancy",
+      "Lewa Wildlife Conservancy",
+      "Naboisho Conservancy",
+      "Il Ngwesi"
+    ],
+    "image": "/images/bueno-giraffes-savannah.webp",
+    "highlights": [
+      "Track wildlife on foot with expert Maasai or Samburu guides",
+      "Learn bush survival skills and traditional plant identification",
+      "Intimate small-group experience (max 6-8 guests)",
+      "Close encounters with smaller wildlife missed from vehicles",
+      "Photography from unique ground-level perspectives"
+    ],
+    "notes": "Walking safaris are only permitted in conservancies, not in national parks/reserves. Minimum age typically 12-16 years depending on operator. A moderate level of fitness is required. Long trousers, closed shoes, and neutral-coloured clothing are mandatory.",
+    "placeholder": false
+  },
+  {
+    "slug": "night-game-drive",
+    "name": "Night Game Drive",
+    "category": "classic-safari",
+    "region": "Private Conservancies (Mara, Laikipia, Samburu)",
+    "description": "Venture into the African night on a spotlight-equipped game drive to discover the elusive nocturnal world that remains hidden during the day. Night drives reveal leopards on the prowl, aardvarks emerging from burrows, bush babies leaping through the canopy, and the haunting calls of hyenas echoing across the plains.",
+    "shortDescription": "Spotlight-guided nocturnal safari to encounter leopards, aardvarks, and other elusive night creatures.",
+    "duration": "2-3 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 60,
+      "max": 120,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$60 - $120 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Wildlife enthusiasts",
+      "Families",
+      "Photographers",
+      "Adventure seekers"
+    ],
+    "operators": [
+      "Governors' Camp",
+      "Ol Pejeta Conservancy",
+      "Solio Ranch",
+      "Lewa Wildlife Conservancy"
+    ],
+    "image": "/images/bueno-lions-golden-hour.webp",
+    "highlights": [
+      "Spot nocturnal predators: leopard, hyena, civet, and genet",
+      "Aardvark and pangolin sightings (rare but possible)",
+      "Bush baby and nightjar encounters in the canopy",
+      "Star-studded African sky far from city light pollution",
+      "A completely different perspective on the bush"
+    ],
+    "notes": "Night drives are not allowed in national parks. They are exclusive to private conservancies. A warm jacket is essential as temperatures drop significantly after dark. Red-filter spotlights are used to avoid disturbing the animals.",
+    "placeholder": false
+  },
+  {
+    "slug": "photographic-safari",
+    "name": "Photographic Safari",
+    "category": "classic-safari",
+    "region": "Maasai Mara, Amboseli, Samburu, Laikipia",
+    "description": "Designed for photography enthusiasts, these specialised safaris use custom-modified vehicles with swivel seats, bean-bag mounts, and pop-up roofs for unobstructed shooting angles. Expert photography guides position you for the best light and composition, with game drives timed around the golden hours of dawn and dusk when the African light is at its most dramatic.",
+    "shortDescription": "Specialist safari in custom photography vehicles with expert guides, timed for optimal golden-hour light.",
+    "duration": "3-7 days",
+    "bestSeason": "July to October (Great Migration, dry landscapes, clear light)",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 500,
+      "max": 3500,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$500 - $3,500 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Photographers (amateur to professional)",
+      "Photography tour groups",
+      "Content creators"
+    ],
+    "operators": [
+      "Wild Eye (Paul Goldstein)",
+      "C4 Images & Safaris",
+      "Governors' Photo Camp",
+      "Angama Mara"
+    ],
+    "image": "/images/bueno-cheetah-safari.webp",
+    "highlights": [
+      "Custom photography vehicles with bean-bag mounts and USB charging",
+      "Expert photography guide for composition and wildlife behaviour tips",
+      "Extended golden-hour game drives (no rush back for meals)",
+      "Access to private conservancies with fewer vehicles",
+      "Post-processing workshops at camp during midday downtime"
+    ],
+    "notes": "Bring your own camera gear. Some operators offer lens rental. Download speeds at remote camps are limited, so bring sufficient memory cards. A 200-400mm telephoto lens is ideal for most wildlife photography. Some operators offer drone photography by special permit.",
+    "placeholder": false
+  },
+  {
+    "slug": "meru-national-park-safari",
+    "name": "Meru National Park Safari",
+    "category": "classic-safari",
+    "region": "Meru, Eastern Kenya",
+    "description": "Follow in the footsteps of Joy and George Adamson at Meru National Park, the setting of the classic 'Born Free' story. This underrated gem offers lush landscapes of palm-fringed rivers, dense bush, and open grassland supporting all the Big Five. With a fraction of the visitor traffic found in more popular parks, Meru's remoteness is its greatest asset.",
+    "shortDescription": "Uncrowded 'Born Free' country . lush riverine landscapes and all the Big Five at Meru National Park.",
+    "duration": "2-3 days",
+    "bestSeason": "July to October (dry season)",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 300,
+      "max": 800,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$300 - $800 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Off-the-beaten-track travellers",
+      "Wildlife enthusiasts",
+      "Couples seeking seclusion"
+    ],
+    "operators": [
+      "Elsa's Kopje (now Meru Wilderness Camp)",
+      "Ikweta Safari Camp",
+      "Leopard Rock Lodge"
+    ],
+    "image": "/images/bueno-hippo-mara.webp",
+    "highlights": [
+      "Born Free legacy . Elsa the lioness memorial and Adamson sites",
+      "Big Five sightings with very few other vehicles around",
+      "Thirteen rivers create lush, palm-fringed game-viewing corridors",
+      "White rhino sanctuary within the park",
+      "Diverse landscapes from grassland to riverine forest"
+    ],
+    "notes": "Meru is roughly 4 hours' drive northeast of Nairobi or accessible by charter flight. Roads inside the park can be rough, especially in the wet season. The park is being actively rehabilitated and wildlife numbers are increasing steadily.",
+    "placeholder": false
+  },
+  {
+    "slug": "laikipia-conservancy-safari",
+    "name": "Laikipia Conservancy Safari",
+    "category": "classic-safari",
+    "region": "Laikipia Plateau, Central Kenya",
+    "description": "The Laikipia Plateau is Kenya's conservation success story . a patchwork of private and community conservancies that together support the country's second-largest elephant population and highest density of endangered black rhinos. Safaris here go beyond standard game drives, offering walking safaris, horseback rides, camel treks, and night drives in a landscape of dramatic escarpments and sweeping highland plains.",
+    "shortDescription": "Multi-activity safari on the Laikipia Plateau . walks, rides, night drives, and rhino conservation.",
+    "duration": "2-5 days",
+    "bestSeason": "Year-round (no single peak . Laikipia is consistently excellent)",
+    "peakMonths": [
+      "January",
+      "February",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 400,
+      "max": 2000,
+      "currency": "USD",
+      "unit": "per night"
+    },
+    "priceDisplay": "$400 - $2,000 per night",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Conservation-minded travellers",
+      "Families",
+      "Multi-activity seekers",
+      "Repeat visitors to Kenya"
+    ],
+    "operators": [
+      "Ol Pejeta Conservancy",
+      "Lewa Wildlife Conservancy",
+      "Borana Conservancy",
+      "Segera Retreat",
+      "Solio Ranch"
+    ],
+    "image": "/images/bueno-impala-wildlife.webp",
+    "highlights": [
+      "Highest black rhino density in East Africa",
+      "Multi-activity options: walk, ride, drive, and fly",
+      "Community conservancy model supporting local livelihoods",
+      "Night drives and walking safaris permitted (unlike national parks)",
+      "Dramatic Mt Kenya backdrop on clear days"
+    ],
+    "notes": "Laikipia conservancies are all-inclusive . rates typically cover accommodation, meals, drinks, conservancy fees, and activities. Most are accessed via light aircraft from Nairobi's Wilson Airport (45-60 min). Each conservancy has its own character and specialisation.",
+    "placeholder": false
+  },
+  {
+    "slug": "snorkeling-watamu-marine-park",
+    "name": "Snorkeling Watamu Marine Park",
+    "category": "beach-coastal",
+    "region": "Watamu, Kilifi County",
+    "description": "Glide over vibrant coral gardens in Watamu Marine National Park, one of Kenya's oldest and most pristine marine protected areas. The park's shallow reefs teem with parrotfish, angelfish, moray eels, and sea turtles, all visible in crystal-clear water just metres from the shore. Glass-bottom boats ferry snorkelers to the best coral heads.",
+    "shortDescription": "Snorkel over pristine coral reefs teeming with tropical fish and sea turtles in Watamu Marine Park.",
+    "duration": "4-6 hours",
+    "bestSeason": "October to March (calmest seas, best visibility)",
+    "peakMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 30,
+      "max": 50,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$30 - $50 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families",
+      "Couples",
+      "Snorkeling beginners",
+      "Nature lovers"
+    ],
+    "operators": [
+      "Watamu Marine Association",
+      "Aqua Ventures Watamu",
+      "Blue Bay Dive & Watersports"
+    ],
+    "image": "/images/bueno-snorkeling.webp",
+    "highlights": [
+      "Coral garden snorkeling in protected marine park waters",
+      "Green and hawksbill sea turtle encounters",
+      "Colourful reef fish including parrotfish and butterflyfish",
+      "Glass-bottom boat ride to the reef",
+      "Lunch on a sandbar between snorkel sessions"
+    ],
+    "notes": "Park entry fee of $12 (non-resident) applies on top of boat/guide costs. Snorkel gear is usually provided. The best visibility is during the northeast monsoon (Oct-Mar); during the southeast monsoon (Apr-Sep) seas can be rough and some operators pause trips.",
+    "placeholder": false
+  },
+  {
+    "slug": "snorkeling-kisite-mpunguti",
+    "name": "Snorkeling Kisite-Mpunguti",
+    "category": "beach-coastal",
+    "region": "Shimoni, Kwale County",
+    "description": "Journey to Kenya's southernmost marine park for what many consider the country's finest snorkeling. Kisite-Mpunguti Marine Park protects pristine coral reefs and a resident pod of bottlenose dolphins. The boat ride from Shimoni village passes mangrove-fringed channels and small islands before reaching gin-clear waters alive with manta rays, whale sharks (seasonal), and hundreds of reef fish species.",
+    "shortDescription": "Kenya's premier snorkeling destination . dolphins, pristine reefs, and crystal-clear waters at Kisite-Mpunguti.",
+    "duration": "Full day",
+    "bestSeason": "October to March (calm seas, best visibility)",
+    "peakMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 68,
+      "max": 120,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$68 - $120 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Snorkeling enthusiasts",
+      "Marine life lovers",
+      "Families",
+      "Day-trippers from Diani"
+    ],
+    "operators": [
+      "Pilli Pipa Dhow Safaris",
+      "Charlie Claw's",
+      "Kisite Dhow Tours"
+    ],
+    "image": "/images/bueno-coral-reef.webp",
+    "highlights": [
+      "Resident pod of Indo-Pacific bottlenose dolphins",
+      "Some of Kenya's healthiest and most colourful coral reefs",
+      "Seasonal whale shark and manta ray sightings",
+      "Seafood lunch on Wasini Island included in most packages",
+      "Scenic dhow boat ride through mangrove channels"
+    ],
+    "notes": "Trips depart from Shimoni, about 1.5 hours south of Diani Beach. Most packages include transport from Diani, boat trip, snorkel gear, park fees, and lunch on Wasini Island. Not operational during heavy southeast monsoon (roughly June-September).",
+    "placeholder": false
+  },
+  {
+    "slug": "padi-open-water-course",
+    "name": "PADI Open Water Course",
+    "category": "beach-coastal",
+    "region": "Diani, Watamu, Malindi",
+    "description": "Earn your PADI Open Water certification in the warm, clear waters of Kenya's Indian Ocean coast. Over three to four days, you'll progress from pool skills to open-water dives on coral reefs, completing four ocean dives that qualify you to dive independently to 18 metres worldwide. Kenya's year-round warm water (26-30 °C) makes it one of the most comfortable places on Earth to learn.",
+    "shortDescription": "Earn your PADI Open Water diving certification on Kenya's warm coral reefs over 3-4 days.",
+    "duration": "3-4 days",
+    "bestSeason": "November to April (best visibility, calmest seas)",
+    "peakMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "priceRange": {
+      "min": 499,
+      "max": 595,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$499 - $595 per person",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Dive beginners",
+      "Gap-year travellers",
+      "Couples",
+      "Adventure seekers"
+    ],
+    "operators": [
+      "Diving the Crab (Diani)",
+      "Aqua Ventures (Watamu)",
+      "Buccaneer Diving (Diani)",
+      "Blue Fin Diving (Watamu)"
+    ],
+    "image": "/images/bueno-beach-dining.webp",
+    "highlights": [
+      "Internationally recognised PADI certification valid worldwide",
+      "Warm water (26-30 °C) . no wetsuit stress",
+      "Coral reef dives with tropical fish, turtles, and rays",
+      "Small class sizes (max 4 students per instructor)",
+      "E-learning option to complete theory before arrival"
+    ],
+    "notes": "Minimum age 10 years (Junior Open Water) or 15 years for full certification. A medical self-declaration is required; certain conditions need physician clearance. Allow 24 hours after your last dive before flying. All equipment is provided.",
+    "placeholder": false
+  },
+  {
+    "slug": "padi-discover-scuba",
+    "name": "PADI Discover Scuba Diving",
+    "category": "beach-coastal",
+    "region": "Diani, Watamu, Malindi",
+    "description": "Try scuba diving without committing to a full course on a PADI Discover Scuba Diving experience. After a short pool briefing, you'll descend onto a shallow coral reef with an instructor by your side at all times. It is the perfect introduction for anyone curious about the underwater world . no prior experience needed, just a sense of adventure.",
+    "shortDescription": "Try scuba diving for the first time with an instructor on a shallow coral reef . no experience needed.",
+    "duration": "1 day",
+    "bestSeason": "Year-round (best visibility Nov-Apr)",
+    "peakMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "priceRange": {
+      "min": 140,
+      "max": 180,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$140 - $180 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Non-divers",
+      "Families with older children",
+      "Curious travellers",
+      "Resort guests"
+    ],
+    "operators": [
+      "Diving the Crab (Diani)",
+      "Aqua Ventures (Watamu)",
+      "Buccaneer Diving (Diani)"
+    ],
+    "image": "/images/bueno-coral-reef.webp",
+    "highlights": [
+      "No certification or experience required",
+      "One-on-one instructor supervision throughout",
+      "Shallow reef dive (max 12m depth)",
+      "Encounter tropical fish, sea stars, and corals",
+      "Credits toward full Open Water course if you continue"
+    ],
+    "notes": "Minimum age 10 years. Participants must be comfortable in water but do not need to be strong swimmers. Medical questionnaire required. The experience does not certify you . it is an introductory taste. Allow 24 hours before flying after diving.",
+    "placeholder": false
+  },
+  {
+    "slug": "deep-sea-fishing-watamu",
+    "name": "Deep-Sea Fishing Watamu",
+    "category": "beach-coastal",
+    "region": "Watamu, Kilifi County",
+    "description": "Watamu is East Africa's premier deep-sea fishing destination, with productive offshore waters that have yielded multiple world records for marlin, sailfish, and yellowfin tuna. Charter a fully equipped sport-fishing boat and head to the continental shelf drop-off, just 15-20 nautical miles offshore, where the big pelagics patrol the deep blue.",
+    "shortDescription": "World-class deep-sea fishing off Watamu . marlin, sailfish, and tuna on the continental shelf.",
+    "duration": "5-10 hours",
+    "bestSeason": "Year-round (peak Aug-Apr for billfish)",
+    "peakMonths": [
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "priceRange": {
+      "min": 250,
+      "max": 1500,
+      "currency": "USD",
+      "unit": "per boat"
+    },
+    "priceDisplay": "$250 - $1,500 per boat",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Sport-fishing enthusiasts",
+      "Groups of friends",
+      "Corporate outings",
+      "Families"
+    ],
+    "operators": [
+      "Hemingways Watamu",
+      "Alleycat Fishing Charters",
+      "Kingfisher Boats"
+    ],
+    "image": "/images/bueno-dhow-zanzibar.webp",
+    "highlights": [
+      "World-record fishing grounds for marlin and sailfish",
+      "Short run (15-20 nm) to the continental shelf drop-off",
+      "Tag-and-release ethos for billfish conservation",
+      "Full equipment and experienced crew included",
+      "Combine with snorkeling or beach time for a full day"
+    ],
+    "notes": "Boats range from 25-foot open boats (budget) to 45-foot sportfishers (luxury). Tag-and-release is standard for billfish. Prices are per boat, not per person . most accommodate 4-6 anglers. Bring sunscreen, hat, and polarised sunglasses.",
+    "placeholder": false
+  },
+  {
+    "slug": "deep-sea-fishing-diani",
+    "name": "Deep-Sea Fishing Diani",
+    "category": "beach-coastal",
+    "region": "Diani Beach, Kwale County",
+    "description": "Head offshore from Diani Beach aboard a chartered sport-fishing vessel to target sailfish, marlin, wahoo, dorado, and kingfish in the deep Pemba Channel. Diani's proximity to the Shimoni deep-water channel makes for productive fishing year-round, with experienced skippers who know every ledge and current.",
+    "shortDescription": "Offshore sport fishing from Diani Beach . sailfish, marlin, and wahoo in the Pemba Channel.",
+    "duration": "5-9 hours",
+    "bestSeason": "Year-round (best Nov-Mar for billfish)",
+    "peakMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 415,
+      "max": 635,
+      "currency": "USD",
+      "unit": "per boat"
+    },
+    "priceDisplay": "$415 - $635 per boat",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Sport-fishing enthusiasts",
+      "Holiday-makers seeking half-day activities",
+      "Groups"
+    ],
+    "operators": [
+      "Diani Marine",
+      "Nomad Beach Bar & Fishing",
+      "Pilli Pipa Fishing"
+    ],
+    "image": "/images/bueno-beach-lounging.webp",
+    "highlights": [
+      "Access to the productive Pemba Channel fishing grounds",
+      "Half-day and full-day charter options",
+      "Wahoo, dorado, tuna, and billfish depending on season",
+      "All tackle, bait, and crew included",
+      "Easy transfers from Diani Beach hotels"
+    ],
+    "notes": "Half-day trips (5 hours) focus on reef and mid-water species; full-day trips (9 hours) reach the deep channel for billfish. Price is per boat. Book at least a day in advance during high season (Dec-Jan). Bring seasickness medication if prone.",
+    "placeholder": false
+  },
+  {
+    "slug": "whale-shark-encounter",
+    "name": "Whale Shark Encounter",
+    "category": "beach-coastal",
+    "region": "Diani, Watamu, Kilifi Coast",
+    "description": "Swim alongside the world's largest fish . the gentle whale shark . in the warm waters off Kenya's coast. These magnificent creatures, reaching up to 12 metres in length, visit Kenya's coastal waters seasonally to feed on plankton blooms. Guided snorkel encounters are conducted ethically with strict approach protocols to minimise disturbance to these endangered animals.",
+    "shortDescription": "Snorkel alongside gentle whale sharks off Kenya's coast during the seasonal plankton migration.",
+    "duration": "4 hours",
+    "bestSeason": "October to March (peak January-February)",
+    "peakMonths": [
+      "January",
+      "February"
+    ],
+    "priceRange": {
+      "min": 150,
+      "max": 220,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$150 - $220 per person",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Marine wildlife enthusiasts",
+      "Adventurous snorkelers",
+      "Photographers",
+      "Bucket-list travellers"
+    ],
+    "operators": [
+      "Watamu Marine Association",
+      "Aqua Ventures Watamu",
+      "Diani Marine Village"
+    ],
+    "image": "/images/bueno-snorkeling.webp",
+    "highlights": [
+      "Swim with the world's largest fish (up to 12m long)",
+      "Ethical encounters following international best-practice protocols",
+      "Seasonal event . a genuine bucket-list experience",
+      "Marine biologist briefing before each encounter",
+      "Underwater photography opportunities"
+    ],
+    "notes": "Sightings are not guaranteed as whale sharks are wild animals; success rates are highest in January-February. Strong swimming ability required. No touching or riding the animals. Operators use spotter boats and sometimes light aircraft to locate sharks. Minimum age typically 10-12 years.",
+    "placeholder": false
+  },
+  {
+    "slug": "dolphin-watching",
+    "name": "Dolphin Watching",
+    "category": "beach-coastal",
+    "region": "Shimoni, Kisite-Mpunguti, Watamu",
+    "description": "Board a traditional dhow or motorboat and cruise to dolphin hotspots along the Kenya coast. Resident pods of Indo-Pacific bottlenose and spinner dolphins are regularly encountered, often approaching boats with playful curiosity. Many trips offer the chance to slip into the water and snorkel alongside the dolphins in their natural habitat.",
+    "shortDescription": "Boat trip to encounter resident dolphin pods along Kenya's coast, with optional in-water snorkeling.",
+    "duration": "Full day",
+    "bestSeason": "Year-round (calmest seas Oct-Mar)",
+    "peakMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 68,
+      "max": 120,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$68 - $120 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families",
+      "Marine life enthusiasts",
+      "Couples",
+      "Photographers"
+    ],
+    "operators": [
+      "Pilli Pipa Dhow Safaris",
+      "Charlie Claw's",
+      "Wasini Island Tours"
+    ],
+    "image": "/images/bueno-dhow-zanzibar.webp",
+    "highlights": [
+      "Bottlenose and spinner dolphin encounters",
+      "Optional in-water snorkeling with dolphins",
+      "Traditional dhow sailing experience",
+      "Often combined with Kisite-Mpunguti reef snorkeling",
+      "Seafood lunch on Wasini Island"
+    ],
+    "notes": "Most dolphin trips are combined with Kisite-Mpunguti snorkeling and Wasini Island lunch. Dolphin sighting rates are high (80%+) but not guaranteed. Ethical operators maintain safe distances and do not chase pods. Trips are weather-dependent . seas can be rough June-September.",
+    "placeholder": false
+  },
+  {
+    "slug": "glass-bottom-boat-tour",
+    "name": "Glass-Bottom Boat Tour",
+    "category": "beach-coastal",
+    "region": "Diani, Watamu, Malindi, Mombasa",
+    "description": "See the colourful underwater world without getting wet aboard a glass-bottom boat gliding over Kenya's coral reefs. Perfect for non-swimmers and families with young children, these boats feature transparent viewing panels that reveal parrotfish, starfish, sea urchins, and coral formations in vivid detail just a metre below the hull.",
+    "shortDescription": "View coral reefs and tropical fish through a glass-bottom boat . perfect for non-swimmers and families.",
+    "duration": "1.5-4 hours",
+    "bestSeason": "Year-round (best visibility Oct-Mar)",
+    "peakMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 15,
+      "max": 44,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$15 - $44 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families with young children",
+      "Non-swimmers",
+      "Elderly visitors",
+      "Budget travellers"
+    ],
+    "operators": [
+      "Diani Beach operators",
+      "Watamu Marine Park boats",
+      "Malindi Marine Park boats"
+    ],
+    "image": "/images/bueno-coral-reef.webp",
+    "highlights": [
+      "No swimming or snorkeling required . view from the boat",
+      "Suitable for all ages including small children",
+      "Colourful coral gardens and tropical reef fish",
+      "Marine park entry fee often included",
+      "Combine with a beach picnic on a sandbar"
+    ],
+    "notes": "Marine park fees ($12-15 per non-resident adult) may be extra depending on the operator. Best at high tide when water is deeper over the reefs. Shorter trips (1.5 hrs) are available in Diani; longer tours (4 hrs) often include snorkeling stops.",
+    "placeholder": false
+  },
+  {
+    "slug": "dhow-sunset-cruise-lamu",
+    "name": "Dhow Sunset Cruise Lamu",
+    "category": "beach-coastal",
+    "region": "Lamu Archipelago",
+    "description": "Sail into the golden Indian Ocean sunset aboard a traditional Lamu dhow, handcrafted from mangrove wood using centuries-old techniques. As the sky shifts from amber to deep violet, sip sundowner drinks and watch the ancient stone waterfront of Lamu Town glow in the fading light . a scene virtually unchanged since the 14th century.",
+    "shortDescription": "Traditional dhow sunset sail through Lamu's ancient waterfront . sundowners on the Indian Ocean.",
+    "duration": "2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 20,
+      "max": 50,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$20 - $50 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Couples",
+      "Honeymoon travellers",
+      "Photographers",
+      "Culture enthusiasts"
+    ],
+    "operators": [
+      "Peponi Hotel",
+      "Lamu Palace Hotel",
+      "Local dhow captains (arranged through hotels)"
+    ],
+    "image": "/images/bueno-scenic-sunset.webp",
+    "highlights": [
+      "Traditional handcrafted mangrove-wood dhow sailing",
+      "Stunning Indian Ocean sunset views",
+      "Views of Lamu's UNESCO World Heritage waterfront",
+      "Sundowner drinks and snacks on board",
+      "Intimate experience with small group (2-8 guests)"
+    ],
+    "notes": "Dhows are wind-powered with no engine . departure times depend on tides and wind conditions. Some operators add a small motor for reliability. Life jackets are provided but facilities are basic. Bring a light layer as ocean breezes can be cool after sunset.",
+    "placeholder": false
+  },
+  {
+    "slug": "dhow-full-day-trip-lamu",
+    "name": "Dhow Full-Day Trip Lamu",
+    "category": "beach-coastal",
+    "region": "Lamu Archipelago",
+    "description": "Spend an entire day sailing the Lamu Archipelago aboard a traditional dhow, visiting deserted sandbanks, snorkeling over coral reefs, and feasting on freshly grilled seafood prepared by your dhow crew on a private beach. The route typically includes Manda Island, Shela Beach, and hidden mangrove channels teeming with birdlife.",
+    "shortDescription": "Full-day dhow sailing adventure around Lamu's islands with snorkeling, sandbanks, and fresh seafood.",
+    "duration": "Full day",
+    "bestSeason": "Year-round (calmest Nov-Mar)",
+    "peakMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 100,
+      "max": 200,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$100 - $200 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Island explorers",
+      "Families",
+      "Couples",
+      "Snorkeling enthusiasts"
+    ],
+    "operators": [
+      "Peponi Hotel",
+      "Majlis Hotel",
+      "Banana House & Wellness Centre"
+    ],
+    "image": "/images/bueno-dhow-zanzibar.webp",
+    "highlights": [
+      "Island-hopping through the Lamu Archipelago",
+      "Snorkeling over pristine coral reefs",
+      "Freshly grilled seafood lunch on a deserted sandbank",
+      "Mangrove channel cruising and birdwatching",
+      "Manda Island and Shela Beach exploration"
+    ],
+    "notes": "Price usually includes crew, snorkel gear, and seafood lunch. Bring sunscreen, hat, towel, and waterproof bag for electronics. Trips are weather-dependent . rough seas during the Kaskazi or Kusi monsoons may limit sailing routes.",
+    "placeholder": false
+  },
+  {
+    "slug": "multi-day-dhow-safari",
+    "name": "Multi-Day Dhow Safari",
+    "category": "beach-coastal",
+    "region": "Lamu Archipelago",
+    "description": "Embark on a multi-day dhow expedition through the remote reaches of the Lamu Archipelago, sleeping on deserted islands under the stars and exploring uninhabited coastline that few travellers ever reach. These safaris follow the ancient trading routes of Swahili sailors, combining snorkeling, fishing, beachcombing, and island exploration into a true maritime adventure.",
+    "shortDescription": "Multi-day sailing expedition through the remote Lamu Archipelago . island camping, snorkeling, and Swahili culture.",
+    "duration": "2-3 nights",
+    "bestSeason": "October to March",
+    "peakMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 400,
+      "max": 600,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$400 - $600 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Adventurous travellers",
+      "Couples",
+      "Honeymooners",
+      "Off-the-beaten-track explorers"
+    ],
+    "operators": [
+      "Peponi Hotel",
+      "Banana House & Wellness Centre",
+      "Local dhow captains (bespoke arrangements)"
+    ],
+    "image": "/images/bueno-palm-beach.webp",
+    "highlights": [
+      "Sleep on deserted islands under the Milky Way",
+      "Snorkel pristine reefs far from tourist areas",
+      "Fresh seafood cooked on the beach by expert dhow crew",
+      "Follow ancient Swahili trading routes",
+      "Complete digital detox . no signal, no distractions"
+    ],
+    "notes": "Pack light . space on traditional dhows is limited. Sleeping is on deck or on the beach on mattresses provided by the crew. Toilet facilities are basic (bush or sea). Not recommended for those who require comfort. Best booked October-March when seas are calmest.",
+    "placeholder": false
+  },
+  {
+    "slug": "kitesurfing-lesson",
+    "name": "Kitesurfing Lesson",
+    "category": "water-sports",
+    "region": "Diani Beach, Che Shale, Watamu",
+    "description": "Harness the power of the Indian Ocean trade winds on a kitesurfing lesson at one of Kenya's premier kite beaches. Diani and Che Shale offer wide, flat lagoons with consistent side-onshore winds . ideal learning conditions. Professional IKO-certified instructors guide you from kite control on the beach through body-dragging to your first rides on the board.",
+    "shortDescription": "Learn to kitesurf on Kenya's wind-blessed coast with IKO-certified instructors in ideal lagoon conditions.",
+    "duration": "3 hours",
+    "bestSeason": "June to October (strongest, most consistent trade winds)",
+    "peakMonths": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 130,
+      "max": 215,
+      "currency": "USD",
+      "unit": "per lesson"
+    },
+    "priceDisplay": "$130 - $215 per lesson",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Water sports enthusiasts",
+      "Active travellers",
+      "Young couples",
+      "Solo adventurers"
+    ],
+    "operators": [
+      "H2O Extreme (Diani)",
+      "Kite Centre Diani",
+      "Che Shale Kite School"
+    ],
+    "image": "/images/bueno-beach-lounging.webp",
+    "highlights": [
+      "IKO-certified instruction with professional equipment",
+      "Flat, waist-deep lagoons for safe learning",
+      "Consistent trade winds (Jun-Oct and Dec-Mar)",
+      "One-on-one or small group instruction",
+      "Stunning beach setting with warm water"
+    ],
+    "notes": "No prior experience needed. Minimum age typically 12 years, minimum weight 40 kg. The best wind season is June-October (Kusi monsoon). A secondary wind season runs December-March (Kaskazi). Lessons include all equipment. Expect to need 6-12 hours of instruction before riding independently.",
+    "placeholder": false
+  },
+  {
+    "slug": "kitesurfing-3-day-course",
+    "name": "Kitesurfing 3-Day Course",
+    "category": "water-sports",
+    "region": "Diani Beach, Che Shale",
+    "description": "Commit to a three-day kitesurfing course and progress from complete beginner to riding independently. Over nine hours of structured instruction, you'll master kite theory, safety systems, body-dragging, water relaunching, and board riding. By day three, most students are cruising across the lagoon with the wind in their hair and a grin on their face.",
+    "shortDescription": "Three-day structured kitesurfing course . from zero to riding independently in Kenya's perfect lagoon conditions.",
+    "duration": "9 hours total (3 sessions)",
+    "bestSeason": "June to October",
+    "peakMonths": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 600,
+      "max": 750,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$600 - $750 per person",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Dedicated beginners",
+      "Active holiday-makers",
+      "Gap-year travellers"
+    ],
+    "operators": [
+      "H2O Extreme (Diani)",
+      "Kite Centre Diani",
+      "Che Shale Kite School"
+    ],
+    "image": "/images/bueno-palm-beach.webp",
+    "highlights": [
+      "Complete progression from beginner to independent riding",
+      "9 hours of professional IKO-certified instruction",
+      "All equipment included (kite, board, harness, wetsuit if needed)",
+      "Theory, safety, body-dragging, and board starts covered",
+      "IKO certification card upon completion"
+    ],
+    "notes": "Three consecutive days recommended but can be spread over a week if wind conditions require. Physical fitness helps . kitesurfing uses core and upper body. No prior experience needed. Most schools offer package discounts for the 3-day course vs. individual lessons.",
+    "placeholder": false
+  },
+  {
+    "slug": "stand-up-paddleboarding",
+    "name": "Stand-Up Paddleboarding",
+    "category": "water-sports",
+    "region": "Diani Beach, Watamu, Lamu",
+    "description": "Glide across Kenya's turquoise coastal waters on a stand-up paddleboard (SUP), one of the easiest and most relaxing water sports to pick up. Paddle over shallow reefs spotting fish below, explore mangrove creeks, or simply cruise along the beach at sunset. SUP is suitable for all ages and fitness levels.",
+    "shortDescription": "Relaxed stand-up paddleboarding over turquoise waters . spot fish, explore creeks, or cruise at sunset.",
+    "duration": "1 hour",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 20,
+      "max": 30,
+      "currency": "USD",
+      "unit": "per hour"
+    },
+    "priceDisplay": "$20 - $30 per hour",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families",
+      "Beginners",
+      "Fitness enthusiasts",
+      "All ages"
+    ],
+    "operators": [
+      "H2O Extreme (Diani)",
+      "Diani Beach water sports operators",
+      "Peponi Hotel (Lamu)"
+    ],
+    "image": "/images/bueno-beach-dining.webp",
+    "highlights": [
+      "Easy to learn . most people stand up within minutes",
+      "See reef fish and marine life beneath the board",
+      "Explore mangrove channels and hidden coves",
+      "Great core workout disguised as fun",
+      "Sunset SUP sessions available"
+    ],
+    "notes": "Boards and paddles are provided. Life jackets available on request. Calm mornings and evenings offer the flattest water. Reef shoes recommended. No experience necessary . a brief orientation is given before each rental.",
+    "placeholder": false
+  },
+  {
+    "slug": "jet-ski-experience",
+    "name": "Jet Ski Experience",
+    "category": "water-sports",
+    "region": "Diani Beach, Mombasa, Watamu",
+    "description": "Feel the rush of adrenaline as you throttle across the Indian Ocean on a high-powered jet ski. Speed along the coast with the spray in your face, perform sweeping turns in open water, and take in the palm-fringed shoreline from a thrilling new perspective. Sessions range from quick 15-minute blasts to extended 30-minute cruises.",
+    "shortDescription": "High-speed jet ski ride along Kenya's coast . pure adrenaline on the Indian Ocean.",
+    "duration": "15-30 minutes",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 35,
+      "max": 80,
+      "currency": "USD",
+      "unit": "per session"
+    },
+    "priceDisplay": "$35 - $80 per session",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Thrill seekers",
+      "Young adults",
+      "Couples",
+      "Holiday-makers"
+    ],
+    "operators": [
+      "Diani Beach water sports operators",
+      "Pirates Beach Mombasa",
+      "Watamu Beach operators"
+    ],
+    "image": "/images/bueno-snorkeling.webp",
+    "highlights": [
+      "High-speed thrills on modern jet skis",
+      "Scenic coastal views from the water",
+      "No experience or licence required",
+      "Brief safety orientation before riding",
+      "15-minute or 30-minute session options"
+    ],
+    "notes": "Minimum age is typically 16 to ride solo; younger riders can go as passengers with an adult. Life jacket mandatory and provided. Riders are briefed on safety zones and must stay within designated areas to protect marine park zones. Price varies by duration and operator.",
+    "placeholder": false
+  },
+  {
+    "slug": "kayaking",
+    "name": "Kayaking",
+    "category": "water-sports",
+    "region": "Diani Beach, Watamu, Lamu, Lake Naivasha",
+    "description": "Paddle a sit-on-top kayak through crystal-clear coastal waters, up mangrove-lined creeks, or across the freshwater expanse of Lake Naivasha surrounded by hippos and pelicans. Kayaking offers a quiet, self-paced way to explore Kenya's diverse waterways . from reef-protected lagoons to birdlife-rich lake shores.",
+    "shortDescription": "Kayak through coastal lagoons, mangrove creeks, or Lake Naivasha . a quiet way to explore Kenya's waterways.",
+    "duration": "1 hour",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 15,
+      "max": 25,
+      "currency": "USD",
+      "unit": "per hour"
+    },
+    "priceDisplay": "$15 - $25 per hour",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families",
+      "Nature lovers",
+      "Budget travellers",
+      "Fitness enthusiasts"
+    ],
+    "operators": [
+      "Diani Beach water sports operators",
+      "Camp Carnelley's (Naivasha)",
+      "Peponi Hotel (Lamu)"
+    ],
+    "image": "/images/bueno-coral-reef.webp",
+    "highlights": [
+      "Explore mangrove channels and hidden coves",
+      "Spot marine life through clear water beneath the kayak",
+      "Lake Naivasha kayaking with hippo and pelican sightings",
+      "Single and tandem kayaks available",
+      "Perfect sunrise or sunset activity"
+    ],
+    "notes": "Sit-on-top kayaks are stable and easy for beginners. Life jackets provided. On Lake Naivasha, maintain a safe distance from hippos . a guide is recommended. Coastal kayaking is best at high tide. Bring waterproof sun protection.",
+    "placeholder": false
+  },
+  {
+    "slug": "tandem-skydiving-diani",
+    "name": "Tandem Skydiving Diani",
+    "category": "water-sports",
+    "region": "Diani Beach, Kwale County",
+    "description": "Leap from an aircraft at 10,000-12,000 feet and freefall over the stunning Diani coastline before your parachute opens to reveal a breathtaking panorama of white sand, turquoise ocean, and lush coastal forest. Strapped to a certified tandem instructor, no experience is needed . just courage and a desire for the ultimate thrill.",
+    "shortDescription": "Tandem skydive over Diani Beach . freefall from 10,000+ feet with Indian Ocean views.",
+    "duration": "3-4 hours (including briefing and transport)",
+    "bestSeason": "Year-round (weather permitting)",
+    "peakMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 350,
+      "max": 450,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$350 - $450 per person",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Thrill seekers",
+      "Bucket-list travellers",
+      "Young adventurers",
+      "Birthday/anniversary celebrations"
+    ],
+    "operators": [
+      "Skydive Diani"
+    ],
+    "image": "/images/bueno-beach-dining.webp",
+    "highlights": [
+      "Freefall at 200 km/h for 30-45 seconds",
+      "Parachute descent with panoramic coastal views",
+      "Professional tandem instructor . no experience needed",
+      "GoPro video and photos available for purchase",
+      "Certificate of completion"
+    ],
+    "notes": "Minimum age 16 (18 to jump without parental consent). Maximum weight typically 100 kg. Not recommended for pregnant women or those with heart conditions. Jumps are weather-dependent . wind, cloud, and rain may cause rescheduling. Book at least a day in advance.",
+    "placeholder": false
+  },
+  {
+    "slug": "banana-boat-ride",
+    "name": "Banana Boat Ride",
+    "category": "water-sports",
+    "region": "Diani Beach, Mombasa",
+    "description": "Hold on tight as a speedboat tows an inflatable banana boat at high speed across the ocean, bouncing over waves and sending riders tumbling into the warm Indian Ocean with shrieks of laughter. A favourite for groups and families, the banana boat ride is pure, uncomplicated fun and one of the coast's most popular beach activities.",
+    "shortDescription": "High-speed inflatable banana boat ride . bouncing waves, splashing fun, and guaranteed laughs.",
+    "duration": "15-30 minutes",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 60,
+      "max": 90,
+      "currency": "USD",
+      "unit": "per ride"
+    },
+    "priceDisplay": "$60 - $90 per ride",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families",
+      "Groups of friends",
+      "Kids and teenagers",
+      "Holiday-makers"
+    ],
+    "operators": [
+      "Diani Beach water sports operators",
+      "Pirates Beach Mombasa"
+    ],
+    "image": "/images/bueno-snorkeling.webp",
+    "highlights": [
+      "Fast-paced, laugh-out-loud group fun on the water",
+      "Suitable for children and adults alike",
+      "No experience or skill required",
+      "Life jackets provided for safety",
+      "Combine with other beach water sports"
+    ],
+    "notes": "Price is per ride (not per person) . boats accommodate 4-8 riders. Life jackets are mandatory and provided. Riders will likely fall off . wear swimwear and secure sunglasses/hats. Not recommended for those with back or neck problems. Available at most major beach resorts.",
+    "placeholder": false
+  },
+  {
+    "slug": "mt-kenya-trek-budget",
+    "name": "Mt. Kenya Trek (Budget)",
+    "category": "adventure-outdoor",
+    "region": "Mount Kenya, Central Kenya",
+    "description": "Summit Africa's second-highest mountain on a budget trek to Point Lenana (4,985m), the highest non-technical peak. The Sirimon or Chogoria route takes you through bamboo forest, giant heather moorland, and surreal Afro-alpine landscapes of giant lobelias and groundsel before a pre-dawn summit push rewarded by sunrise views stretching to Kilimanjaro and the Indian Ocean.",
+    "shortDescription": "Budget trek to Point Lenana (4,985m) on Mt Kenya . bamboo forests, Afro-alpine landscapes, and stunning summit views.",
+    "duration": "3-5 days",
+    "bestSeason": "January-February and July-September (dry seasons)",
+    "peakMonths": [
+      "January",
+      "February",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 400,
+      "max": 800,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$400 - $800 per person",
+    "difficulty": "Challenging",
+    "targetClients": [
+      "Trekkers and hikers",
+      "Budget adventurers",
+      "Fitness enthusiasts",
+      "Nature photographers"
+    ],
+    "operators": [
+      "Mt Kenya Guides & Porters Safari Club",
+      "ICE Mountaineering Kenya",
+      "Kenya Wildlife Service"
+    ],
+    "image": "/images/bueno-scenic-sunset.webp",
+    "highlights": [
+      "Summit Point Lenana at 4,985m . Africa's second-highest mountain",
+      "Surreal Afro-alpine zone with giant lobelias and groundsel",
+      "Pre-dawn summit push with sunrise over the African plains",
+      "Diverse vegetation zones from rainforest to glacial valleys",
+      "UNESCO World Heritage Site and Biosphere Reserve"
+    ],
+    "notes": "Altitude sickness is a real risk . acclimatise properly with a 4-5 day itinerary rather than rushing in 3 days. Budget treks use basic mountain huts (bandas) and include guide, porter, park fees, and meals. Bring warm layers . temperatures drop to -10 °C near the summit. Minimum recommended fitness: ability to hike 6-8 hours daily.",
+    "placeholder": false
+  },
+  {
+    "slug": "mt-kenya-trek-luxury",
+    "name": "Mt. Kenya Trek (Luxury)",
+    "category": "adventure-outdoor",
+    "region": "Mount Kenya, Central Kenya",
+    "description": "Experience Mount Kenya's majesty in comfort on a luxury guided trek featuring premium tented camps, gourmet bush cuisine, and comprehensive porter support. The 5-6 day itinerary follows scenic routes with proper acclimatisation, allowing you to savour the journey through cloud forest, moorland, and Afro-alpine zones before summiting Point Lenana at dawn.",
+    "shortDescription": "Luxury Mt Kenya trek with premium camps, gourmet cuisine, and full porter support to Point Lenana.",
+    "duration": "5-6 days",
+    "bestSeason": "January-February and July-September",
+    "peakMonths": [
+      "January",
+      "February",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 1500,
+      "max": 5000,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$1,500 - $5,000 per person",
+    "difficulty": "Challenging",
+    "targetClients": [
+      "Luxury adventure travellers",
+      "Corporate groups",
+      "High-end couples",
+      "Older active travellers"
+    ],
+    "operators": [
+      "Batian's Peak Expeditions",
+      "Tropical Ice (Iain Allan)",
+      "Wild Frontiers"
+    ],
+    "image": "/images/bueno-scenic-sunset.webp",
+    "highlights": [
+      "Premium tented camps with hot showers and mess tents",
+      "Gourmet meals prepared by expedition chefs",
+      "Comprehensive porter and guide team (1:1 ratio)",
+      "Proper 5-6 day acclimatisation schedule",
+      "Combine with Laikipia safari for a complete experience"
+    ],
+    "notes": "Luxury treks include all park fees, equipment (except personal clothing), meals, and transfers from Nairobi. Some operators add a pre-trek night at a luxury lodge on the mountain slopes. The Chogoria-Sirimon traverse is the most scenic route option.",
+    "placeholder": false
+  },
+  {
+    "slug": "mt-longonot-hike",
+    "name": "Mt. Longonot Hike",
+    "category": "adventure-outdoor",
+    "region": "Mt Longonot National Park, Nakuru County",
+    "description": "Hike up the steep flanks of Mt Longonot, a dormant stratovolcano rising from the floor of the Great Rift Valley. The trail ascends through scrubby bushland to the crater rim, where a circumnavigation path offers 360-degree views of Lake Naivasha, the Rift Valley escarpment, and the forested crater floor far below. It is one of the best day hikes near Nairobi.",
+    "shortDescription": "Hike a dormant volcano in the Rift Valley with panoramic crater-rim views of Lake Naivasha.",
+    "duration": "4-7 hours",
+    "bestSeason": "Year-round (avoid heavy rain Apr-May)",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 50,
+      "max": 85,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$50 - $85 per person",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Day hikers",
+      "Fitness enthusiasts",
+      "Nairobi weekenders",
+      "Families with older children"
+    ],
+    "operators": [
+      "Kenya Wildlife Service",
+      "Various Nairobi-based tour operators"
+    ],
+    "image": "/images/bueno-impala-wildlife.webp",
+    "highlights": [
+      "Dramatic volcanic crater rim walk",
+      "Panoramic views of Lake Naivasha and the Rift Valley",
+      "Spot buffalo and giraffe on the crater floor (from above)",
+      "Just 90 minutes from Nairobi . perfect day trip",
+      "Excellent cardiovascular workout with 1,000m elevation gain"
+    ],
+    "notes": "The ascent is steep and exposed . start early (before 8am) to avoid midday heat. Carry at least 2 litres of water per person. The crater rim circuit adds 2-3 hours. KWS park entry fee is $26 for non-residents. A ranger guide is available for a small fee.",
+    "placeholder": false
+  },
+  {
+    "slug": "mt-suswa-exploration",
+    "name": "Mt. Suswa Exploration",
+    "category": "adventure-outdoor",
+    "region": "Mt Suswa, Narok County",
+    "description": "Explore the otherworldly landscapes of Mt Suswa, a shield volcano featuring a collapsed outer crater, an inner crater with a forested 'island', and an extensive network of lava tube caves once used as Maasai shelters. The hike combines geological wonder with cultural discovery . Maasai guides share legends of the caves and the mountain's spiritual significance.",
+    "shortDescription": "Explore a shield volcano with lava tube caves and a Maasai-guided geological adventure.",
+    "duration": "4-6 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 60,
+      "max": 100,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$60 - $100 per person",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Adventure seekers",
+      "Geology enthusiasts",
+      "Cultural travellers",
+      "Off-the-beaten-track hikers"
+    ],
+    "operators": [
+      "Maasai community guides",
+      "Nairobi-based adventure operators"
+    ],
+    "image": "/images/bueno-safari-game-drive.webp",
+    "highlights": [
+      "Extensive lava tube cave system to explore",
+      "Double crater . outer and inner . with forested 'island'",
+      "Maasai guide sharing cultural legends and history",
+      "Baboon colonies in the caves and crater rim",
+      "Dramatic, uncrowded volcanic landscape"
+    ],
+    "notes": "A 4x4 vehicle is required to reach the trailhead due to rough access roads. Bring a torch/headlamp for the lava tube caves. A Maasai community fee ($10-15) is payable at the gate. The mountain is approximately 2 hours from Nairobi. Not well-signposted . a local guide is essential.",
+    "placeholder": false
+  },
+  {
+    "slug": "ngong-hills-walk",
+    "name": "Ngong Hills Walk",
+    "category": "adventure-outdoor",
+    "region": "Ngong Hills, Kajiado County",
+    "description": "Walk the iconic Ngong Hills, the undulating ridge on Nairobi's southwestern doorstep immortalised by Karen Blixen in 'Out of Africa'. The trail traverses seven rounded peaks with views across the Great Rift Valley to one side and Nairobi's skyline to the other . a remarkable juxtaposition of wilderness and cityscape that captures Kenya's dual character.",
+    "shortDescription": "Walk the 'Out of Africa' hills on Nairobi's doorstep with Rift Valley and city skyline views.",
+    "duration": "3-5 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 25,
+      "max": 35,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$25 - $35 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Nairobi residents and weekenders",
+      "Short-stay visitors",
+      "Fitness walkers",
+      "Karen Blixen fans"
+    ],
+    "operators": [
+      "KWS Rangers (accompany all hikers)",
+      "Nairobi hiking groups"
+    ],
+    "image": "/images/bueno-nairobi-skyline.webp",
+    "highlights": [
+      "Seven peaks with panoramic Rift Valley views",
+      "Nairobi skyline visible to the east on clear days",
+      "Karen Blixen 'Out of Africa' literary connection",
+      "KWS ranger escort included for security",
+      "Easy access . just 30 minutes from Nairobi CBD"
+    ],
+    "notes": "KWS rangers accompany all hikers for security (mandatory, small fee). The trail is exposed . bring sunscreen, hat, and water. Start early to avoid afternoon cloud cover. The walk can be done as a one-way traverse with vehicle pickup at the far end, or an out-and-back.",
+    "placeholder": false
+  },
+  {
+    "slug": "hells-gate-cycling",
+    "name": "Hell's Gate Cycling",
+    "category": "adventure-outdoor",
+    "region": "Hell's Gate National Park, Nakuru County",
+    "description": "Cycle through one of the few Kenyan national parks where you can walk and ride among wildlife without a vehicle. Hell's Gate's dramatic volcanic cliffs, towering rock formations, and geothermal steam vents create an almost cinematic landscape . it was, in fact, the inspiration for the setting of Disney's 'The Lion King'. Bike past zebra, giraffe, and buffalo on your way to the narrow Fischer's Tower gorge.",
+    "shortDescription": "Cycle through dramatic volcanic cliffs alongside zebra and giraffe in Hell's Gate . the 'Lion King' landscape.",
+    "duration": "Full day",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 31,
+      "max": 40,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$31 - $40 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families",
+      "Active travellers",
+      "Cyclists",
+      "Day-trippers from Nairobi"
+    ],
+    "operators": [
+      "Kenya Wildlife Service",
+      "Elsa Gate bike rentals",
+      "Nairobi day-tour operators"
+    ],
+    "image": "/images/bueno-wildebeest-migration.webp",
+    "highlights": [
+      "Cycle alongside wildlife . zebra, giraffe, buffalo, and eland",
+      "Dramatic volcanic cliffs and Fischer's Tower rock pillar",
+      "Hell's Gate Gorge walk with natural hot springs",
+      "Inspiration for Disney's 'The Lion King' landscape",
+      "One of the few parks allowing cycling and walking"
+    ],
+    "notes": "Bike rental ($5-10) is available at the Elsa Gate entrance. Park entry fee is $26 for non-residents. The gorge walk requires an additional guide fee. Flash floods can occur in the gorge during heavy rains . check conditions. Combine with Lake Naivasha for a full day trip. Bring plenty of water . the park is hot and dry.",
+    "placeholder": false
+  },
+  {
+    "slug": "white-water-rafting-sagana",
+    "name": "White Water Rafting Sagana",
+    "category": "adventure-outdoor",
+    "region": "Sagana, Kirinyaga County",
+    "description": "Tackle Class II-IV rapids on the Tana River near Sagana, Kenya's white-water capital. Expert raft guides navigate your crew through churning rapids named 'Cascade', 'The Cheese Grater', and 'Jungle Run' as the river cuts through lush riverine forest. Between rapids, float through calm pools and enjoy the tropical bird chorus overhead.",
+    "shortDescription": "White-water rafting on the Tana River . Class II-IV rapids through lush forest near Sagana.",
+    "duration": "1-4 hours",
+    "bestSeason": "Year-round (best after rainy seasons for higher water)",
+    "peakMonths": [
+      "April",
+      "May",
+      "June",
+      "November",
+      "December"
+    ],
+    "priceRange": {
+      "min": 42,
+      "max": 60,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$42 - $60 per person",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Thrill seekers",
+      "Corporate team-building groups",
+      "Families (older children)",
+      "Nairobi weekenders"
+    ],
+    "operators": [
+      "Savage Wilderness Safaris",
+      "Rapids Camp Sagana"
+    ],
+    "image": "/images/bueno-hippo-mara.webp",
+    "highlights": [
+      "Class II-IV rapids with exciting names",
+      "Professional guides and all safety equipment provided",
+      "Lush riverine forest setting",
+      "Perfect team-building activity",
+      "Just 2 hours from Nairobi"
+    ],
+    "notes": "Minimum age is typically 12-14 years depending on water levels and operator. Non-swimmers are accepted with life jackets. The river is dam-controlled . water levels can change. Wear shoes that can get wet (no flip-flops). Bring a change of dry clothes.",
+    "placeholder": false
+  },
+  {
+    "slug": "bungee-jumping",
+    "name": "Bungee Jumping",
+    "category": "adventure-outdoor",
+    "region": "Sagana, Kirinyaga County",
+    "description": "Take the leap from a purpose-built platform high above the Tana River on one of East Africa's few bungee jumping sites. The heart-stopping freefall sends you plummeting toward the river below before the cord catches and bounces you back skyward. It is an intense adrenaline rush that lasts just seconds but creates memories for a lifetime.",
+    "shortDescription": "Bungee jump from a platform above the Tana River . a heart-stopping freefall near Sagana.",
+    "duration": "30 minutes (including preparation)",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "February",
+      "June",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 38,
+      "max": 46,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$38 - $46 per person",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Thrill seekers",
+      "Bucket-list adventurers",
+      "Youth groups",
+      "Birthday celebrations"
+    ],
+    "operators": [
+      "Savage Wilderness Safaris"
+    ],
+    "image": "/images/bueno-hot-air-balloon.webp",
+    "highlights": [
+      "Heart-stopping freefall above the Tana River",
+      "Professional equipment inspected to international standards",
+      "Photo and video packages available",
+      "Certificate of bravery upon completion",
+      "Combine with white-water rafting for a full adventure day"
+    ],
+    "notes": "Minimum age 14 years. Maximum weight typically 120 kg. Not recommended for those with heart conditions, back problems, or pregnancy. The entire experience takes about 30 minutes including harness fitting and safety briefing. Often combined with rafting as a half-day adventure package.",
+    "placeholder": false
+  },
+  {
+    "slug": "zip-lining-kereita",
+    "name": "Zip-Lining Kereita",
+    "category": "adventure-outdoor",
+    "region": "Kereita Forest, Kiambu County",
+    "description": "Soar through the canopy of Kereita Forest on a series of zip-lines connecting platforms high in the indigenous trees. The course features multiple lines of varying lengths and heights, offering aerial views of the forest floor below and the surrounding Aberdare foothills. It is one of the most accessible adventure activities near Nairobi.",
+    "shortDescription": "Zip-line through indigenous forest canopy near Nairobi at Kereita Forest adventure park.",
+    "duration": "45 minutes to 2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "June",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 14,
+      "max": 22,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$14 - $22 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families",
+      "School groups",
+      "Corporate outings",
+      "Kids and teenagers"
+    ],
+    "operators": [
+      "Kereita Forest / Zip Kenya"
+    ],
+    "image": "/images/bueno-coffee-farm.webp",
+    "highlights": [
+      "Multiple zip-lines through indigenous forest canopy",
+      "Suitable for children and adults",
+      "Professional safety equipment and guides",
+      "Beautiful forest setting just 1 hour from Nairobi",
+      "Combine with hiking, mountain biking, or horse riding in the forest"
+    ],
+    "notes": "Minimum age varies by line . some are suitable for children as young as 5 with parental consent. Closed-toe shoes required. Long hair must be tied back. The forest also offers hiking trails, mountain biking, and horse riding. Entry to the forest is approximately $4.",
+    "placeholder": false
+  },
+  {
+    "slug": "quad-biking",
+    "name": "Quad Biking",
+    "category": "adventure-outdoor",
+    "region": "Diani Beach, Naivasha, Nairobi outskirts",
+    "description": "Tear across off-road trails on a powerful quad bike (ATV), kicking up dust on savanna tracks, splashing through forest puddles, or cruising along coastal backroads. Quad biking is available at several locations across Kenya, from beachside Diani to the volcanic landscapes around Lake Naivasha and forested areas on Nairobi's outskirts.",
+    "shortDescription": "Off-road quad biking adventure through savanna, forest, or coastal trails across Kenya.",
+    "duration": "1-3 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "June",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 25,
+      "max": 50,
+      "currency": "USD",
+      "unit": "per hour"
+    },
+    "priceDisplay": "$25 - $50 per hour",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Adventure seekers",
+      "Families (older children)",
+      "Groups of friends",
+      "Corporate outings"
+    ],
+    "operators": [
+      "Diani Beach quad bike operators",
+      "Camp Carnelley's (Naivasha)",
+      "Kereita Forest"
+    ],
+    "image": "/images/bueno-safari-game-drive.webp",
+    "highlights": [
+      "Guided off-road trails through diverse terrain",
+      "Automatic quad bikes . no experience needed",
+      "Scenic routes through bush, forest, or coastal paths",
+      "Brief training session before each ride",
+      "Available for individuals, couples, or groups"
+    ],
+    "notes": "Minimum age is typically 12-16 for solo riders; younger children can ride as passengers with an adult on larger quads. Helmets provided and mandatory. Long trousers and closed-toe shoes recommended. Goggles or sunglasses protect against dust.",
+    "placeholder": false
+  },
+  {
+    "slug": "hot-air-balloon-safari-mara",
+    "name": "Hot Air Balloon Safari Mara",
+    "category": "air-experiences",
+    "region": "Maasai Mara, Narok County",
+    "description": "Rise with the sun in a hot air balloon and drift silently over the endless golden plains of the Maasai Mara as the African bush awakens below. From altitude, watch herds of wildebeest, zebra, and elephant moving across the landscape, spot hippos wallowing in the Mara River, and . if timing is right . witness the Great Migration from the most spectacular vantage point imaginable. The flight concludes with a champagne bush breakfast on the savanna.",
+    "shortDescription": "Sunrise balloon flight over the Maasai Mara followed by champagne bush breakfast on the savanna.",
+    "duration": "5 hours total (1-hour flight + breakfast)",
+    "bestSeason": "Year-round (exceptional Jul-Oct during migration)",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 410,
+      "max": 650,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$410 - $650 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Couples and honeymooners",
+      "Photographers",
+      "Luxury travellers",
+      "Bucket-list seekers"
+    ],
+    "operators": [
+      "Governors' Balloon Safaris",
+      "Hot Air Safaris",
+      "Skyship Company"
+    ],
+    "image": "/images/bueno-hot-air-balloon.webp",
+    "highlights": [
+      "Sunrise flight over the Maasai Mara plains",
+      "Bird's-eye view of wildlife herds and river crossings",
+      "Champagne bush breakfast after landing",
+      "Flight certificate signed by the pilot",
+      "Opportunity to watch balloon inflation . a spectacle in itself"
+    ],
+    "notes": "Flights depart before dawn (pickup from camp around 5-5:30am). Flight duration is approximately 1 hour depending on wind. Children under 7 are generally not permitted. Maximum weight restrictions may apply. Flights may be cancelled due to wind . a backup date or full refund is standard. Book well in advance during peak season.",
+    "placeholder": false
+  },
+  {
+    "slug": "helicopter-scenic-flight",
+    "name": "Helicopter Scenic Flight",
+    "category": "air-experiences",
+    "region": "Nairobi, Maasai Mara, Mt Kenya, Rift Valley",
+    "description": "See Kenya's most dramatic landscapes from the cockpit of a private helicopter on a scenic flight over the Great Rift Valley, Lake Nakuru, Mount Kenya, or the Maasai Mara. Helicopters offer the flexibility to hover over points of interest, land on remote hilltops for sundowners, and access terrain that fixed-wing aircraft cannot reach.",
+    "shortDescription": "Private helicopter scenic flight over the Rift Valley, lakes, mountains, or the Maasai Mara.",
+    "duration": "1 hour",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 770,
+      "max": 1540,
+      "currency": "USD",
+      "unit": "per hour"
+    },
+    "priceDisplay": "$770 - $1,540 per hour",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Luxury travellers",
+      "Photographers",
+      "Couples",
+      "Special occasion celebrations"
+    ],
+    "operators": [
+      "Tropic Air Kenya",
+      "Helicentric",
+      "Safari Link Aviation"
+    ],
+    "image": "/images/bueno-scenic-sunset.webp",
+    "highlights": [
+      "Low-level flying over wildlife herds (where permitted)",
+      "Land on remote hilltops for sundowner drinks",
+      "Door-off options for unobstructed photography",
+      "Customisable routes . you choose the destination",
+      "Experienced bush pilots with thousands of hours"
+    ],
+    "notes": "Prices are per hour for the helicopter (typically seats 4-6), not per person . split among passengers for better value. Door-off flying is available for photography but requires safety harnesses. Route flexibility is subject to airspace restrictions. Charter from Wilson Airport, Nairobi.",
+    "placeholder": false
+  },
+  {
+    "slug": "full-day-helicopter-safari",
+    "name": "Full-Day Helicopter Safari",
+    "category": "air-experiences",
+    "region": "Multiple regions . customised itineraries",
+    "description": "Experience a full day of aerial adventure on a private helicopter safari that combines flying with ground-based experiences. A typical itinerary might include a morning flight over the Rift Valley escarpment, a bush landing for a guided nature walk, lunch at a remote lodge, an afternoon flying low over Lake Naivasha or the Mara, and a sundowner landing on a scenic ridge.",
+    "shortDescription": "Full-day private helicopter safari combining aerial sightseeing with bush landings, walks, and exclusive dining.",
+    "duration": "Full day",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 2000,
+      "max": 5000,
+      "currency": "USD",
+      "unit": "per day"
+    },
+    "priceDisplay": "$2,000 - $5,000 per day",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Ultra-luxury travellers",
+      "Time-limited executives",
+      "Special celebrations",
+      "VIP guests"
+    ],
+    "operators": [
+      "Tropic Air Kenya",
+      "Helicentric",
+      "Safari Air Link"
+    ],
+    "image": "/images/bueno-lion-mara.webp",
+    "highlights": [
+      "Multiple scenic landings in remote locations",
+      "Bush walk, picnic lunch, and sundowner included",
+      "Cover vast distances in a single day",
+      "Fully customisable itinerary based on interests",
+      "Private and exclusive . just your group"
+    ],
+    "notes": "Price includes helicopter charter, fuel, pilot, and landing fees. Ground activities (lunch, walks, entry fees) may be additional depending on the package. Suitable for 2-5 passengers depending on helicopter type. Book at least a week in advance for bespoke itineraries.",
+    "placeholder": false
+  },
+  {
+    "slug": "multi-day-heli-safari",
+    "name": "Multi-Day Helicopter Safari",
+    "category": "air-experiences",
+    "region": "Nationwide . bespoke itineraries",
+    "description": "The ultimate way to experience Kenya: a multi-day helicopter safari that leapfrogs between the country's most remote and spectacular locations. Over five to six days, fly from the northern deserts of Turkana to the forests of Mt Kenya, the flamingo lakes of the Rift Valley, the Maasai Mara's migration, and the coral coast of Lamu . staying at exclusive lodges along the way.",
+    "shortDescription": "Ultimate multi-day helicopter expedition across Kenya's most remote and spectacular landscapes.",
+    "duration": "5-6 days",
+    "bestSeason": "Year-round (customise around migration Jul-Oct)",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 7500,
+      "max": 15000,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$7,500 - $15,000 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Ultra-high-net-worth travellers",
+      "Expedition-style adventurers",
+      "Milestone celebrations",
+      "Photography expeditions"
+    ],
+    "operators": [
+      "Tropic Air Kenya",
+      "African Special Expeditions",
+      "Helicentric"
+    ],
+    "image": "/images/bueno-elephants-sunrise.webp",
+    "highlights": [
+      "Cover multiple ecosystems from desert to coast in days",
+      "Land in locations no road can reach",
+      "Stay at Kenya's most exclusive and remote lodges",
+      "Fully bespoke itinerary designed around your interests",
+      "Experienced expedition pilot who doubles as a guide"
+    ],
+    "notes": "These safaris are fully bespoke . no two itineraries are alike. Pricing varies significantly based on routing, accommodation choices, and group size. Lead time of 2-3 months recommended. Luggage weight limits apply for helicopters (typically 15 kg soft bag). Travel insurance with helicopter evacuation cover is essential.",
+    "placeholder": false
+  },
+  {
+    "slug": "horseback-safari-short",
+    "name": "Horseback Safari (Short Ride)",
+    "category": "horse-camel",
+    "region": "Laikipia, Masai Mara Conservancies, Lewa",
+    "description": "Ride through the African bush on horseback for a two-hour encounter with wildlife that no vehicle safari can match. Horses allow you to approach plains game much more closely than a Land Cruiser . zebra and giraffe are often unbothered by riders, creating extraordinary close encounters in a uniquely silent, immersive setting.",
+    "shortDescription": "Two-hour horseback ride through the bush alongside zebra, giraffe, and antelope.",
+    "duration": "2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 250,
+      "max": 250,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$250 per person",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Horse riders (intermediate+)",
+      "Couples",
+      "Adventure seekers",
+      "Photographers"
+    ],
+    "operators": [
+      "Safaris Unlimited",
+      "Ol Donyo Lodge (Great Plains)",
+      "Lewa Safari Camp",
+      "Borana Conservancy"
+    ],
+    "image": "/images/bueno-giraffes-savannah.webp",
+    "highlights": [
+      "Ride alongside wildlife . zebra, giraffe, antelope",
+      "Quiet, immersive experience impossible from a vehicle",
+      "Well-schooled horses suited to the African bush",
+      "Expert riding guides with bush knowledge",
+      "Scenic landscapes of Laikipia or Mara conservancies"
+    ],
+    "notes": "Intermediate riding ability is usually required (ability to walk, trot, and canter confidently). Weight limits apply (typically 90-95 kg). Riders are matched to suitable horses. Hard hats provided. Long trousers and closed-toe shoes/boots required.",
+    "placeholder": false
+  },
+  {
+    "slug": "multi-day-horseback-safari",
+    "name": "Multi-Day Horseback Safari",
+    "category": "horse-camel",
+    "region": "Laikipia, Masai Mara, Chyulu Hills",
+    "description": "Embark on a multi-day riding adventure across Kenya's vast wilderness, covering 20-40 km per day on horseback through landscapes teeming with wildlife. By day, ride across open plains, through river crossings, and along forested ridges. By night, camp under the stars at mobile fly-camps or stay at exclusive riding lodges. This is the quintessential African horseback safari.",
+    "shortDescription": "Multi-day riding expedition across Kenya's wilderness . 20-40 km daily through Big Five country.",
+    "duration": "3-7 nights",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 3165,
+      "max": 11950,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$3,165 - $11,950 per person",
+    "difficulty": "Expert",
+    "targetClients": [
+      "Experienced riders",
+      "Adventure travellers",
+      "Horse enthusiasts",
+      "High-end couples"
+    ],
+    "operators": [
+      "Safaris Unlimited",
+      "Offbeat Safaris",
+      "Ol Donyo Lodge (Great Plains)",
+      "Ride Kenya"
+    ],
+    "image": "/images/bueno-lions-golden-hour.webp",
+    "highlights": [
+      "Ride 20-40 km per day through Big Five territory",
+      "Mobile fly-camps or exclusive bush lodges each night",
+      "River crossings, open plains, and forested ridges",
+      "Experienced back-up team manages camp logistics",
+      "Sundowners and bush dinners under the stars"
+    ],
+    "notes": "Strong intermediate to advanced riding ability is essential . riders must be confident at all paces across open terrain. Fitness is important as you will spend 4-6 hours in the saddle daily. Weight limit typically 90 kg. Minimum age 16. All-inclusive pricing covers accommodation, meals, horses, guides, and conservancy fees.",
+    "placeholder": false
+  },
+  {
+    "slug": "camel-trek-laikipia",
+    "name": "Camel Trek Laikipia",
+    "category": "horse-camel",
+    "region": "Laikipia, Samburu, Northern Kenya",
+    "description": "Trek through Kenya's wild northern frontier on camelback, following routes used by Samburu pastoralists for centuries. Camels carry your supplies while you walk or ride through sun-baked landscapes of ochre plains, acacia woodland, and dramatic escarpments. Evenings are spent at mobile fly-camps with traditional Samburu campfire stories under vast starlit skies.",
+    "shortDescription": "Camelback trek through northern Kenya's wild frontier with Samburu guides and fly-camp accommodation.",
+    "duration": "2-6 nights",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 400,
+      "max": 700,
+      "currency": "USD",
+      "unit": "per night"
+    },
+    "priceDisplay": "$400 - $700 per night",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Adventure travellers",
+      "Off-the-beaten-track seekers",
+      "Cultural travellers",
+      "Couples"
+    ],
+    "operators": [
+      "Karisia Walking Safaris",
+      "Wild Frontiers",
+      "Sabuk Lodge"
+    ],
+    "image": "/images/bueno-camel-ride.webp",
+    "highlights": [
+      "Authentic Samburu-led camel caravans",
+      "Walk or ride through stunning semi-arid landscapes",
+      "Mobile fly-camp accommodation with bush showers",
+      "Star-gazing far from any light pollution",
+      "Cultural exchange with Samburu warriors and elders"
+    ],
+    "notes": "No riding experience needed . camels are gentle and well-trained. Walking is also an option while camels carry luggage. A reasonable level of fitness is required for walking days (10-15 km). Camps are comfortable but basic . expect bucket showers and pit latrines. Daytime temperatures can exceed 35 °C . sun protection essential.",
+    "placeholder": false
+  },
+  {
+    "slug": "camel-day-walk",
+    "name": "Camel Day Walk",
+    "category": "horse-camel",
+    "region": "Laikipia, Samburu",
+    "description": "Experience a taste of northern Kenya's camel culture on a guided day walk with camels carrying your picnic supplies. Walk alongside Samburu guides through bush country, learning about traditional navigation, animal tracking, and plant identification, before settling under an acacia tree for a bush lunch prepared by your camel team.",
+    "shortDescription": "Guided day walk with Samburu camel team through the bush, culminating in a bush picnic lunch.",
+    "duration": "Full day",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 150,
+      "max": 300,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$150 - $300 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Day visitors to Laikipia lodges",
+      "Families with older children",
+      "Cultural experience seekers",
+      "Walking enthusiasts"
+    ],
+    "operators": [
+      "Karisia Walking Safaris",
+      "Lewa Wildlife Conservancy",
+      "Sabuk Lodge"
+    ],
+    "image": "/images/bueno-camel-ride.webp",
+    "highlights": [
+      "Walk through the bush with a camel caravan",
+      "Samburu guide sharing traditional knowledge",
+      "Bush picnic lunch under acacia shade",
+      "Wildlife sightings en route . giraffe, antelope, birds",
+      "Gentle introduction to camel safari life"
+    ],
+    "notes": "No riding ability needed . walking is the primary mode with camels carrying supplies. Suitable for older children (8+) and moderately fit adults. Wear comfortable walking shoes, sun protection, and bring binoculars. Walks typically cover 8-12 km depending on the group.",
+    "placeholder": false
+  },
+  {
+    "slug": "bomas-of-kenya",
+    "name": "Bomas of Kenya",
+    "category": "cultural-heritage",
+    "region": "Nairobi",
+    "description": "Visit Bomas of Kenya, a living cultural centre showcasing the traditional homesteads, music, and dance of Kenya's 42+ ethnic communities. The highlight is a vibrant afternoon performance featuring Maasai jumping dances, Kamba acrobatics, Luo Ohangla rhythms, and Kikuyu ceremonial songs . all performed by a professional troupe in an open-air auditorium.",
+    "shortDescription": "Living cultural centre showcasing traditional music, dance, and homesteads of Kenya's 42+ ethnic communities.",
+    "duration": "2.5-3 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 15,
+      "max": 15,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$15 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Cultural travellers",
+      "Families",
+      "School groups",
+      "First-time visitors to Kenya"
+    ],
+    "operators": [
+      "Bomas of Kenya (government-run)"
+    ],
+    "image": "/images/bueno-maasai-crafts.webp",
+    "highlights": [
+      "Live traditional dance and music performances daily",
+      "Replica homesteads of Kenya's major ethnic communities",
+      "Interactive audience participation in dances",
+      "Artisan craft shopping at the cultural village",
+      "Just 10 km from Nairobi CBD near the national park"
+    ],
+    "notes": "Afternoon performances are typically at 2:30pm on weekdays, 3:30pm on weekends and holidays . check times in advance. Photography is permitted during performances. Located adjacent to Nairobi National Park . easily combined. Allow 2.5-3 hours for a thorough visit.",
+    "placeholder": false
+  },
+  {
+    "slug": "karen-blixen-museum",
+    "name": "Karen Blixen Museum",
+    "category": "cultural-heritage",
+    "region": "Karen, Nairobi",
+    "description": "Step into the world of 'Out of Africa' at the Karen Blixen Museum, the preserved farmhouse where the Danish author lived from 1917 to 1931. The colonial-era building houses original furniture, photographs, and personal effects that bring Blixen's Kenya to life. The manicured gardens offer views of the Ngong Hills that she immortalised in her memoir.",
+    "shortDescription": "Tour the preserved farmhouse of 'Out of Africa' author Karen Blixen, with Ngong Hills views.",
+    "duration": "1-1.5 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 9,
+      "max": 9,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$9 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Literary enthusiasts",
+      "History buffs",
+      "Cultural travellers",
+      "Film fans"
+    ],
+    "operators": [
+      "National Museums of Kenya"
+    ],
+    "image": "/images/bueno-nairobi-skyline.webp",
+    "highlights": [
+      "Original Karen Blixen farmhouse with period furnishings",
+      "Views of the Ngong Hills from the garden",
+      "Personal photographs and 'Out of Africa' memorabilia",
+      "Guided tours available with knowledgeable docents",
+      "Beautiful grounds perfect for a quiet afternoon stroll"
+    ],
+    "notes": "Open daily 8:30am-6:00pm. Guided tours are available and recommended to bring the history alive. Located in Karen suburb, 20 minutes from Nairobi CBD. Easily combined with Giraffe Centre and Kazuri Beads, both nearby.",
+    "placeholder": false
+  },
+  {
+    "slug": "nairobi-national-museum",
+    "name": "Nairobi National Museum",
+    "category": "cultural-heritage",
+    "region": "Nairobi",
+    "description": "Explore Kenya's natural and cultural heritage under one roof at the Nairobi National Museum, home to a comprehensive collection spanning paleontology, ethnography, contemporary art, and natural history. Star exhibits include a cast of 'Turkana Boy' (the most complete early human skeleton ever found), an extensive bird collection, and the Joy Adamson gallery of Kenya's tribal peoples.",
+    "shortDescription": "Kenya's premier museum . paleontology, ethnography, art, and natural history in central Nairobi.",
+    "duration": "2-3 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 9,
+      "max": 12,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$9 - $12 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "History and science enthusiasts",
+      "Families",
+      "Rainy-day visitors",
+      "Students"
+    ],
+    "operators": [
+      "National Museums of Kenya"
+    ],
+    "image": "/images/bueno-nairobi-city.webp",
+    "highlights": [
+      "Turkana Boy and early human fossil exhibits",
+      "Joy Adamson ethnographic painting collection",
+      "Snake park and botanical garden on the grounds",
+      "Contemporary Kenyan art galleries",
+      "Central location on Museum Hill . easy to reach"
+    ],
+    "notes": "Open daily 8:30am-5:30pm. Combined tickets with the Snake Park and Botanical Garden available. The on-site gift shop sells quality Kenyan crafts. Allow 2-3 hours for a thorough visit. Audio guides available in multiple languages.",
+    "placeholder": false
+  },
+  {
+    "slug": "fort-jesus-mombasa",
+    "name": "Fort Jesus Mombasa",
+    "category": "cultural-heritage",
+    "region": "Mombasa Old Town",
+    "description": "Explore Fort Jesus, the imposing 16th-century Portuguese fortress that guards the entrance to Mombasa's old harbour. Built in 1593 to secure Portugal's trade route to India, the fort has been attacked, captured, and rebuilt by Portuguese, Omani Arab, and British forces over four centuries. Now a UNESCO World Heritage Site, its coral-stone walls house a museum of coastal archaeology and Swahili maritime history.",
+    "shortDescription": "UNESCO World Heritage Portuguese fortress in Mombasa . 400 years of coastal history and Swahili culture.",
+    "duration": "1.5-2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 9,
+      "max": 9,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$9 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "History enthusiasts",
+      "Cultural travellers",
+      "Families",
+      "Architecture fans"
+    ],
+    "operators": [
+      "National Museums of Kenya"
+    ],
+    "image": "/images/bueno-african-market.webp",
+    "highlights": [
+      "UNESCO World Heritage Site dating to 1593",
+      "Coral-stone fortress architecture and ramparts",
+      "Museum of Swahili culture and maritime archaeology",
+      "Harbour views from the battlements",
+      "Combine with a walking tour of Mombasa Old Town"
+    ],
+    "notes": "Open daily 8:00am-6:00pm. Guided tours are available and recommended. The fort is best visited in the morning before the heat of the day. Located at the edge of Mombasa Old Town . combine with a walking tour of the narrow streets and spice markets.",
+    "placeholder": false
+  },
+  {
+    "slug": "lamu-museums-package",
+    "name": "Lamu Museums Package",
+    "category": "cultural-heritage",
+    "region": "Lamu Island",
+    "description": "Visit the interconnected museums of Lamu Old Town, a UNESCO World Heritage Site and the oldest continually inhabited Swahili settlement in East Africa. The package typically includes the Lamu Museum (Swahili culture and dhow-building), the Swahili House Museum (restored 18th-century merchant's home), and the Lamu Fort (built by the Sultan of Oman in 1821).",
+    "shortDescription": "Museum circuit through Lamu's UNESCO Old Town . Swahili culture, dhow heritage, and Omani fort.",
+    "duration": "3-4 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 23,
+      "max": 23,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$23 per person (combined ticket)",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Cultural travellers",
+      "History enthusiasts",
+      "Architects and designers",
+      "Photographers"
+    ],
+    "operators": [
+      "National Museums of Kenya"
+    ],
+    "image": "/images/bueno-dhow-zanzibar.webp",
+    "highlights": [
+      "UNESCO World Heritage Swahili settlement",
+      "Lamu Museum with dhow-building exhibits and navigation tools",
+      "Swahili House Museum . restored 18th-century merchant's home",
+      "Lamu Fort . 19th-century Omani fortification",
+      "Walking through car-free streets unchanged for centuries"
+    ],
+    "notes": "Lamu is car-free . all movement is on foot or by donkey. The museums are within walking distance of each other in the Old Town. A local guide is recommended for context and to navigate the labyrinthine streets. Best visited in the morning when it is cooler. Dress modestly as Lamu is a predominantly Muslim community.",
+    "placeholder": false
+  },
+  {
+    "slug": "gede-ruins",
+    "name": "Gede Ruins",
+    "category": "cultural-heritage",
+    "region": "Gede, Kilifi County",
+    "description": "Wander through the atmospheric ruins of Gede, a mysterious 12th-century Swahili trading town abandoned in the 17th century and swallowed by coastal forest. The coral-stone remains of mosques, palaces, and merchants' houses rise from a canopy of baobab and buttress-rooted trees, creating an eerie, enchanting atmosphere. Gede is one of the most evocative archaeological sites on the East African coast.",
+    "shortDescription": "Atmospheric 12th-century Swahili ruins hidden in coastal forest near Watamu . mosques, palaces, and mystery.",
+    "duration": "1.5-2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "February",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 4,
+      "max": 4,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$4 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "History and archaeology enthusiasts",
+      "Day-trippers from Watamu/Malindi",
+      "Photographers",
+      "Nature lovers"
+    ],
+    "operators": [
+      "National Museums of Kenya"
+    ],
+    "image": "/images/bueno-african-market.webp",
+    "highlights": [
+      "Coral-stone mosque, palace, and merchant house ruins",
+      "Ancient baobab trees growing through the structures",
+      "Small on-site museum with excavated artefacts",
+      "Golden-rumped elephant shrew sightings in the forest",
+      "Atmospheric forest setting . a photographer's dream"
+    ],
+    "notes": "A guide is available at the entrance and recommended to bring the ruins to life. The site is about 15 minutes from Watamu and easily combined with a beach day. Wear comfortable shoes . paths are uneven. The adjacent Kipepeo Butterfly House is worth a visit.",
+    "placeholder": false
+  },
+  {
+    "slug": "maasai-village-visit",
+    "name": "Maasai Village Visit",
+    "category": "cultural-heritage",
+    "region": "Maasai Mara, Amboseli, Kajiado County",
+    "description": "Step inside a traditional Maasai manyatta (homestead) for a guided cultural experience led by Maasai warriors and elders. Learn about their semi-nomadic pastoral lifestyle, watch dramatic jumping dances, visit the cattle enclosure that forms the heart of Maasai life, and browse beadwork crafted by the village women. Many visits directly fund community education and healthcare.",
+    "shortDescription": "Visit a traditional Maasai homestead . warrior dances, cultural insights, and community-supporting beadwork.",
+    "duration": "1-2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 20,
+      "max": 50,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$20 - $50 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Cultural travellers",
+      "Families",
+      "First-time safari visitors",
+      "Photographers"
+    ],
+    "operators": [
+      "Community-run villages near safari lodges",
+      "Basecamp Explorer (community tourism)",
+      "Mara Conservancy partners"
+    ],
+    "image": "/images/bueno-lions-golden-hour.webp",
+    "highlights": [
+      "Traditional warrior jumping dance performance",
+      "Tour of a Maasai manyatta (dung-and-stick homestead)",
+      "Fire-making demonstration using traditional methods",
+      "Beadwork shopping directly from the women artisans",
+      "Community fees support local education and health projects"
+    ],
+    "notes": "Choose community-run or lodge-partnered visits for a more authentic, respectful experience. Ask permission before photographing individuals. Prices vary . $20-30 is standard for group visits; $50 for more exclusive, in-depth experiences. Tipping is appreciated but not mandatory.",
+    "placeholder": false
+  },
+  {
+    "slug": "lamu-old-town-walking-tour",
+    "name": "Lamu Old Town Walking Tour",
+    "category": "cultural-heritage",
+    "region": "Lamu Island",
+    "description": "Explore the narrow, winding streets of Lamu Old Town on a guided walking tour through East Africa's oldest and best-preserved Swahili settlement. Your guide leads you past ornately carved wooden doors, through bustling market alleys, into hidden courtyards, and along the waterfront where dhows are still built by hand using centuries-old techniques. Lamu's UNESCO-listed Old Town feels like stepping back in time.",
+    "shortDescription": "Guided walk through Lamu's UNESCO Old Town . carved doors, dhow yards, and centuries of Swahili heritage.",
+    "duration": "2-3 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 20,
+      "max": 50,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$20 - $50 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Cultural travellers",
+      "Photographers",
+      "Architects",
+      "History enthusiasts"
+    ],
+    "operators": [
+      "Lamu Cultural Promotion Group",
+      "Hotel-arranged guides",
+      "Certified local guides"
+    ],
+    "image": "/images/bueno-african-market.webp",
+    "highlights": [
+      "Ornately carved Swahili doors . each tells a story",
+      "Working dhow boatyard where vessels are hand-built",
+      "Vibrant daily market with spices, fish, and textiles",
+      "Lamu's car-free streets navigated by donkeys",
+      "Rooftop views over the Old Town and harbour"
+    ],
+    "notes": "Dress modestly (covering shoulders and knees) out of respect for the predominantly Muslim community. Comfortable walking shoes are essential . streets are narrow and sometimes uneven. Early morning or late afternoon is best to avoid midday heat. Tipping your guide is customary.",
+    "placeholder": false
+  },
+  {
+    "slug": "kazuri-beads-factory-tour",
+    "name": "Kazuri Beads Factory Tour",
+    "category": "cultural-heritage",
+    "region": "Karen, Nairobi",
+    "description": "Tour the Kazuri Beads factory in Karen, where over 340 women . many single mothers . hand-shape, paint, and string colourful ceramic beads that are exported worldwide. Founded in 1977 as a social enterprise, Kazuri ('small and beautiful' in Swahili) offers free guided tours showing every step of the process, from raw clay to finished jewellery, followed by shopping in the factory outlet.",
+    "shortDescription": "Free factory tour of Kazuri Beads . a women's social enterprise making hand-painted ceramic jewellery.",
+    "duration": "1 hour",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "Free (shopping optional)",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Ethical shoppers",
+      "Families",
+      "Social enterprise supporters",
+      "Souvenir hunters"
+    ],
+    "operators": [
+      "Kazuri Beads Ltd"
+    ],
+    "image": "/images/bueno-maasai-crafts.webp",
+    "highlights": [
+      "Watch artisans hand-shape and paint each bead",
+      "Learn the story of a pioneering women's social enterprise",
+      "Factory outlet with unique, handcrafted jewellery and pottery",
+      "Free guided tours . no entrance fee",
+      "Located in Karen . combine with Karen Blixen Museum and Giraffe Centre"
+    ],
+    "notes": "Open Monday-Saturday, approximately 8am-5pm. No booking needed for individual visitors; groups should call ahead. The factory outlet offers items at workshop prices. Located in the Karen suburb, easily combined with the Karen Blixen Museum and Giraffe Centre.",
+    "placeholder": false
+  },
+  {
+    "slug": "kitengela-glass-art-studio",
+    "name": "Kitengela Glass Art Studio",
+    "category": "cultural-heritage",
+    "region": "Kitengela, Kajiado County",
+    "description": "Visit the extraordinary Kitengela Hot Glass studio, a bohemian creative compound on the edge of Nairobi National Park where artists blow recycled glass into vibrant sculptures, mosaics, and functional art. The property itself is a living art installation . buildings, gardens, sculptures, and a swimming pool are all adorned with brilliant glass mosaic work. Visitors can try glass blowing and bead making.",
+    "shortDescription": "Bohemian glass-blowing studio and art installation on the edge of Nairobi National Park . try your hand at glass art.",
+    "duration": "1-2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 4,
+      "max": 77,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$4 - $77 per person (depending on activity)",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Art lovers",
+      "Families",
+      "Creative travellers",
+      "Photographers"
+    ],
+    "operators": [
+      "Kitengela Hot Glass (Anselm Croze)"
+    ],
+    "image": "/images/bueno-nairobi-skyline.webp",
+    "highlights": [
+      "Watch artisans blow recycled glass into colourful sculptures",
+      "Hands-on glass blowing or bead-making workshops",
+      "Stunning mosaic-covered buildings and sculpture gardens",
+      "Adjacent to Nairobi National Park with occasional wildlife views",
+      "Unique, Instagrammable art installation setting"
+    ],
+    "notes": "Entry fee is approximately KES 500 ($4); glass blowing experiences cost more ($40-77). Call ahead to confirm opening hours and workshop availability. Located about 30 minutes south of Nairobi CBD. The property borders Nairobi National Park . you may spot giraffe and zebra from the garden.",
+    "placeholder": false
+  },
+  {
+    "slug": "nairobi-food-tour-budget",
+    "name": "Nairobi Food Tour (Budget)",
+    "category": "culinary",
+    "region": "Nairobi",
+    "description": "Eat your way through Nairobi's vibrant street food scene on a budget-friendly walking food tour. A local guide leads you through bustling markets and street stalls sampling nyama choma (roasted meat), mutura (Kenyan sausage), samosas, chapati, mandazi (sweet doughnuts), and fresh tropical juices. This is how Nairobians really eat . flavourful, generous, and incredibly affordable.",
+    "shortDescription": "Budget walking food tour through Nairobi's street food scene . nyama choma, samosas, and tropical juices.",
+    "duration": "1-2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 10,
+      "max": 20,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$10 - $20 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Budget travellers",
+      "Foodies",
+      "Solo travellers",
+      "Adventurous eaters"
+    ],
+    "operators": [
+      "Urban Adventures Nairobi",
+      "Local food tour guides (via Airbnb Experiences)"
+    ],
+    "image": "/images/bueno-african-market.webp",
+    "highlights": [
+      "Sample 5-8 iconic Kenyan street foods",
+      "Visit local markets and hidden food stalls",
+      "Learn about Kenyan food culture from a local guide",
+      "Try nyama choma, mutura, and fresh tropical fruits",
+      "Incredibly affordable and authentic experience"
+    ],
+    "notes": "Come hungry . portions are generous. Let your guide know about dietary restrictions in advance. Street food is generally safe at busy, high-turnover stalls, but those with sensitive stomachs may want to stick to freshly cooked items. Carry small denomination notes for purchases.",
+    "placeholder": false
+  },
+  {
+    "slug": "nairobi-food-tour-premium",
+    "name": "Nairobi Food Tour (Premium)",
+    "category": "culinary",
+    "region": "Nairobi",
+    "description": "Experience Nairobi's thriving contemporary food scene on a premium culinary tour that visits a curated selection of the city's best restaurants, artisan cafes, and hidden rooftop bars. Taste fusion dishes that blend traditional Kenyan flavours with international techniques, paired with Kenyan craft beers, wines from Naivasha, and artisan coffee from the Central Highlands.",
+    "shortDescription": "Premium Nairobi food tour visiting top restaurants, artisan cafes, and craft beverage makers.",
+    "duration": "3-4 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 75,
+      "max": 120,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$75 - $120 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Foodies",
+      "Couples",
+      "Corporate groups",
+      "Culinary enthusiasts"
+    ],
+    "operators": [
+      "Eat Out Kenya",
+      "Urban Adventures Nairobi",
+      "Bespoke food tour operators"
+    ],
+    "image": "/images/bueno-nairobi-skyline.webp",
+    "highlights": [
+      "Visit 4-5 curated restaurants and bars",
+      "Contemporary Kenyan fusion cuisine and craft cocktails",
+      "Kenyan craft beer and Naivasha wine pairings",
+      "Meet chefs and learn about the New Kenyan Cuisine movement",
+      "Transport between venues included"
+    ],
+    "notes": "All food and drinks at the featured venues are included. Transport between locations is provided. Tours typically run from late morning into the afternoon or as evening experiences. Vegetarian and dietary alternatives can be arranged with advance notice. Smart-casual dress recommended for upscale venues.",
+    "placeholder": false
+  },
+  {
+    "slug": "swahili-cooking-class",
+    "name": "Swahili Cooking Class",
+    "category": "culinary",
+    "region": "Mombasa, Diani, Lamu, Watamu",
+    "description": "Learn the aromatic art of Swahili cooking in a hands-on class led by a local chef or home cook on the Kenya coast. Markets visits to source ingredients are followed by a lesson in preparing classics like biryani, pilau, coconut fish curry, bhajia, and mahamri. The class culminates in a communal feast of everything you have prepared . the most delicious souvenir of your trip.",
+    "shortDescription": "Hands-on Swahili cooking class on the coast . market visit, spice lessons, and a communal feast.",
+    "duration": "3-6 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "February",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 26,
+      "max": 65,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$26 - $65 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Foodies",
+      "Couples",
+      "Families",
+      "Cultural travellers"
+    ],
+    "operators": [
+      "Swahili Dishes Cooking Class (Diani)",
+      "Tamarind Restaurant (Mombasa)",
+      "Lamu home-cook experiences"
+    ],
+    "image": "/images/bueno-beach-dining.webp",
+    "highlights": [
+      "Market visit to source fresh spices and ingredients",
+      "Learn 3-5 classic Swahili recipes from scratch",
+      "Spice identification . cardamom, turmeric, tamarind, and more",
+      "Communal feast of everything you prepare",
+      "Recipe cards to take home and recreate the dishes"
+    ],
+    "notes": "Classes range from budget home-kitchen experiences ($26) to upscale hotel-based classes ($65). Most include the market visit, ingredients, instruction, and the meal. Vegetarian, vegan, and halal options are easily accommodated. Wear comfortable clothing . kitchens can be warm. Most classes are conducted in English.",
+    "placeholder": false
+  },
+  {
+    "slug": "coffee-farm-tour",
+    "name": "Coffee Farm Tour",
+    "category": "culinary",
+    "region": "Kiambu, Thika, Ruiru (Central Highlands)",
+    "description": "Visit a working coffee farm in Kenya's Central Highlands and follow the journey of your morning cup from cherry to brew. Walk through lush coffee plantations, learn about the meticulous hand-picking and wet-processing methods that make Kenyan AA coffee world-famous, and participate in a cupping (tasting) session guided by a professional Q-grader.",
+    "shortDescription": "Tour a working coffee farm in Kenya's highlands . from cherry picking to professional cupping session.",
+    "duration": "2-3 hours",
+    "bestSeason": "Year-round (harvest Oct-Dec and Jun-Jul)",
+    "peakMonths": [
+      "June",
+      "July",
+      "October",
+      "November",
+      "December"
+    ],
+    "priceRange": {
+      "min": 35,
+      "max": 98,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$35 - $98 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Coffee lovers",
+      "Foodies",
+      "Couples",
+      "Educational groups"
+    ],
+    "operators": [
+      "Kahawa 1893",
+      "Dormans Coffee Tours",
+      "Blue Mountains Coffee Farm",
+      "Fairview Estate"
+    ],
+    "image": "/images/bueno-coffee-farm.webp",
+    "highlights": [
+      "Walk through lush coffee plantations in the highlands",
+      "Learn hand-picking and wet-processing techniques",
+      "Professional cupping (tasting) session with a Q-grader",
+      "Understand what makes Kenyan AA coffee world-class",
+      "Purchase single-origin beans direct from the farm"
+    ],
+    "notes": "Located 30-90 minutes from Nairobi depending on the farm. Harvest season (October-December primary; June-July secondary) offers the fullest experience. Some tours include roasting demonstrations. Wear comfortable walking shoes and bring a light rain jacket in case of highland showers.",
+    "placeholder": false
+  },
+  {
+    "slug": "kiambethu-tea-farm",
+    "name": "Kiambethu Tea Farm",
+    "category": "culinary",
+    "region": "Limuru, Kiambu County",
+    "description": "Step back in time at Kiambethu Tea Farm, one of the oldest tea farms in Kenya, established in 1910 by the McDonell family who still run it today. The half-day visit includes a guided walk through emerald tea fields, a fascinating talk on the history and science of tea production, a multi-course farmhouse lunch, and a stroll through indigenous Mau Forest with colobus monkeys in the canopy.",
+    "shortDescription": "Historic 1910 tea farm visit . tea field walks, production talk, farmhouse lunch, and colobus monkey forest.",
+    "duration": "Half day",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 38,
+      "max": 38,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$38 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Tea enthusiasts",
+      "Couples",
+      "Cultural travellers",
+      "Foodies"
+    ],
+    "operators": [
+      "Kiambethu Tea Farm Experience"
+    ],
+    "image": "/images/bueno-coffee-farm.webp",
+    "highlights": [
+      "Walk through rolling emerald tea fields",
+      "Fascinating talk on Kenya's tea history and production",
+      "Multi-course farmhouse lunch with home-grown produce",
+      "Indigenous forest walk with black-and-white colobus monkeys",
+      "Historic 1910 farm . one of Kenya's oldest"
+    ],
+    "notes": "Advance booking is essential . the farm accepts limited numbers daily. Located in Limuru, approximately 45 minutes from Nairobi. The visit includes tea, lunch, and the forest walk. Bring a light jacket . Limuru's highland altitude makes it cooler than Nairobi. Closed on Sundays.",
+    "placeholder": false
+  },
+  {
+    "slug": "kericho-tea-walk",
+    "name": "Kericho Tea Walk",
+    "category": "culinary",
+    "region": "Kericho, Kericho County",
+    "description": "Explore the vast tea estates of Kericho, Kenya's tea capital in the western highlands, on a guided walk through some of the most productive tea fields in the world. The region's daily afternoon rains and rich volcanic soil produce the bright, coppery tea that forms the backbone of Kenya's export economy. Watch skilled pickers pluck the youngest leaves by hand.",
+    "shortDescription": "Walk through Kenya's tea capital in Kericho . vast highland estates, hand-picking, and tea tasting.",
+    "duration": "1-3 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 1.5,
+      "max": 1.5,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$1.50 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Tea lovers",
+      "Budget travellers",
+      "Photographers",
+      "Nature walkers"
+    ],
+    "operators": [
+      "Kericho Tea Hotel",
+      "Local community guides"
+    ],
+    "image": "/images/bueno-impala-wildlife.webp",
+    "highlights": [
+      "Endless rolling tea fields as far as the eye can see",
+      "Watch hand-picking by skilled estate workers",
+      "Learn about Kenya's tea production . the world's largest exporter",
+      "Fresh highland air at 2,000m altitude",
+      "Extremely affordable experience"
+    ],
+    "notes": "Kericho is approximately 4-5 hours from Nairobi by road. The town rains almost every afternoon . bring waterproofs and plan walks for the morning. Accommodation is available at the heritage Kericho Tea Hotel. The experience is informal . arrange through your hotel or a local guide.",
+    "placeholder": false
+  },
+  {
+    "slug": "carnivore-restaurant",
+    "name": "Carnivore Restaurant Experience",
+    "category": "culinary",
+    "region": "Nairobi (Langata Road)",
+    "description": "Feast at The Carnivore, Nairobi's legendary open-pit barbecue restaurant where Maasai swords deliver an endless parade of roasted meats directly to your table. The 'Beast of a Feast' concept serves rotating cuts of beef, lamb, pork ribs, chicken, and seasonal exotic meats (previously crocodile and ostrich) until you surrender by lowering the white flag at your table.",
+    "shortDescription": "Nairobi's legendary meat feast . endless open-pit barbecue served on Maasai swords until you surrender.",
+    "duration": "1.5-2.5 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 32,
+      "max": 40,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$32 - $40 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Meat lovers",
+      "First-time Nairobi visitors",
+      "Groups and families",
+      "Foodie travellers"
+    ],
+    "operators": [
+      "The Carnivore Restaurant (Tamarind Group)"
+    ],
+    "image": "/images/bueno-nairobi-city.webp",
+    "highlights": [
+      "All-you-can-eat open-pit barbecue",
+      "Meat carved at your table from Maasai swords",
+      "Signature 'surrender' white flag tradition",
+      "Live music and nightclub on weekends",
+      "Iconic Nairobi dining institution since 1980"
+    ],
+    "notes": "Reservations recommended, especially for weekends and holidays. The price covers the unlimited meat feast; drinks are separate. Vegetarian options are available but this is primarily a meat experience. Located on Langata Road near Wilson Airport. Friday and Saturday nights feature live music at the adjacent Simba Saloon.",
+    "placeholder": false
+  },
+  {
+    "slug": "bush-breakfast-or-dinner",
+    "name": "Bush Breakfast or Dinner",
+    "category": "culinary",
+    "region": "Maasai Mara, Laikipia, Amboseli, Samburu",
+    "description": "Dine in the heart of the African bush at a specially prepared open-air table set against a backdrop of sweeping savanna, ancient kopjes, or riverbanks. Whether it is a champagne breakfast after a dawn game drive or a lantern-lit dinner under a canopy of stars, bush dining transforms a meal into a sensory immersion in the wilderness.",
+    "shortDescription": "Open-air bush dining . champagne breakfast on the savanna or starlit dinner under African skies.",
+    "duration": "1.5-3 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 40,
+      "max": 150,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$40 - $150 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Honeymooners",
+      "Couples",
+      "Luxury travellers",
+      "Anniversary celebrations"
+    ],
+    "operators": [
+      "Angama Mara",
+      "andBeyond",
+      "Governors' Camp",
+      "Segera Retreat"
+    ],
+    "image": "/images/bueno-lions-golden-hour.webp",
+    "highlights": [
+      "Elegantly set table in a wild bush setting",
+      "Champagne breakfast after a dawn game drive",
+      "Starlit dinner with lanterns and campfire",
+      "Gourmet multi-course menu by camp chefs",
+      "Private, intimate . usually for your party alone"
+    ],
+    "notes": "Bush dining is typically arranged by safari lodges and camps as a special add-on . request at booking. Costs vary widely: from $40 at mid-range camps to $150+ at ultra-luxury lodges. Weather-dependent . a backup indoor option is usually available. Inform the lodge of dietary requirements in advance.",
+    "placeholder": false
+  },
+  {
+    "slug": "sheldrick-elephant-orphanage",
+    "name": "Sheldrick Elephant Orphanage",
+    "category": "wildlife-nature",
+    "region": "Nairobi (inside Nairobi National Park)",
+    "description": "Watch orphaned baby elephants being bottle-fed, mud-bathing, and playing at the David Sheldrick Wildlife Trust, the world's most successful elephant rescue and rehabilitation program. The one-hour public visit allows you to observe the tiny calves . many rescued from poaching or human-wildlife conflict . as their dedicated keepers describe each elephant's rescue story and personality.",
+    "shortDescription": "Watch orphaned baby elephants bottle-feed and mud-bathe at the world's leading elephant rescue centre.",
+    "duration": "1 hour (public visit 11am-12pm)",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 20,
+      "max": 80,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$20 entry + $80 Nairobi NP fee (combined visit)",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families with children",
+      "Animal lovers",
+      "Short-stay Nairobi visitors",
+      "Conservation supporters"
+    ],
+    "operators": [
+      "Sheldrick Wildlife Trust"
+    ],
+    "image": "/images/bueno-elephants-sunrise.webp",
+    "highlights": [
+      "Baby elephants bottle-feeding and mud-bathing",
+      "Individual rescue stories told by dedicated keepers",
+      "Foster an orphan elephant from $50/year",
+      "Located inside Nairobi National Park",
+      "Supports Kenya's leading elephant conservation program"
+    ],
+    "notes": "Public visiting hours are 11am-12pm daily . arrive early as it gets crowded. Entry is $20 per adult, $5 per child. If combining with Nairobi National Park, the park fee ($80 non-resident) applies separately. Foster parent program allows private 5pm visits for $50 (limited availability). Booking online is recommended.",
+    "placeholder": false
+  },
+  {
+    "slug": "giraffe-centre",
+    "name": "Giraffe Centre",
+    "category": "wildlife-nature",
+    "region": "Langata, Nairobi",
+    "description": "Come face-to-face with endangered Rothschild's giraffes at the African Fund for Endangered Wildlife (AFEW) Giraffe Centre. An elevated platform brings you eye-to-eye with these gentle giants, allowing you to hand-feed them specially prepared pellets and even receive a famous 'giraffe kiss'. The centre is also home to warthogs, dik-dik, and a nature trail through adjacent forest.",
+    "shortDescription": "Hand-feed and 'kiss' endangered Rothschild's giraffes at Nairobi's beloved Giraffe Centre.",
+    "duration": "1.5-2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 15,
+      "max": 15,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$15 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families with children",
+      "Animal lovers",
+      "Nairobi day visitors",
+      "Instagram/content creators"
+    ],
+    "operators": [
+      "AFEW Giraffe Centre"
+    ],
+    "image": "/images/bueno-giraffes-savannah.webp",
+    "highlights": [
+      "Hand-feed Rothschild's giraffes from an elevated platform",
+      "The famous 'giraffe kiss' . a pellet from your lips",
+      "Learn about giraffe conservation and breeding programs",
+      "Nature trail through adjacent forest with warthogs and birds",
+      "Just 20 minutes from Nairobi CBD"
+    ],
+    "notes": "Open daily 9am-5pm. Entry is $15 for non-residents, KES 400 for residents. Pellets for feeding are included in the entry price. The centre is in Langata, easily combined with Karen Blixen Museum, Kazuri Beads, and Sheldrick Elephant Orphanage. Weekday mornings are less crowded.",
+    "placeholder": false
+  },
+  {
+    "slug": "nairobi-safari-walk",
+    "name": "Nairobi Safari Walk",
+    "category": "wildlife-nature",
+    "region": "Nairobi (adjacent to Nairobi National Park)",
+    "description": "Stroll through the Nairobi Safari Walk, a raised boardwalk and ground-level trail that winds through recreated Kenyan habitats . from savanna and wetland to forest . showcasing a wide range of wildlife including white rhino, bongo, cheetah, hyena, and a variety of primates and birds. It is a concentrated introduction to Kenya's biodiversity without needing a full safari.",
+    "shortDescription": "Boardwalk through recreated Kenyan habitats with rhino, bongo, cheetah, and primates near Nairobi.",
+    "duration": "1.5-2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 42,
+      "max": 42,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$42 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families",
+      "Short-stay visitors",
+      "Wildlife newcomers",
+      "Educational groups"
+    ],
+    "operators": [
+      "Kenya Wildlife Service"
+    ],
+    "image": "/images/bueno-rhino-nairobi.webp",
+    "highlights": [
+      "Close-up views of rare species like bongo and white rhino",
+      "Raised boardwalk through different habitat zones",
+      "Informative signage and education centre",
+      "Adjacent to Nairobi National Park (combine visits)",
+      "Accessible for all fitness levels including wheelchair users"
+    ],
+    "notes": "Open daily 8:30am-5:30pm. Entry is combined with the Animal Orphanage next door. Located on Langata Road adjacent to the main gate of Nairobi National Park. Allow 1.5-2 hours. The boardwalk is fully accessible. Photography is permitted throughout.",
+    "placeholder": false
+  },
+  {
+    "slug": "ol-pejeta-conservancy",
+    "name": "Ol Pejeta Conservancy",
+    "category": "wildlife-nature",
+    "region": "Laikipia, Nanyuki",
+    "description": "Visit Ol Pejeta Conservancy, home to the last two northern white rhinos on Earth (Najin and Fatu), the largest black rhino sanctuary in East Africa, and a chimpanzee sanctuary . the only one in Kenya. The 90,000-acre conservancy on the Laikipia Plateau supports all the Big Five and offers game drives, bush walks, night drives, and lion tracking with researchers.",
+    "shortDescription": "Home to the last northern white rhinos and East Africa's largest black rhino sanctuary on the Laikipia Plateau.",
+    "duration": "Full day",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 110,
+      "max": 110,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$110 per person (conservancy fee) + activity extras",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Conservation enthusiasts",
+      "Families",
+      "Rhino supporters",
+      "Day-trippers from Nanyuki"
+    ],
+    "operators": [
+      "Ol Pejeta Conservancy"
+    ],
+    "image": "/images/bueno-cheetah-safari.webp",
+    "highlights": [
+      "Meet Najin and Fatu . the last two northern white rhinos",
+      "Largest black rhino sanctuary in East Africa",
+      "Kenya's only chimpanzee sanctuary (Sweetwaters)",
+      "Big Five game drives on the Laikipia Plateau",
+      "Night drives and bush walks (not available in national parks)"
+    ],
+    "notes": "Conservancy fee is $110 per non-resident adult per day. Guided activities (game drives, lion tracking) are extra. Located near Nanyuki town, approximately 3.5 hours from Nairobi or a 30-minute flight to Nanyuki airstrip. Multiple accommodation options from budget to luxury within the conservancy.",
+    "placeholder": false
+  },
+  {
+    "slug": "lake-baringo-birdwatching",
+    "name": "Lake Baringo Birdwatching",
+    "category": "wildlife-nature",
+    "region": "Lake Baringo, Baringo County",
+    "description": "Lake Baringo in the Rift Valley is one of Kenya's premier birdwatching destinations, with over 470 species recorded . one of the highest concentrations anywhere in Africa. A boat trip on the freshwater lake reveals fish eagles swooping for tilapia, Goliath herons stalking the shallows, and colonies of cormorants and pelicans on rocky islets, while the surrounding acacia woodland hides hornbills, starlings, and weavers.",
+    "shortDescription": "World-class birdwatching on Lake Baringo . 470+ species including fish eagles and Goliath herons.",
+    "duration": "2-4 hours",
+    "bestSeason": "September to April (migratory birds present)",
+    "peakMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "priceRange": {
+      "min": 8,
+      "max": 15,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$8 - $15 per person (boat trip)",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Birdwatchers",
+      "Nature photographers",
+      "Wildlife enthusiasts",
+      "Rift Valley explorers"
+    ],
+    "operators": [
+      "Lake Baringo Club",
+      "Robert's Camp",
+      "Local boat operators"
+    ],
+    "image": "/images/bueno-scenic-sunset.webp",
+    "highlights": [
+      "470+ bird species . one of Africa's richest sites",
+      "Fish eagle calling and swooping demonstrations",
+      "Boat trip to rocky islets with nesting colonies",
+      "Goliath heron, kingfisher, and hornbill sightings",
+      "Combine with Lake Bogoria hot springs and flamingos"
+    ],
+    "notes": "A local bird guide is essential and affordable ($10-20 for a half-day). The boat trip ($8-15 per person) is the highlight. Migratory species from Europe and Asia are present September-April. Binoculars and a field guide (or birding app) are recommended. Lake Bogoria is just 30 minutes away . combine both in a two-day Rift Valley trip.",
+    "placeholder": false
+  },
+  {
+    "slug": "lake-naivasha-boat-safari",
+    "name": "Lake Naivasha Boat Safari",
+    "category": "wildlife-nature",
+    "region": "Lake Naivasha, Nakuru County",
+    "description": "Cruise the papyrus-fringed shores of Lake Naivasha on a boat safari through one of the Rift Valley's most scenic freshwater lakes. Hippos surface with thunderous snorts, African fish eagles cry from fever tree branches, and lily-covered bays harbour herons, jacanas, and kingfishers. The boat can land at Crescent Island for a walking safari among zebra and giraffe.",
+    "shortDescription": "Boat safari on Lake Naivasha . hippos, fish eagles, and papyrus-fringed shores in the Rift Valley.",
+    "duration": "1-2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 20,
+      "max": 30,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$20 - $30 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Day-trippers from Nairobi",
+      "Birdwatchers",
+      "Families",
+      "Photographers"
+    ],
+    "operators": [
+      "Camp Carnelley's",
+      "Lake Naivasha Country Club",
+      "Elsamere Conservation Centre"
+    ],
+    "image": "/images/bueno-hippo-mara.webp",
+    "highlights": [
+      "Hippo encounters at close range from the boat",
+      "African fish eagle sighting . Kenya's iconic raptor",
+      "Papyrus-fringed shoreline teeming with birdlife",
+      "Option to land at Crescent Island for a walking safari",
+      "Stunning Rift Valley scenery and fever tree forests"
+    ],
+    "notes": "Boat trips depart from several access points around the lake. Early morning (7-9am) is best for birdlife and calm water. The boat ride can be combined with Crescent Island ($33 entry + $20 boat) for a half-day experience. Lake Naivasha is 90 minutes from Nairobi . combine with Hell's Gate for a full day.",
+    "placeholder": false
+  },
+  {
+    "slug": "kakamega-rainforest-walk",
+    "name": "Kakamega Rainforest Walk",
+    "category": "wildlife-nature",
+    "region": "Kakamega, Western Kenya",
+    "description": "Walk through Kenya's only tropical rainforest . a remnant of the great Guineo-Congolian forest that once spanned the African continent. Kakamega Forest is a biodiversity hotspot harbouring over 330 bird species, 400 butterfly species, and primates including the De Brazza's monkey and blue monkey. Towering indigenous hardwoods create a dense, cathedral-like canopy.",
+    "shortDescription": "Walk through Kenya's only tropical rainforest . rare primates, 330 bird species, and 400 butterfly species.",
+    "duration": "2-4 hours",
+    "bestSeason": "Year-round (drier Jun-Sep preferred for walking)",
+    "peakMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 22,
+      "max": 22,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$22 per person",
+    "difficulty": "Moderate",
+    "targetClients": [
+      "Birdwatchers",
+      "Nature enthusiasts",
+      "Ecotourists",
+      "Primate lovers"
+    ],
+    "operators": [
+      "Kenya Wildlife Service (Kakamega Forest Station)",
+      "Kenya Forest Service",
+      "Rondo Retreat Centre"
+    ],
+    "image": "/images/bueno-coffee-farm.webp",
+    "highlights": [
+      "Kenya's only tropical rainforest . a unique ecosystem",
+      "330+ bird species including turacos and hornbills",
+      "400 butterfly species . highest diversity in Kenya",
+      "Primate sightings: blue monkey, De Brazza's monkey, colobus",
+      "Ancient hardwood trees and dense forest canopy"
+    ],
+    "notes": "Located in western Kenya, approximately 6 hours from Nairobi. A KWS ranger guide is mandatory and included in the entry fee. Wear waterproof boots . the forest floor can be muddy. Bring binoculars and a rain jacket. Early morning walks (6-9am) offer the best birding and primate sightings.",
+    "placeholder": false
+  },
+  {
+    "slug": "arabuko-sokoke-forest-walk",
+    "name": "Arabuko-Sokoke Forest Walk",
+    "category": "wildlife-nature",
+    "region": "Kilifi County (near Watamu)",
+    "description": "Explore the Arabuko-Sokoke Forest, the largest intact coastal forest in East Africa, on a guided nature walk through diverse habitats ranging from dense Brachystegia woodland to mixed forest and open grassland. The forest is a globally important biodiversity hotspot, home to six globally threatened bird species including Clarke's weaver and the Sokoke scops owl.",
+    "shortDescription": "Guided walk through East Africa's largest coastal forest . rare birds, elephant shrews, and butterflies.",
+    "duration": "2-3 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 22,
+      "max": 22,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$22 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Birdwatchers",
+      "Nature walkers",
+      "Coastal holiday-makers seeking forest activities",
+      "Ecotourists"
+    ],
+    "operators": [
+      "Kenya Forest Service",
+      "Arabuko-Sokoke Forest Guides Association (ASFGA)"
+    ],
+    "image": "/images/bueno-leopard.webp",
+    "highlights": [
+      "Six globally threatened bird species including Sokoke scops owl",
+      "Golden-rumped elephant shrew . one of the world's rarest mammals",
+      "Diverse forest types within a single walk",
+      "Butterfly-rich clearings . over 260 species recorded",
+      "Community-trained guides with expert knowledge"
+    ],
+    "notes": "The forest is located between Watamu and Malindi, making it an easy half-day excursion from either town. Night walks ($30+) are available for owling . the Sokoke scops owl is best seen after dark. Community guides from ASFGA are knowledgeable and affordable. Wear long trousers and closed shoes. Mosquito repellent is essential.",
+    "placeholder": false
+  },
+  {
+    "slug": "nairobi-national-park",
+    "name": "Nairobi National Park Game Drive",
+    "category": "day-trips",
+    "region": "Nairobi",
+    "description": "Experience the surreal sight of lions, rhinos, and giraffes roaming free with the Nairobi skyline shimmering in the background . the only place on Earth where this juxtaposition exists. Nairobi National Park, just 7 km from the city centre, is home to over 100 mammal species including the Big Four (no elephants) and is an important black rhino sanctuary.",
+    "shortDescription": "Game drive in the world's only national park within a capital city . lions and rhinos with the Nairobi skyline behind.",
+    "duration": "Half day",
+    "bestSeason": "Year-round (dry season Jun-Oct concentrates animals at water points)",
+    "peakMonths": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 80,
+      "max": 80,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$80 per person (park fee) + tour/guide extra",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Transit visitors with layovers",
+      "Short-stay business travellers",
+      "Families",
+      "First-time safari-goers"
+    ],
+    "operators": [
+      "Kenya Wildlife Service",
+      "Numerous Nairobi tour operators"
+    ],
+    "image": "/images/bueno-rhino-nairobi.webp",
+    "highlights": [
+      "Lions, rhinos, and buffalo with the Nairobi skyline behind",
+      "Black rhino sanctuary with growing population",
+      "Just 20 minutes from the city centre",
+      "Over 400 bird species . excellent birding",
+      "Combine with Sheldrick Elephant Orphanage (inside the park)"
+    ],
+    "notes": "Park entry is $80 for non-residents (paid via eCitizen portal or at the gate). Guided tours with transport cost an additional $50-100 per person. Early morning (6am gate opening) offers the best game viewing and coolest temperatures. Self-driving is permitted for those with a suitable vehicle. The park can be done as a half-day . ideal for travellers with limited time.",
+    "placeholder": false
+  },
+  {
+    "slug": "karura-forest",
+    "name": "Karura Forest Walk",
+    "category": "day-trips",
+    "region": "Nairobi",
+    "description": "Escape the city in Karura Forest, a 1,000-hectare indigenous forest in the heart of Nairobi saved from development by the activism of Nobel laureate Wangari Maathai. Well-maintained trails wind through towering hardwood trees past waterfalls, caves, and a serene lake, offering jogging, cycling, and nature walking just minutes from the CBD.",
+    "shortDescription": "1,000-hectare indigenous forest oasis in Nairobi . waterfalls, caves, and trails saved by Wangari Maathai.",
+    "duration": "2-4 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 6.5,
+      "max": 6.5,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$6.50 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Nairobi residents",
+      "Joggers and cyclists",
+      "Nature lovers",
+      "Families"
+    ],
+    "operators": [
+      "Kenya Forest Service / Friends of Karura Forest"
+    ],
+    "image": "/images/bueno-coffee-farm.webp",
+    "highlights": [
+      "Three waterfalls within the forest",
+      "Mau Mau caves . historical freedom fighter hideouts",
+      "15 km of walking, jogging, and cycling trails",
+      "Colobus monkeys, duikers, and bushbuck sightings",
+      "River Cafe restaurant for post-walk refreshments"
+    ],
+    "notes": "Open daily 6am-6pm. Entry is KES 800 ($6.50) for non-residents. Bikes can be rented at the gate. The River Cafe inside the forest is excellent for lunch or coffee. The forest is accessed via several gates . Limuru Road gate is most popular. Free guided nature walks are available on some weekends.",
+    "placeholder": false
+  },
+  {
+    "slug": "lake-naivasha-combo-day-trip",
+    "name": "Lake Naivasha Combo Day Trip",
+    "category": "day-trips",
+    "region": "Lake Naivasha, Nakuru County",
+    "description": "Spend a full day exploring the Lake Naivasha area with a combination of a boat safari on the papyrus-fringed lake, a walking safari on Crescent Island, and cycling through Hell's Gate National Park. The region is just 90 minutes from Nairobi and packs an extraordinary variety of landscapes and wildlife into a single day.",
+    "shortDescription": "Full-day Naivasha combo . boat safari, Crescent Island walk, and Hell's Gate cycling in one action-packed trip.",
+    "duration": "Full day",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 80,
+      "max": 120,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$80 - $120 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Day-trippers from Nairobi",
+      "Active travellers",
+      "Families",
+      "Groups of friends"
+    ],
+    "operators": [
+      "Various Nairobi day-tour operators",
+      "Camp Carnelley's"
+    ],
+    "image": "/images/bueno-hippo-mara.webp",
+    "highlights": [
+      "Boat safari with hippos and fish eagles",
+      "Walking safari among zebra and giraffe on Crescent Island",
+      "Cycling through Hell's Gate volcanic landscape",
+      "Three distinct experiences in one day",
+      "Just 90 minutes from Nairobi"
+    ],
+    "notes": "Most tour operators offer all-inclusive packages with transport from Nairobi, park fees, boat hire, and bike rental. Start early (7am departure) to fit everything in comfortably. Bring sunscreen, hat, and comfortable shoes. Pack a picnic or eat at Camp Carnelley's by the lake.",
+    "placeholder": false
+  },
+  {
+    "slug": "crescent-island-walk",
+    "name": "Crescent Island Walking Safari",
+    "category": "day-trips",
+    "region": "Lake Naivasha, Nakuru County",
+    "description": "Walk freely among wildlife on Crescent Island, a private wildlife sanctuary on Lake Naivasha where there are no predators and no fences. Zebra, giraffe, wildebeest, waterbuck, and gazelle graze within arm's reach as you stroll across the island's grassy plains . making it one of the closest and most intimate wildlife encounters possible in Kenya.",
+    "shortDescription": "Walk among zebra, giraffe, and wildebeest with no fences and no vehicles on Crescent Island.",
+    "duration": "1.5-2 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 33,
+      "max": 53,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$33 entry + $20 boat transfer",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families with children",
+      "Photographers",
+      "Short-stay visitors",
+      "Nature walkers"
+    ],
+    "operators": [
+      "Crescent Island Wildlife Sanctuary",
+      "Camp Carnelley's (boat transfers)"
+    ],
+    "image": "/images/bueno-giraffes-savannah.webp",
+    "highlights": [
+      "Walk within metres of giraffe, zebra, and wildebeest",
+      "No predators . safe for children and walking at your own pace",
+      "Film location for 'Out of Africa'",
+      "Boat transfer across Lake Naivasha included",
+      "Excellent birdwatching . fish eagles, pelicans, and herons"
+    ],
+    "notes": "Access is by boat only ($20 per person return from Camp Carnelley's or other jetties). Entry to the island is $33 per non-resident adult. No guide is strictly needed . you walk freely. Early morning or late afternoon offers the best light and cooler temperatures. Crescent Island featured in the film 'Out of Africa'.",
+    "placeholder": false
+  },
+  {
+    "slug": "hells-gate-day-trip",
+    "name": "Hell's Gate Day Trip",
+    "category": "day-trips",
+    "region": "Hell's Gate National Park, Nakuru County",
+    "description": "Spend a full day at Hell's Gate National Park combining cycling through its dramatic volcanic landscape, walking through the narrow Fischer's Tower gorge with natural hot springs, and climbing the towering cliffs. The park . one of only two in Kenya where you can walk and cycle . offers a remarkably active and affordable day out from Nairobi.",
+    "shortDescription": "Full-day Hell's Gate adventure . cycling past wildlife, gorge walking, rock climbing, and hot springs.",
+    "duration": "Full day",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 31,
+      "max": 40,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$31 - $40 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Active day-trippers",
+      "Families",
+      "Budget travellers",
+      "Adventure seekers"
+    ],
+    "operators": [
+      "Kenya Wildlife Service",
+      "Nairobi day-tour operators"
+    ],
+    "image": "/images/bueno-wildebeest-migration.webp",
+    "highlights": [
+      "Cycle through dramatic volcanic cliffs alongside wildlife",
+      "Fischer's Tower gorge walk with natural hot springs",
+      "Rock climbing on the towering basalt columns",
+      "Geothermal steam vents and volcanic formations",
+      "Affordable . one of Kenya's best-value national parks"
+    ],
+    "notes": "Park entry $26 (non-resident). Bike rental $5-10 at the gate. A guide for the gorge walk costs an additional $5-10. Flash floods can occur in the gorge after heavy rain . check conditions with rangers. Located 90 minutes from Nairobi. Combine with Lake Naivasha for a full day.",
+    "placeholder": false
+  },
+  {
+    "slug": "fourteen-falls",
+    "name": "Fourteen Falls",
+    "category": "day-trips",
+    "region": "Thika, Kiambu County",
+    "description": "Visit Fourteen Falls on the Athi River near Thika, where the river cascades over a wide, horseshoe-shaped basalt shelf creating fourteen distinct waterfalls during the rainy season. The surrounding tropical vegetation, mist, and thundering water create a refreshing natural spectacle just an hour from Nairobi. Local guides offer walks to viewing platforms and boat rides to the base of the falls.",
+    "shortDescription": "Fourteen cascading waterfalls on the Athi River near Thika . most dramatic during the rainy season.",
+    "duration": "2-3 hours",
+    "bestSeason": "April to June (rainy season . fullest flow)",
+    "peakMonths": [
+      "April",
+      "May",
+      "June"
+    ],
+    "priceRange": {
+      "min": 20,
+      "max": 20,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$20 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Day-trippers from Nairobi",
+      "Families",
+      "Photographers",
+      "Picnickers"
+    ],
+    "operators": [
+      "Local community guides at the falls"
+    ],
+    "image": "/images/bueno-nairobi-skyline.webp",
+    "highlights": [
+      "Fourteen distinct waterfalls on a wide basalt shelf",
+      "Most dramatic during the long rains (April-June)",
+      "Boat ride to the base of the falls",
+      "Lush tropical vegetation and cooling mist",
+      "Just 1 hour from Nairobi . easy half-day trip"
+    ],
+    "notes": "The falls are most impressive after heavy rains (April-June); during dry season, flow may be reduced. A local guide is recommended for safety near the slippery rocks. Entry is approximately KES 2,500 ($20). Swimming is not recommended due to strong currents. Combine with Thika town for a Kenyan coffee and fruit market experience.",
+    "placeholder": false
+  },
+  {
+    "slug": "paradise-lost",
+    "name": "Paradise Lost",
+    "category": "day-trips",
+    "region": "Kiambu, Kiambu County",
+    "description": "Discover Paradise Lost, a hidden recreational park in Kiambu featuring a stunning underground cave, a waterfall, boating lake, and manicured gardens. The cave system is the highlight . descend into the cool underground chambers where stalactites and underground pools create an otherworldly atmosphere. Above ground, enjoy boat rides, fishing, and picnicking in a lush tropical setting.",
+    "shortDescription": "Hidden cave system, waterfall, and boating lake in Kiambu . a family-friendly escape near Nairobi.",
+    "duration": "2-4 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "April",
+      "May",
+      "June",
+      "August"
+    ],
+    "priceRange": {
+      "min": 4,
+      "max": 16,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$4 - $16 per person (depending on activities)",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Families with children",
+      "School groups",
+      "Picnickers",
+      "Nairobi weekenders"
+    ],
+    "operators": [
+      "Paradise Lost (privately owned)"
+    ],
+    "image": "/images/bueno-impala-wildlife.webp",
+    "highlights": [
+      "Underground cave with stalactites and pools",
+      "Waterfall and scenic nature trails",
+      "Boating lake and fishing pond",
+      "Spacious picnic grounds and playground",
+      "Just 30 minutes from Nairobi CBD"
+    ],
+    "notes": "Entry is KES 500-2,000 ($4-16) depending on age and included activities. The cave descent requires moderate fitness . some sections have steep steps. Bring a light jacket for the cool cave interior. Weekends can be busy . arrive early for a quieter experience. Bring your own picnic or buy food at the on-site restaurant.",
+    "placeholder": false
+  },
+  {
+    "slug": "olorgesailie-prehistoric-site",
+    "name": "Olorgesailie Prehistoric Site",
+    "category": "day-trips",
+    "region": "Olorgesailie, Kajiado County",
+    "description": "Step back 900,000 years at Olorgesailie Prehistoric Site, one of the most significant Stone Age archaeological sites in Africa. Discovered by Louis and Mary Leakey, the open-air museum displays thousands of hand axes and cleavers exactly where they were found on the ancient lake bed. The surrounding Rift Valley landscape remains much as it was when early humans lived here.",
+    "shortDescription": "900,000-year-old Stone Age site discovered by the Leakeys . hand axes preserved where they were found.",
+    "duration": "Half day",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 5,
+      "max": 5,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$5 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "History and archaeology enthusiasts",
+      "Educational groups",
+      "Rift Valley road trippers",
+      "Geology fans"
+    ],
+    "operators": [
+      "National Museums of Kenya"
+    ],
+    "image": "/images/bueno-nairobi-city.webp",
+    "highlights": [
+      "900,000-year-old Acheulean hand axes in situ",
+      "Discovered by Louis and Mary Leakey",
+      "Open-air museum on an ancient lake bed",
+      "Fascinating guided tour by resident curator",
+      "Remote Rift Valley setting . feel the vastness of time"
+    ],
+    "notes": "Located approximately 1.5 hours south of Nairobi on the road to Magadi. The site is managed by the National Museums of Kenya. A guided tour by the resident curator/guide is included and highly recommended. Bring sun protection . the site is exposed and hot. There are no restaurants nearby . bring water and snacks.",
+    "placeholder": false
+  },
+  {
+    "slug": "giraffe-manor-stay",
+    "name": "Giraffe Manor Stay",
+    "category": "luxury-exclusive",
+    "region": "Langata, Nairobi",
+    "description": "Stay at Giraffe Manor, one of the world's most Instagrammed hotels, where resident Rothschild's giraffes poke their heads through the windows at breakfast, join you on the terrace for afternoon tea, and stroll the manicured grounds of this 1930s manor house. With just 12 rooms, the experience is intimate, exclusive, and utterly unforgettable.",
+    "shortDescription": "Iconic boutique hotel where giraffes join you for breakfast through the window . just 12 rooms in a 1930s manor.",
+    "duration": "Minimum 2 nights recommended",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "December",
+      "January"
+    ],
+    "priceRange": {
+      "min": 875,
+      "max": 4392,
+      "currency": "USD",
+      "unit": "per night"
+    },
+    "priceDisplay": "$875 - $4,392 per night",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Luxury travellers",
+      "Honeymooners",
+      "Celebrity guests",
+      "Social media influencers"
+    ],
+    "operators": [
+      "The Safari Collection (Giraffe Manor)"
+    ],
+    "image": "/images/bueno-giraffes-savannah.webp",
+    "highlights": [
+      "Giraffes poking their heads through your bedroom window",
+      "Breakfast with giraffes on the terrace",
+      "1930s Scottish hunting lodge architecture and decor",
+      "Just 12 rooms . deeply intimate and exclusive",
+      "All-inclusive: meals, drinks, and Giraffe Centre visit"
+    ],
+    "notes": "Book 6-12 months in advance . Giraffe Manor is one of the hardest reservations in Africa. Rates are all-inclusive (accommodation, meals, house drinks, laundry, and excursions). Located in Langata, 20 minutes from Nairobi CBD. Owned by The Safari Collection, which also operates Sala's Camp and Solio Lodge.",
+    "placeholder": false
+  },
+  {
+    "slug": "fly-in-safari",
+    "name": "Fly-In Safari",
+    "category": "luxury-exclusive",
+    "region": "Nationwide (Wilson Airport to all major parks)",
+    "description": "Skip the long road transfers and fly directly to Kenya's top safari destinations from Wilson Airport in Nairobi aboard scheduled or charter light aircraft. In under an hour, you can be landing on a bush airstrip in the Maasai Mara, Samburu, Lewa, or Amboseli . maximising your time in the bush and minimising travel fatigue.",
+    "shortDescription": "Fly-in safari transfers from Nairobi to bush airstrips . skip the drive and maximise game-viewing time.",
+    "duration": "Varies (flight 30-90 min each way)",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 200,
+      "max": 420,
+      "currency": "USD",
+      "unit": "return flight"
+    },
+    "priceDisplay": "$200 - $420 return flight per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Time-pressed travellers",
+      "Luxury safari-goers",
+      "Families with young children",
+      "Nervous road travellers"
+    ],
+    "operators": [
+      "SafariLink",
+      "Airkenya Express",
+      "Fly540",
+      "Private charter operators"
+    ],
+    "image": "/images/bueno-hot-air-balloon.webp",
+    "highlights": [
+      "Arrive at the Mara in 45 minutes instead of 5 hours by road",
+      "Aerial views of the Rift Valley, lakes, and wildlife",
+      "Bush airstrip landings . an adventure in themselves",
+      "Scheduled and private charter options available",
+      "15 kg soft-bag luggage limit (pack light!)"
+    ],
+    "notes": "Flights depart from Wilson Airport (not JKIA). Luggage is limited to 15 kg in a soft bag . no hard suitcases. Scheduled flights run daily to the Mara, Samburu, Lewa, Amboseli, and Lamu. Charter flights can reach any airstrip in Kenya. Book seats early during peak season (Jul-Oct). Prices quoted are per person return on scheduled services.",
+    "placeholder": false
+  },
+  {
+    "slug": "private-conservancy-safari",
+    "name": "Private Conservancy Safari",
+    "category": "luxury-exclusive",
+    "region": "Mara Conservancies, Laikipia, Samburu",
+    "description": "Stay in an exclusive lodge or tented camp within a private conservancy bordering a national reserve, where visitor numbers are strictly limited and activities unavailable in public parks . night drives, walking safaris, off-road driving, and bush dinners . are all on the menu. Private conservancies offer the most intimate and flexible safari experience in Kenya.",
+    "shortDescription": "Exclusive safari in a private conservancy . limited guests, night drives, walking safaris, and off-road freedom.",
+    "duration": "2-5 nights",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 484,
+      "max": 2520,
+      "currency": "USD",
+      "unit": "per night"
+    },
+    "priceDisplay": "$484 - $2,520 per night",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Luxury safari enthusiasts",
+      "Honeymooners",
+      "Repeat Kenya visitors",
+      "Privacy seekers"
+    ],
+    "operators": [
+      "Angama Mara (Mara Triangle)",
+      "andBeyond (Bateleur Camp)",
+      "Cottar's 1920s Camp",
+      "Saruni (Mara & Samburu)",
+      "Segera Retreat (Laikipia)"
+    ],
+    "image": "/images/bueno-leopard.webp",
+    "highlights": [
+      "Strictly limited visitor numbers . often exclusive to one lodge",
+      "Night drives, walking safaris, and off-road driving",
+      "Bush dinners and sundowners in private settings",
+      "Direct community benefit . conservancy fees fund local livelihoods",
+      "Some of Africa's finest luxury lodges and camps"
+    ],
+    "notes": "Conservancy rates are typically all-inclusive: accommodation, meals, house drinks, laundry, conservancy fees, and all activities. Most are accessed by light aircraft from Nairobi (45-60 min). Children's policies vary . some camps are adults-only or have minimum age requirements. Book 3-6 months ahead for peak season.",
+    "placeholder": false
+  },
+  {
+    "slug": "private-island-stay-lamu",
+    "name": "Private Island Stay Lamu",
+    "category": "luxury-exclusive",
+    "region": "Lamu Archipelago",
+    "description": "Escape to a private island hideaway in the Lamu Archipelago, where barefoot luxury meets centuries-old Swahili culture. Stay in exquisitely designed villas with private pools, dine on freshly caught seafood under the stars, and spend your days sailing, snorkeling, and exploring the UNESCO World Heritage town of Lamu. The archipelago's car-free, time-forgotten pace is the ultimate digital detox.",
+    "shortDescription": "Barefoot luxury on a private island in the Lamu Archipelago . villas, dhow sailing, and Swahili culture.",
+    "duration": "2-5 nights",
+    "bestSeason": "Year-round (calmest seas Oct-Mar)",
+    "peakMonths": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "priceRange": {
+      "min": 300,
+      "max": 500,
+      "currency": "USD",
+      "unit": "per night"
+    },
+    "priceDisplay": "$300 - $500 per night",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Honeymooners",
+      "Luxury beach seekers",
+      "Digital detox travellers",
+      "Couples"
+    ],
+    "operators": [
+      "The Majlis Resort (Manda Island)",
+      "Peponi Hotel (Shela)",
+      "Kizingo Lodge (Lamu South)"
+    ],
+    "image": "/images/bueno-beach-lounging.webp",
+    "highlights": [
+      "Private villa with pool overlooking the Indian Ocean",
+      "Dhow sailing, snorkeling, and deep-sea fishing",
+      "Freshly caught seafood and Swahili cuisine",
+      "Day trips to UNESCO Lamu Old Town",
+      "Car-free island life . total relaxation"
+    ],
+    "notes": "Lamu is reached by flight from Nairobi (1.5 hours to Lamu/Manda Airport) or from Malindi. Boat transfers to specific islands are arranged by the property. The archipelago is predominantly Muslim . dress modestly when visiting Lamu Town. Rainy season (April-June) sees lower prices but rougher seas.",
+    "placeholder": false
+  },
+  {
+    "slug": "exclusive-bush-dining",
+    "name": "Exclusive Bush Dining",
+    "category": "luxury-exclusive",
+    "region": "Maasai Mara, Laikipia, Amboseli, Samburu",
+    "description": "Dine under the African sky at an elegantly styled table set in a dramatic bush location . atop a kopje, beside a river, or on an open plain. Exclusive bush dining is the art of transforming wilderness into fine dining, with multi-course menus, silver service, candlelight, and the soundtrack of the African night. Many lodges offer this as a private experience for just your party.",
+    "shortDescription": "Private fine dining under the stars in a dramatic bush setting . multi-course menus and silver service.",
+    "duration": "2-3 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 40,
+      "max": 150,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$40 - $150 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Honeymooners",
+      "Anniversary celebrations",
+      "Luxury travellers",
+      "Proposal planners"
+    ],
+    "operators": [
+      "Angama Mara",
+      "Cottar's 1920s Camp",
+      "andBeyond",
+      "Segera Retreat"
+    ],
+    "image": "/images/bueno-lions-golden-hour.webp",
+    "highlights": [
+      "Elegantly set table in a wild, dramatic location",
+      "Multi-course gourmet menu by camp chefs",
+      "Private . usually just your party",
+      "Lanterns, candles, and campfire ambiance",
+      "Sounds of the African night as your soundtrack"
+    ],
+    "notes": "Arrange through your safari lodge . most offer this as an add-on. Costs vary widely based on lodge tier. Inform the kitchen of dietary needs in advance. Weather backup plans are standard. Best during clear, moonless nights for stargazing. Combine with a night game drive for the full experience.",
+    "placeholder": false
+  },
+  {
+    "slug": "luxury-yoga-retreat",
+    "name": "Luxury Yoga Retreat",
+    "category": "luxury-exclusive",
+    "region": "Diani Beach, Lamu, Watamu, Naivasha",
+    "description": "Unwind on a luxury yoga retreat in one of Kenya's most beautiful settings . from beachfront studios overlooking the Indian Ocean to highland lakeside pavilions. Programs range from weekend getaways to two-week immersions, combining daily yoga and meditation with spa treatments, healthy cuisine, and optional adventures like snorkeling, nature walks, or safari day trips.",
+    "shortDescription": "Luxury yoga retreat in stunning Kenyan settings . daily practice, spa, healthy cuisine, and optional adventures.",
+    "duration": "4-14 days",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 500,
+      "max": 4835,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$500 - $4,835 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Yoga practitioners",
+      "Wellness seekers",
+      "Solo female travellers",
+      "Couples"
+    ],
+    "operators": [
+      "Banana House & Wellness Centre (Lamu)",
+      "Diani Yoga (Diani)",
+      "Wildfitness (Watamu)"
+    ],
+    "image": "/images/bueno-palm-beach.webp",
+    "highlights": [
+      "Daily yoga and meditation in stunning natural settings",
+      "Spa treatments and holistic wellness programs",
+      "Healthy, locally sourced cuisine . often organic",
+      "Optional adventures: snorkeling, safari, nature walks",
+      "Small groups for personalised attention"
+    ],
+    "notes": "Retreats cater to all levels from complete beginners to advanced practitioners. Price range reflects the wide spectrum from budget beachside retreats to ultra-luxury spa resorts. Bring your own yoga mat or borrow from the venue. Some retreats include airport transfers. Book well ahead for peak-season retreats (Jan-Feb, Jul-Aug).",
+    "placeholder": false
+  },
+  {
+    "slug": "safari-lodge-spa",
+    "name": "Safari Lodge Spa Treatment",
+    "category": "wellness-spa",
+    "region": "Maasai Mara, Laikipia, Amboseli, Samburu",
+    "description": "Indulge in a spa treatment between game drives at one of Kenya's luxury safari lodges. Many bush spas use locally sourced ingredients . Maasai herbs, honey, coffee, and essential oils . in massages, facials, and body wraps administered in open-air treatment rooms overlooking the savanna. It is wellness with a wild view.",
+    "shortDescription": "Bush spa treatments with savanna views . local herbs, honey, and essential oils between game drives.",
+    "duration": "1-3 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "priceRange": {
+      "min": 50,
+      "max": 200,
+      "currency": "USD",
+      "unit": "per treatment"
+    },
+    "priceDisplay": "$50 - $200 per treatment",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Safari guests",
+      "Couples",
+      "Wellness enthusiasts",
+      "Honeymooners"
+    ],
+    "operators": [
+      "Angama Mara Spa",
+      "andBeyond lodges",
+      "Saruni spas",
+      "Governors' Camp spas"
+    ],
+    "image": "/images/bueno-beach-lounging.webp",
+    "highlights": [
+      "Open-air treatment rooms with savanna or river views",
+      "Locally sourced ingredients . honey, herbs, coffee",
+      "Perfect midday activity between morning and evening drives",
+      "Professional therapists trained in African and international techniques",
+      "Couple's treatments available at most lodges"
+    ],
+    "notes": "Book treatments in advance as bush lodge spas have limited therapists. Midday (11am-3pm) is the ideal time when game viewing is quieter. Treatments are typically charged separately from all-inclusive rates. Some lodges include a complimentary treatment in the room rate . check when booking.",
+    "placeholder": false
+  },
+  {
+    "slug": "coastal-yoga-retreat",
+    "name": "Coastal Yoga Retreat",
+    "category": "wellness-spa",
+    "region": "Diani Beach, Lamu, Watamu",
+    "description": "Reconnect with yourself on a yoga retreat along Kenya's Indian Ocean coast, where the rhythm of the waves sets the pace for daily practice. Sessions take place in open-air studios with ocean views, complemented by meditation, breathwork, and optional Ayurvedic or Thai massage treatments. Healthy coastal cuisine . fresh fish, tropical fruits, and Swahili flavours . nourishes from within.",
+    "shortDescription": "Beachfront yoga retreat with ocean-view studios, meditation, massage, and healthy coastal cuisine.",
+    "duration": "4-14 days",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 500,
+      "max": 4835,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$500 - $4,835 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Yoga practitioners",
+      "Wellness seekers",
+      "Solo travellers",
+      "Couples"
+    ],
+    "operators": [
+      "Banana House & Wellness Centre (Lamu)",
+      "Diani Yoga (Diani)",
+      "Wildfitness (Watamu)"
+    ],
+    "image": "/images/bueno-palm-beach.webp",
+    "highlights": [
+      "Daily yoga in ocean-view open-air studios",
+      "Meditation and breathwork sessions",
+      "Ayurvedic or Thai massage treatments",
+      "Healthy cuisine with fresh seafood and tropical fruits",
+      "Optional beach walks, snorkeling, and dhow sailing"
+    ],
+    "notes": "All levels welcome . from absolute beginners to advanced practitioners. Price varies significantly with accommodation standard: budget beach cottages are at the lower end; luxury boutique villas at the top. Most retreats are on the south coast (Diani) or in the Lamu Archipelago. Bring reef-safe sunscreen.",
+    "placeholder": false
+  },
+  {
+    "slug": "lake-bogoria-hot-springs",
+    "name": "Lake Bogoria Hot Springs",
+    "category": "wellness-spa",
+    "region": "Lake Bogoria, Baringo County",
+    "description": "Soak in the geothermal hot springs on the shores of Lake Bogoria, a Rift Valley soda lake famous for its boiling geysers, steaming fumaroles, and vast flamingo congregations. The hot springs range from scalding-hot geysers to warm pools perfect for bathing, all set against a dramatic backdrop of sheer Rift Valley cliffs and the pink-tinged alkaline lake.",
+    "shortDescription": "Geothermal hot springs and flamingo-filled soda lake in the Rift Valley . natural spa meets raw geology.",
+    "duration": "2-4 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "priceRange": {
+      "min": 50,
+      "max": 50,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$50 per person (park entry)",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Nature lovers",
+      "Geology enthusiasts",
+      "Birdwatchers",
+      "Rift Valley road trippers"
+    ],
+    "operators": [
+      "Kenya Wildlife Service"
+    ],
+    "image": "/images/bueno-scenic-sunset.webp",
+    "highlights": [
+      "Natural geothermal hot springs for bathing",
+      "Boiling geysers and steaming fumaroles",
+      "Greater flamingo congregations along the lake shore",
+      "Dramatic Rift Valley escarpment backdrop",
+      "Greater kudu . one of the few places to see them in Kenya"
+    ],
+    "notes": "The geysers can be dangerously hot . stay on marked paths and test water temperature carefully. The bathing pools are distinct from the boiling geysers. Located about 4 hours north of Nairobi. Park entry is approximately $50 for non-residents. Combine with Lake Baringo (30 minutes away) for a two-day Rift Valley trip.",
+    "placeholder": false
+  },
+  {
+    "slug": "olkaria-geothermal-spa",
+    "name": "Olkaria Geothermal Spa",
+    "category": "wellness-spa",
+    "region": "Hell's Gate, Nakuru County",
+    "description": "Relax in naturally heated geothermal pools at the Olkaria Geothermal Spa, located within Hell's Gate National Park near Lake Naivasha. The pools are heated by the same volcanic activity that powers Kenya's largest geothermal power station nearby. It is a unique chance to soak in warm, mineral-rich water surrounded by the park's dramatic volcanic landscape.",
+    "shortDescription": "Geothermally heated mineral pools inside Hell's Gate National Park . volcanic relaxation near Naivasha.",
+    "duration": "2-4 hours",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "priceRange": {
+      "min": 18,
+      "max": 18,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$18 per person (spa entry; park fee separate)",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Day-trippers from Nairobi",
+      "Families",
+      "Couples",
+      "Hell's Gate visitors"
+    ],
+    "operators": [
+      "KenGen Olkaria Geothermal Spa"
+    ],
+    "image": "/images/bueno-nairobi-skyline.webp",
+    "highlights": [
+      "Naturally heated geothermal swimming pools",
+      "Mineral-rich water from volcanic aquifers",
+      "Located inside Hell's Gate National Park",
+      "Combine with cycling and gorge walking in the park",
+      "Affordable and family-friendly"
+    ],
+    "notes": "Spa entry is approximately KES 2,000-2,500 ($18) on top of the Hell's Gate park entry fee ($26). Bring a swimsuit and towel . rental is limited. The water is warm (not hot) and suitable for children. The spa has changing rooms and basic facilities. Weekends can be crowded . visit on weekdays for a quieter experience.",
+    "placeholder": false
+  },
+  {
+    "slug": "kicc-conference",
+    "name": "KICC Conference Venue",
+    "category": "mice-corporate",
+    "region": "Nairobi CBD",
+    "description": "Host your conference or corporate event at the Kenyatta International Convention Centre (KICC), Nairobi's landmark venue and one of Africa's most recognisable buildings. The centre offers a range of conference halls, exhibition spaces, and boardrooms accommodating from 20 to 5,000 delegates, with a rooftop helipad and panoramic viewing deck offering sweeping views across the city to the national park.",
+    "shortDescription": "Nairobi's landmark convention centre . conference halls for 20-5,000 delegates with rooftop city views.",
+    "duration": "1-5 days",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "March",
+      "September",
+      "October",
+      "November"
+    ],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "unit": "varies"
+    },
+    "priceDisplay": "Varies by event size and requirements",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Conference organisers",
+      "Corporate event planners",
+      "Government and NGO events",
+      "Exhibition organisers"
+    ],
+    "operators": [
+      "KICC Management"
+    ],
+    "image": "/images/bueno-nairobi-city.webp",
+    "highlights": [
+      "Iconic Nairobi landmark . immediately recognisable",
+      "Multiple halls accommodating 20 to 5,000 delegates",
+      "Rooftop viewing deck with panoramic city views",
+      "Central CBD location with easy access",
+      "Full AV, catering, and event management support"
+    ],
+    "notes": "Contact KICC directly for venue hire pricing . rates depend on hall size, duration, and services required. The viewing deck is open to the public ($5 entry) and offers one of the best views of Nairobi. Located in the heart of the CBD, easily accessible by public transport. Multiple international hotels within walking distance.",
+    "placeholder": false
+  },
+  {
+    "slug": "corporate-team-building",
+    "name": "Corporate Team Building",
+    "category": "mice-corporate",
+    "region": "Sagana, Naivasha, Nairobi outskirts",
+    "description": "Energise your team with a corporate team-building day featuring white-water rafting on the Tana River, zip-lining, ropes courses, paintball, and problem-solving challenges set in the scenic outdoors. Professional facilitators design programs around your organisation's goals, from leadership development to communication and trust-building, all wrapped in adrenaline-fueled fun.",
+    "shortDescription": "Action-packed corporate team building . rafting, zip-lining, and facilitated challenges in the Kenyan outdoors.",
+    "duration": "Full day",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "March",
+      "September",
+      "October",
+      "November"
+    ],
+    "priceRange": {
+      "min": 40,
+      "max": 58,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$40 - $58 per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Corporate teams",
+      "HR departments",
+      "Sales kickoff groups",
+      "NGO staff retreats"
+    ],
+    "operators": [
+      "Savage Wilderness Safaris (Sagana)",
+      "Camp Carnelley's (Naivasha)",
+      "Kereita Forest"
+    ],
+    "image": "/images/bueno-nairobi-skyline.webp",
+    "highlights": [
+      "White-water rafting, zip-lining, and ropes courses",
+      "Professional facilitation tailored to corporate objectives",
+      "Scenic outdoor settings 1-2 hours from Nairobi",
+      "Full catering and event logistics handled",
+      "Customisable programs for groups of 10-200+"
+    ],
+    "notes": "Most venues offer full-day packages including activities, lunch, and facilitation. Transport from Nairobi is usually extra. Minimum group size is typically 10 people. Tailor activities to the group's fitness level . not everyone needs to raft. Wet season (Apr-May) may limit some activities. Book 2-4 weeks ahead for large groups.",
+    "placeholder": false
+  },
+  {
+    "slug": "bush-conference-retreat",
+    "name": "Bush Conference Retreat",
+    "category": "mice-corporate",
+    "region": "Maasai Mara, Laikipia, Naivasha, Amboseli",
+    "description": "Combine business with safari by hosting a conference, board retreat, or incentive trip at a luxury bush lodge. Many of Kenya's top safari properties offer dedicated conference facilities . boardrooms, Wi-Fi, AV equipment, and breakout spaces . alongside world-class game drives, bush dining, and spa treatments. The result: productive meetings and unforgettable team experiences.",
+    "shortDescription": "Conference and board retreat at a luxury bush lodge . boardroom meetings by day, game drives by evening.",
+    "duration": "1-5 days",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "March",
+      "September",
+      "October",
+      "November"
+    ],
+    "priceRange": {
+      "min": 400,
+      "max": 2000,
+      "currency": "USD",
+      "unit": "per day per person"
+    },
+    "priceDisplay": "$400 - $2,000 per day per person",
+    "difficulty": "Easy",
+    "targetClients": [
+      "C-suite executives",
+      "Board of directors",
+      "Incentive trip winners",
+      "Leadership teams"
+    ],
+    "operators": [
+      "Fairmont Mara Safari Club",
+      "Sarova Mara Game Camp",
+      "Lake Naivasha Resort",
+      "Segera Retreat (Laikipia)"
+    ],
+    "image": "/images/bueno-safari-game-drive.webp",
+    "highlights": [
+      "Dedicated conference facilities in the bush",
+      "Game drives before and after meetings",
+      "Bush dinners and sundowners for team bonding",
+      "Spa treatments during break sessions",
+      "Fly-in access for time efficiency"
+    ],
+    "notes": "Lodge conference rates typically include full board, drinks, game drives, and meeting room hire. Wi-Fi is available at most lodges but bandwidth is limited . not suitable for heavy video conferencing. Fly-in transfers from Nairobi (45-60 min) save time vs. road. Book 2-3 months ahead, especially for exclusive-use buyouts.",
+    "placeholder": false
+  },
+  {
+    "slug": "golf-experience",
+    "name": "Golf Experience",
+    "category": "mice-corporate",
+    "region": "Nairobi, Naivasha, Nanyuki, Mombasa",
+    "description": "Play a round of golf at one of Kenya's scenic courses, from the colonial-era fairways of the Karen Country Club and Muthaiga Golf Club in Nairobi to the dramatic Rift Valley setting of the Great Rift Valley Lodge course near Naivasha and the tropical coastal course at Vipingo Ridge. Kenya's highland climate and year-round green conditions make for excellent golfing.",
+    "shortDescription": "Play scenic golf courses in Nairobi, the Rift Valley, and the coast . highland climate and year-round green fairways.",
+    "duration": "Half day",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "December",
+      "January",
+      "February",
+      "June",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 35,
+      "max": 62,
+      "currency": "USD",
+      "unit": "per round"
+    },
+    "priceDisplay": "$35 - $62 per round (green fee)",
+    "difficulty": "Easy",
+    "targetClients": [
+      "Corporate golfers",
+      "Business travellers",
+      "Golf tourists",
+      "Retirees"
+    ],
+    "operators": [
+      "Karen Country Club",
+      "Muthaiga Golf Club",
+      "Great Rift Valley Lodge & Golf Resort",
+      "Vipingo Ridge (Coast)"
+    ],
+    "image": "/images/bueno-giraffes-savannah.webp",
+    "highlights": [
+      "Scenic courses with wildlife on the fairways",
+      "Year-round green conditions in the highlands",
+      "Colonial-era club atmospheres at Karen and Muthaiga",
+      "Rift Valley and coastal course options",
+      "Club and equipment hire available at most courses"
+    ],
+    "notes": "Green fees range from $35-62 for visitors; caddy fees and club hire are extra. Some clubs require prior introduction . check guest policies. Kenya's altitude (Nairobi is at 1,700m) means the ball travels further than at sea level. Collared shirts and golf shoes are typically required. Booking a tee time in advance is recommended.",
+    "placeholder": false
+  },
+  {
+    "slug": "running-camp-iten",
+    "name": "Running Camp Iten",
+    "category": "sports-tourism",
+    "region": "Iten, Elgeyo-Marakwet County",
+    "description": "Train alongside world-champion marathon and track athletes at a running camp in Iten, the legendary 'Home of Champions' perched at 2,400m on the edge of the Rift Valley escarpment. Programs range from two-week structured camps to drop-in training, with coached morning runs on red-dirt trails, access to tracks, altitude training benefits, and the chance to learn from the greatest distance runners on Earth.",
+    "shortDescription": "Train at altitude with world-champion runners in Iten . Kenya's legendary 'Home of Champions'.",
+    "duration": "2 weeks (typical camp)",
+    "bestSeason": "Year-round",
+    "peakMonths": [
+      "January",
+      "February",
+      "March",
+      "June",
+      "July",
+      "August"
+    ],
+    "priceRange": {
+      "min": 1500,
+      "max": 3500,
+      "currency": "USD",
+      "unit": "per person"
+    },
+    "priceDisplay": "$1,500 - $3,500 per person (2-week camp)",
+    "difficulty": "Challenging",
+    "targetClients": [
+      "Amateur and competitive runners",
+      "Marathon trainers",
+      "Running clubs",
+      "Sports tourists"
+    ],
+    "operators": [
+      "High Altitude Training Centre (Lornah Kiplagat)",
+      "Kerio View Camp",
+      "Run in Africa"
+    ],
+    "image": "/images/bueno-scenic-sunset.webp",
+    "highlights": [
+      "Train at 2,400m altitude for natural performance gains",
+      "Run alongside Olympic and World Championship athletes",
+      "Coached morning sessions on legendary red-dirt trails",
+      "Rift Valley escarpment views from training routes",
+      "Cultural immersion in Kenya's running heartland"
+    ],
+    "notes": "A base level of running fitness is required . most camps expect participants to run at least 30-40 km per week. Altitude adjustment takes 3-5 days . expect initial performance to drop. Camps typically include accommodation, meals, coaching, and some excursions. Iten is approximately 5-6 hours from Nairobi by road or a flight to Eldoret (1 hour) plus a 40-minute drive.",
+    "placeholder": false
+  },
+  {
+    "slug": "lewa-safari-marathon",
+    "name": "Lewa Safari Marathon",
+    "category": "sports-tourism",
+    "region": "Lewa Wildlife Conservancy, Meru County",
+    "description": "Run a marathon (or half marathon) through a wildlife conservancy teeming with rhinos, elephants, zebra, and giraffe at the legendary Lewa Safari Marathon. Held annually in late June, this is one of the world's most unique races . armed rangers line the route for runner safety, and the terrain includes red-dirt tracks, river crossings, and challenging hills at 1,600m altitude. Proceeds directly fund wildlife conservation.",
+    "shortDescription": "Run a marathon through a rhino conservancy alongside wildlife . one of the world's most unique races.",
+    "duration": "1 day (June 27, 2026)",
+    "bestSeason": "June (annual event)",
+    "peakMonths": [
+      "June"
+    ],
+    "priceRange": {
+      "min": 250,
+      "max": 395,
+      "currency": "USD",
+      "unit": "entry fee"
+    },
+    "priceDisplay": "$250 - $395 entry fee",
+    "difficulty": "Challenging",
+    "targetClients": [
+      "Marathon runners",
+      "Trail runners",
+      "Charity runners",
+      "Adventure racers"
+    ],
+    "operators": [
+      "Lewa Wildlife Conservancy / Tusk Trust"
+    ],
+    "image": "/images/bueno-impala-wildlife.webp",
+    "highlights": [
+      "Run alongside rhinos, elephants, and giraffe",
+      "Armed rangers for runner safety throughout the course",
+      "Full marathon and half marathon distances available",
+      "All proceeds fund wildlife and community conservation",
+      "One of National Geographic's 'Top 10 Marathons in the World'"
+    ],
+    "notes": "The 2026 race is scheduled for June 27. Registration opens months in advance and sells out . book early. The course is hilly and at altitude (1,600m) . train accordingly. Entry fee includes race entry, camping at Lewa, and meals. Many runners combine the race with a safari holiday. Fundraising commitments apply for some entry tiers.",
+    "placeholder": false
+  },
+  {
+    "slug": "kenya-wildlife-marathon",
+    "name": "Kenya Wildlife Marathon",
+    "category": "sports-tourism",
+    "region": "Tsavo West National Park",
+    "description": "Race through Tsavo West National Park on the Kenya Wildlife Marathon, a spectacular off-road race set against the backdrop of volcanic landscapes, acacia woodland, and the vast expanse of one of Africa's largest wildlife parks. The race offers full marathon, half marathon, and shorter distances, with wildlife sightings along the route adding a truly wild dimension to the running experience.",
+    "shortDescription": "Off-road marathon through Tsavo West National Park . volcanic landscapes and wildlife along the route.",
+    "duration": "1 day (May 24, 2026)",
+    "bestSeason": "May (annual event)",
+    "peakMonths": [
+      "May"
+    ],
+    "priceRange": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "unit": "entry fee"
+    },
+    "priceDisplay": "Entry fee TBD",
+    "difficulty": "Challenging",
+    "targetClients": [
+      "Trail and ultra runners",
+      "Adventure racers",
+      "Wildlife marathon enthusiasts",
+      "International running tourists"
+    ],
+    "operators": [
+      "Kenya Wildlife Marathon Organisation"
+    ],
+    "image": "/images/bueno-wildebeest-migration.webp",
+    "highlights": [
+      "Run through a major wildlife national park",
+      "Volcanic landscapes and acacia woodland course",
+      "Full marathon, half marathon, and shorter distances",
+      "Support wildlife conservation with your entry",
+      "Unique race medal and finisher's experience"
+    ],
+    "notes": "The 2026 race is scheduled for May 24. Entry details and pricing are typically announced 3-6 months before the event . check the official website. The course is challenging with off-road terrain and potential heat. Previous marathon or trail running experience is strongly recommended. Accommodation and transport packages are usually offered by the organisers.",
+    "placeholder": false
+  }
+]

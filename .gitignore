@@ -1,0 +1,46 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+*.tsbuildinfo
+next-env.d.ts
+
+# environment
+.env*
+!.env.example
+
+# runtime data written by the back office (catalog, team, credentials, activity log)
+/data/store/*
+!/data/store/.gitkeep
+
+# tests
+/coverage
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/.vitest/
+
+# os
+.DS_Store
+
+# never commit: credentials, local state, OS and editor files
+.env
+.env.*
+!.env.example
+!functions/.env.example
+!functions/.env.demo-goldstar
+*.pem
+*.p8
+*.p12
+*service-account*.json
+*adminsdk*.json
+.firebase/
+firebase-export-*/
+*-debug.log
+*.log
+.DS_Store
+.idea/
+.vscode/
+.claude/

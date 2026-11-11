@@ -1,0 +1,296 @@
+[
+  {
+    "slug": "maasai-mara",
+    "title": "Maasai Mara",
+    "subtitle": "The Crown Jewel of African Safari",
+    "description": "Home to the Great Migration and the Big Five, the Maasai Mara is Kenya's most celebrated wildlife reserve. Rolling golden savannas stretch to the horizon, dotted with acacia trees and teeming with an extraordinary density of wildlife.",
+    "shortDescription": "Kenya's most iconic wildlife reserve, home to the Great Migration.",
+    "image": "/images/bueno-wildebeest-migration.webp",
+    "gallery": [
+      "/images/bueno-wildebeest-migration.webp",
+      "/images/bueno-lions-golden-hour.webp",
+      "/images/bueno-hot-air-balloon.webp"
+    ],
+    "highlights": [
+      "Great Migration crossing",
+      "Big Five game drives",
+      "Hot air balloon safaris",
+      "Maasai cultural visits"
+    ],
+    "bestTimeToVisit": "July - October",
+    "averageTemp": "20-28°C"
+  },
+  {
+    "slug": "diani-beach",
+    "title": "Diani Beach",
+    "subtitle": "Paradise on the Indian Ocean",
+    "description": "Consistently voted Africa's leading beach destination, Diani Beach stretches for 17 kilometers of pristine white sand backed by lush coastal forest. Crystal-clear turquoise waters offer world-class snorkeling, diving, and water sports.",
+    "shortDescription": "Africa's leading beach destination with 17km of pristine white sand.",
+    "image": "/images/bueno-beach-lounging.webp",
+    "gallery": [
+      "/images/bueno-beach-lounging.webp",
+      "/images/bueno-snorkeling.webp",
+      "/images/bueno-coral-reef.webp"
+    ],
+    "highlights": [
+      "White sand beaches",
+      "Coral reef snorkeling",
+      "Colobus monkey conservation",
+      "Water sports paradise"
+    ],
+    "bestTimeToVisit": "December - March",
+    "averageTemp": "25-32°C"
+  },
+  {
+    "slug": "nairobi",
+    "title": "Nairobi",
+    "subtitle": "The Green City in the Sun",
+    "description": "Kenya's dynamic capital is the only city in the world with a national park within its borders. A cosmopolitan hub of culture, cuisine, and innovation, Nairobi offers everything from world-class dining to wildlife encounters just minutes from the city center.",
+    "shortDescription": "Kenya's vibrant capital. The only city with a national park within its borders.",
+    "image": "/images/bueno-nairobi-skyline.webp",
+    "gallery": [
+      "/images/bueno-nairobi-skyline.webp",
+      "/images/bueno-rhino-nairobi.webp",
+      "/images/bueno-african-market.webp"
+    ],
+    "highlights": [
+      "Nairobi National Park",
+      "David Sheldrick Elephant Orphanage",
+      "Giraffe Centre",
+      "Karen Blixen Museum"
+    ],
+    "bestTimeToVisit": "Year-round",
+    "averageTemp": "15-26°C"
+  },
+  {
+    "slug": "amboseli",
+    "title": "Amboseli",
+    "subtitle": "Land of Giants",
+    "description": "Famous for its large elephant herds and iconic views of Mount Kilimanjaro, Amboseli National Park offers some of Kenya's most photographed landscapes. Watch elephants walk in silhouette against Africa's highest peak.",
+    "shortDescription": "Iconic elephant herds framed by the majestic Mount Kilimanjaro.",
+    "image": "/images/bueno-elephants-sunrise.webp",
+    "gallery": [
+      "/images/bueno-elephants-sunrise.webp",
+      "/images/bueno-lion-mara.webp",
+      "/images/bueno-scenic-sunset.webp"
+    ],
+    "highlights": [
+      "Elephant herds",
+      "Kilimanjaro views",
+      "Observation Hill",
+      "Maasai communities"
+    ],
+    "bestTimeToVisit": "June - October",
+    "averageTemp": "20-30°C"
+  },
+  {
+    "slug": "lake-naivasha",
+    "title": "Lake Naivasha",
+    "subtitle": "Jewel of the Rift Valley",
+    "description": "A freshwater lake in the Great Rift Valley surrounded by papyrus and acacia forests. Lake Naivasha is a haven for birdwatchers with over 400 species, and Crescent Island offers one of Kenya's best walking safari experiences.",
+    "shortDescription": "A serene freshwater lake in the Rift Valley, perfect for boat safaris and birdwatching.",
+    "image": "/images/bueno-hippo-mara.webp",
+    "gallery": [
+      "/images/bueno-hippo-mara.webp",
+      "/images/bueno-giraffes-savannah.webp",
+      "/images/bueno-impala-wildlife.webp"
+    ],
+    "highlights": [
+      "Boat safaris",
+      "Crescent Island walking safari",
+      "400+ bird species",
+      "Hippo spotting"
+    ],
+    "bestTimeToVisit": "Year-round",
+    "averageTemp": "18-28°C"
+  },
+  {
+    "slug": "watamu",
+    "title": "Watamu",
+    "subtitle": "Marine Paradise",
+    "description": "A small coastal town with one of Kenya's finest marine parks. Watamu's protected coral reefs teem with tropical fish, sea turtles, and dolphins. The nearby Gede Ruins add a layer of historical mystery to this seaside gem.",
+    "shortDescription": "Pristine marine park, coral reefs, and one of Kenya's best-kept coastal secrets.",
+    "image": "/images/bueno-coral-reef.webp",
+    "gallery": [
+      "/images/bueno-coral-reef.webp",
+      "/images/bueno-snorkeling.webp",
+      "/images/bueno-dhow-zanzibar.webp"
+    ],
+    "highlights": [
+      "Marine National Park",
+      "Sea turtle conservation",
+      "Gede Ruins",
+      "Deep-sea fishing"
+    ],
+    "bestTimeToVisit": "October - March",
+    "averageTemp": "24-32°C"
+  },
+  {
+    "slug": "lamu",
+    "title": "Lamu",
+    "subtitle": "UNESCO Heritage Island",
+    "description": "One of the oldest inhabited towns in East Africa, Lamu Old Town is a UNESCO World Heritage Site. Narrow winding streets, ancient Swahili architecture, and a pace of life unchanged for centuries make Lamu a truly unique destination.",
+    "shortDescription": "A UNESCO World Heritage island with centuries-old Swahili culture and donkey-only streets.",
+    "image": "/images/bueno-dhow-zanzibar.webp",
+    "gallery": [
+      "/images/bueno-dhow-zanzibar.webp",
+      "/images/bueno-african-market.webp",
+      "/images/bueno-beach-lounging.webp"
+    ],
+    "highlights": [
+      "UNESCO Old Town",
+      "Dhow sailing",
+      "Swahili architecture",
+      "Shela Beach"
+    ],
+    "bestTimeToVisit": "June - March",
+    "averageTemp": "25-33°C"
+  },
+  {
+    "slug": "nanyuki",
+    "title": "Nanyuki",
+    "subtitle": "Gateway to Mount Kenya",
+    "description": "A charming highland town at the foot of Mount Kenya. Nanyuki serves as the base for Mount Kenya treks and is surrounded by some of Kenya's finest luxury ranches and conservancies, offering exclusive wildlife experiences.",
+    "shortDescription": "Highland town at the foot of Mount Kenya, surrounded by luxury ranches and conservancies.",
+    "image": "/images/bueno-impala-wildlife.webp",
+    "gallery": [
+      "/images/bueno-impala-wildlife.webp",
+      "/images/bueno-leopard.webp",
+      "/images/bueno-coffee-farm.webp"
+    ],
+    "highlights": [
+      "Mount Kenya treks",
+      "Ol Pejeta Conservancy",
+      "Equator crossing",
+      "Luxury ranch stays"
+    ],
+    "bestTimeToVisit": "January - March, July - October",
+    "averageTemp": "12-24°C"
+  },
+  {
+    "slug": "lake-nakuru",
+    "title": "Lake Nakuru",
+    "subtitle": "Flamingos, Rhinos & Rift Valley Views",
+    "description": "Set within the floor of the Great Rift Valley, Lake Nakuru National Park is one of Kenya's most visually striking reserves. The alkaline lake draws vast flocks of flamingos that paint the shoreline pink, while the surrounding acacia woodland shelters both black and white rhinos, making it one of the best places in East Africa to see these endangered animals up close.",
+    "shortDescription": "A Rift Valley gem known for its flamingo-lined shores and thriving rhino sanctuary.",
+    "image": "/images/bueno-safari-game-drive.webp",
+    "gallery": [
+      "/images/bueno-safari-game-drive.webp",
+      "/images/bueno-rhino-nairobi.webp",
+      "/images/bueno-giraffes-savannah.webp"
+    ],
+    "highlights": [
+      "Flamingo-lined lakeshores",
+      "Black and white rhino sanctuary",
+      "Baboon Cliff viewpoint",
+      "Makalia Waterfalls"
+    ],
+    "bestTimeToVisit": "June - March",
+    "averageTemp": "18-28°C"
+  },
+  {
+    "slug": "samburu",
+    "title": "Samburu",
+    "subtitle": "Where the Wild North Begins",
+    "description": "Samburu National Reserve sits in Kenya's arid north, bisected by the palm-fringed Ewaso Ng'iro River. This rugged landscape is home to the Samburu Special Five: Grevy's zebra, reticulated giraffe, Beisa oryx, Somali ostrich, and the long-necked gerenuk. Far fewer visitors make it this far north, giving the reserve an intimate, off-the-beaten-path quality that is hard to find elsewhere in Kenya.",
+    "shortDescription": "A remote northern reserve home to rare wildlife and the Samburu Special Five.",
+    "image": "/images/bueno-camel-ride.webp",
+    "gallery": [
+      "/images/bueno-camel-ride.webp",
+      "/images/bueno-leopard.webp",
+      "/images/bueno-scenic-sunset.webp"
+    ],
+    "highlights": [
+      "The Samburu Special Five",
+      "Ewaso Ng'iro River game viewing",
+      "Leopard sightings",
+      "Samburu cultural experiences"
+    ],
+    "bestTimeToVisit": "June - October, January - February",
+    "averageTemp": "24-34°C"
+  },
+  {
+    "slug": "tsavo",
+    "title": "Tsavo",
+    "subtitle": "Kenya's Untamed Wilderness",
+    "description": "Together, Tsavo East and Tsavo West form the largest protected area in Kenya, covering over 20,000 square kilometres of diverse terrain. Tsavo West is known for its volcanic landscapes, lava flows, and the crystal-clear Mzima Springs, while Tsavo East offers vast open plains and the iconic Yatta Plateau. The park's elephants famously dust themselves in the region's red laterite soil, giving them their distinctive rust-coloured appearance.",
+    "shortDescription": "Kenya's largest national park, famous for red elephants, lava flows, and untouched wilderness.",
+    "image": "/images/bueno-cheetah-safari.webp",
+    "gallery": [
+      "/images/bueno-cheetah-safari.webp",
+      "/images/bueno-elephants-sunrise.webp",
+      "/images/bueno-lions-golden-hour.webp"
+    ],
+    "highlights": [
+      "Red elephants of Tsavo",
+      "Mzima Springs underwater viewing",
+      "Yatta Plateau lava flow",
+      "Lugard Falls"
+    ],
+    "bestTimeToVisit": "June - October, January - February",
+    "averageTemp": "25-33°C"
+  },
+  {
+    "slug": "laikipia",
+    "title": "Laikipia",
+    "subtitle": "Conservation at Its Finest",
+    "description": "The Laikipia Plateau is Kenya's conservation success story. A patchwork of private ranches, community conservancies, and wildlife corridors, it supports the country's largest population of endangered black rhinos and the second-largest population of elephants. With far fewer tourists than the Mara, Laikipia offers exclusive walking safaris, night drives, and horseback rides through landscapes shared by Maasai, Samburu, and Laikipia communities.",
+    "shortDescription": "A private conservancy region with exceptional rhino populations and exclusive safari experiences.",
+    "image": "/images/bueno-lions-golden-hour.webp",
+    "gallery": [
+      "/images/bueno-lions-golden-hour.webp",
+      "/images/bueno-giraffes-savannah.webp",
+      "/images/bueno-cheetah-safari.webp"
+    ],
+    "highlights": [
+      "Black rhino tracking on foot",
+      "Ol Pejeta Conservancy",
+      "Night game drives",
+      "Horseback safaris"
+    ],
+    "bestTimeToVisit": "Year-round (dry season June - October best)",
+    "averageTemp": "15-27°C"
+  },
+  {
+    "slug": "hells-gate",
+    "title": "Hells Gate",
+    "subtitle": "Walk Among the Wildlife",
+    "description": "One of the few national parks in Kenya where you can explore entirely on foot or by bicycle, Hells Gate offers a completely different kind of safari. Towering red cliffs rise on either side as you cycle past zebras, giraffes, and buffalo grazing in the open valley. The park's Fischer's Tower and the narrow gorge with its geothermal hot springs add a geological drama that sets it apart from any other destination in the country.",
+    "shortDescription": "A unique park where you walk and cycle among zebras, giraffes, and volcanic gorges.",
+    "image": "/images/bueno-maasai-crafts.webp",
+    "gallery": [
+      "/images/bueno-maasai-crafts.webp",
+      "/images/bueno-giraffes-savannah.webp",
+      "/images/bueno-scenic-sunset.webp"
+    ],
+    "highlights": [
+      "Cycling safaris among wildlife",
+      "Fischer's Tower landmark",
+      "Volcanic gorge hiking",
+      "Geothermal hot springs"
+    ],
+    "bestTimeToVisit": "Year-round",
+    "averageTemp": "16-28°C"
+  },
+  {
+    "slug": "mombasa-north-coast",
+    "title": "Mombasa North Coast",
+    "subtitle": "Where History Meets the Ocean",
+    "description": "The North Coast stretches from Mombasa Island through Nyali, Bamburi, and Shanzu, offering a mix of resort luxury, historical depth, and local culture. Fort Jesus, a 16th-century Portuguese fortress and UNESCO World Heritage Site, anchors the old town, while the long sandy beaches of Nyali and Bamburi provide easy access to water sports, marine parks, and Haller Park's rescued wildlife. The North Coast is livelier and more connected to Mombasa's urban energy than its quieter southern counterpart.",
+    "shortDescription": "Resort beaches, Fort Jesus, and the vibrant culture of Mombasa's northern coastline.",
+    "image": "/images/bueno-beach-dining.webp",
+    "gallery": [
+      "/images/bueno-beach-dining.webp",
+      "/images/bueno-palm-beach.webp",
+      "/images/bueno-snorkeling.webp"
+    ],
+    "highlights": [
+      "Fort Jesus UNESCO site",
+      "Nyali and Bamburi beaches",
+      "Haller Park wildlife sanctuary",
+      "Mombasa Old Town"
+    ],
+    "bestTimeToVisit": "December - March, July - October",
+    "averageTemp": "24-32°C"
+  }
+]

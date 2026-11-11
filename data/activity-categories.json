@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "classic-safari",
+    "name": "Classic Safari Experiences",
+    "description": "Iconic game drives and bush experiences across Kenya's legendary reserves and conservancies. From the Great Migration in the Maasai Mara to the elephant herds of Amboseli, these safaris showcase Africa's most celebrated wildlife spectacles.",
+    "icon": "Binoculars",
+    "image": "/images/bueno-lion-mara.webp"
+  },
+  {
+    "slug": "beach-coastal",
+    "name": "Beach & Coastal",
+    "description": "Kenya's Indian Ocean coastline offers pristine white-sand beaches, vibrant coral reefs, and centuries-old Swahili culture. Dive into marine parks, sail aboard traditional dhows, and discover underwater worlds teeming with tropical life.",
+    "icon": "Waves",
+    "image": "/images/bueno-beach-lounging.webp"
+  },
+  {
+    "slug": "water-sports",
+    "name": "Water Sports",
+    "description": "Ride the wind and waves along Kenya's coast with world-class kitesurfing, stand-up paddleboarding, jet skiing, and more. The warm Indian Ocean waters and consistent trade winds create ideal conditions for aquatic thrills year-round.",
+    "icon": "Sailboat",
+    "image": "/images/bueno-snorkeling.webp"
+  },
+  {
+    "slug": "adventure-outdoor",
+    "name": "Adventure & Outdoor",
+    "description": "Challenge yourself with mountain treks, white-water rapids, bungee jumps, and zip-line canopy tours. Kenya's diverse terrain includes snow-capped peaks and rift valley gorges. These environments offer adrenaline-pumping adventures for every fitness level.",
+    "icon": "Mountain",
+    "image": "/images/bueno-hot-air-balloon.webp"
+  },
+  {
+    "slug": "air-experiences",
+    "name": "Air Experiences",
+    "description": "See Kenya from above with hot air balloon safaris over the Mara, scenic helicopter flights along the Rift Valley, and multi-day aerial expeditions to remote wilderness areas inaccessible by road.",
+    "icon": "Plane",
+    "image": "/images/bueno-scenic-sunset.webp"
+  },
+  {
+    "slug": "horse-camel",
+    "name": "Horse Riding & Camel Safaris",
+    "description": "Traverse the African bush on horseback or camelback for a uniquely intimate wildlife experience. Ride alongside zebra and giraffe on the Laikipia Plateau or journey through northern Kenya's arid landscapes with Samburu camel caravans.",
+    "icon": "Footprints",
+    "image": "/images/bueno-camel-ride.webp"
+  },
+  {
+    "slug": "cultural-heritage",
+    "name": "Cultural Heritage",
+    "description": "Explore Kenya's rich tapestry of cultures, from the Maasai warriors of the savanna to the Swahili traders of the coast. Visit UNESCO World Heritage Sites, living museums, artisan workshops, and centuries-old ruins that tell the story of East Africa.",
+    "icon": "Landmark",
+    "image": "/images/bueno-maasai-crafts.webp"
+  },
+  {
+    "slug": "culinary",
+    "name": "Culinary Experiences",
+    "description": "Taste your way through Kenya with street food tours in Nairobi, Swahili cooking classes on the coast, coffee farm visits in the highlands, and bush dining under the stars. Kenya's culinary scene is as diverse as its landscapes.",
+    "icon": "UtensilsCrossed",
+    "image": "/images/bueno-coffee-farm.webp"
+  },
+  {
+    "slug": "wildlife-nature",
+    "name": "Wildlife & Nature",
+    "description": "Get up close with Kenya's extraordinary biodiversity through sanctuaries, conservancies, and nature walks. Feed giraffes, watch baby elephants, spot rare birds, and explore ancient forests that harbour unique ecosystems found nowhere else on Earth.",
+    "icon": "TreePine",
+    "image": "/images/bueno-hippo-mara.webp"
+  },
+  {
+    "slug": "day-trips",
+    "name": "Day Trips from Nairobi",
+    "description": "Escape the capital for a day of adventure. From the only national park within a capital city to scenic lakes, waterfalls, and geological wonders. All within an easy drive of Nairobi and perfect for visitors with limited time.",
+    "icon": "MapPin",
+    "image": "/images/bueno-nairobi-skyline.webp"
+  },
+  {
+    "slug": "luxury-exclusive",
+    "name": "Luxury & Exclusive",
+    "description": "Indulge in Kenya's most exclusive experiences including breakfast with giraffes, fly-in safaris to private conservancies, secluded island retreats, and bespoke bush dining. These premium offerings deliver unmatched privacy, service, and once-in-a-lifetime moments.",
+    "icon": "Crown",
+    "image": "/images/bueno-leopard.webp"
+  },
+  {
+    "slug": "wellness-spa",
+    "name": "Wellness & Spa",
+    "description": "Rejuvenate body and mind with safari lodge spas, coastal yoga retreats, and natural hot springs set against Kenya's most dramatic backdrops. Combine wellness with wilderness for a holistic African getaway.",
+    "icon": "Heart",
+    "image": "/images/bueno-palm-beach.webp"
+  },
+  {
+    "slug": "mice-corporate",
+    "name": "MICE & Corporate",
+    "description": "Host conferences, incentive trips, and team-building retreats in Kenya's world-class venues from Nairobi's KICC to bush lodges in the Mara. Combine business with safari for corporate events that leave a lasting impression.",
+    "icon": "Building2",
+    "image": "/images/bueno-nairobi-city.webp"
+  },
+  {
+    "slug": "sports-tourism",
+    "name": "Sports Tourism",
+    "description": "Train with world-champion runners in Iten, race through wildlife conservancies in iconic marathons, and experience the athletic culture that has produced more distance-running legends than anywhere else on the planet.",
+    "icon": "Trophy",
+    "image": "/images/bueno-impala-wildlife.webp"
+  }
+]

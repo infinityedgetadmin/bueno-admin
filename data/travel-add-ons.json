@@ -1,0 +1,51 @@
+[
+  {
+    "id": "solo-companion",
+    "title": "Solo Travel Companion & Support",
+    "description": "A trusted local travel buddy who accompanies solo travelers and small groups, backed by tailored itineraries, vetted local contacts, and 24/7 on-ground support — comfort, local knowledge, and peace of mind from start to finish.",
+    "icon": "Users",
+    "tier": "add-on"
+  },
+  {
+    "id": "security",
+    "title": "Personal Security",
+    "description": "Discreet, professional security personnel for travelers who want an extra layer of safety and confidence during their trip.",
+    "icon": "Shield",
+    "tier": "add-on"
+  },
+  {
+    "id": "photographer",
+    "title": "Trip Photographer",
+    "description": "A professional photographer to capture your journey — from golden-hour safaris to candid moments. Every trip includes a complimentary digital photo gallery delivered post-trip.",
+    "icon": "Camera",
+    "tier": "add-on"
+  },
+  {
+    "id": "first-aid",
+    "title": "Trained First Aider",
+    "description": "Certified first aid professionals available for your group, providing medical readiness and on-the-ground support for remote or adventure itineraries.",
+    "icon": "HeartPulse",
+    "tier": "add-on"
+  },
+  {
+    "id": "private-tours",
+    "title": "Private Tours",
+    "description": "Exclusive, privately guided tours for parties of two or more — no shared groups, no compromises. Access to trusted local guides and hidden gems.",
+    "icon": "Compass",
+    "tier": "add-on"
+  },
+  {
+    "id": "relaxation",
+    "title": "Wellness & Relaxation",
+    "description": "On-demand spa therapists, yoga instructors, and wellness practitioners who come to your lodge or camp for bespoke relaxation sessions.",
+    "icon": "Sparkles",
+    "tier": "add-on"
+  },
+  {
+    "id": "flash-link",
+    "title": "Flash Link Gallery",
+    "description": "A complimentary digital photo folder delivered after your trip — a curated collection of your best moments, ready to relive and share.",
+    "icon": "ImageDown",
+    "tier": "complimentary"
+  }
+]
