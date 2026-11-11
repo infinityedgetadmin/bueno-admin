@@ -38,6 +38,7 @@ export default defineConfig({
         "lib/admin/session-token.ts",
         "lib/admin/password.ts",
         "lib/admin/login-errors.ts",
+        "lib/admin/sign-in-throttle.ts",
         "lib/admin/permissions.ts",
         "lib/admin/package-form.ts",
         "lib/admin/season-view.ts",
