@@ -69,10 +69,11 @@ export async function resolveActorFromSessionCookie(
   if (claims === null) return "unauthenticated";
   const email = normalizeEmail(claims.email);
   const [user, credential] = await Promise.all([getAdminUser(email), getCredential(email)]);
-  if (credential !== null && credential.sessionsRevokedAt !== null && claims.issuedAt <= credential.sessionsRevokedAt) {
-    return "unauthenticated";
-  }
   if (user === null || !user.active) return "not_authorized";
+  // Fail closed: a session is only honoured while the credentials it was issued against exist
+  // and no revocation (sign-out, password change, access removal) has happened since.
+  if (credential === null) return "unauthenticated";
+  if (credential.sessionsRevokedAt !== null && claims.issuedAt <= credential.sessionsRevokedAt) return "unauthenticated";
   return { uid: email, email, role: user.role };
 }
 

@@ -43,18 +43,23 @@ export async function getCredential(email: string): Promise<CredentialRecord | n
   return (await readCredentials())[normalizeEmail(email)] ?? null;
 }
 
-/** Hashes and stores a new password. Validate it with `passwordProblem` first. */
+/**
+ * Hashes and stores a new password, and ends every session issued before it: a reset must not
+ * leave an old cookie working. Validate the password with `passwordProblem` first.
+ */
 export async function setPassword(email: string, password: string, now: string): Promise<void> {
   const passwordHash = await hashPassword(password);
   await withStoreLock(async () => {
     const file = await readCredentials();
     const key = normalizeEmail(email);
-    file[key] = { passwordHash, passwordUpdatedAt: now, sessionsRevokedAt: file[key]?.sessionsRevokedAt ?? null };
+    const changedAt = Date.parse(now);
+    const revokedAt = Math.max(file[key]?.sessionsRevokedAt ?? 0, Number.isFinite(changedAt) ? changedAt : Date.now());
+    file[key] = { passwordHash, passwordUpdatedAt: now, sessionsRevokedAt: revokedAt };
     await writeStoreFile(STORE_FILES.credentials, file);
   });
 }
 
-/** Invalidates every session issued up to `atMs`. No-op for someone with no credentials. */
+/** Invalidates every session issued up to `atMs`. No-op for someone with no credentials (who cannot hold a session). */
 export async function revokeSessionsAt(email: string, atMs: number): Promise<void> {
   await withStoreLock(async () => {
     const file = await readCredentials();

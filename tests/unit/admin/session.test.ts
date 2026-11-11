@@ -122,6 +122,11 @@ describe("resolveActorFromSessionCookie", () => {
     mocks.getCredential.mockResolvedValue(null);
     await expect(resolveActorFromSessionCookie(token, NOW)).resolves.toBe("not_authorized");
   });
+
+  it("fails closed when an active person has no credential record", async () => {
+    mocks.getCredential.mockResolvedValue(null);
+    await expect(resolveActorFromSessionCookie(token, NOW)).resolves.toBe("unauthenticated");
+  });
 });
 
 describe("revokeSessions", () => {

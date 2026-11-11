@@ -5,6 +5,7 @@ import type { FieldErrors } from "@/lib/pricing/types";
 const requireAdminAction = vi.hoisted(() => vi.fn());
 const applyTeamChange = vi.hoisted(() => vi.fn<() => Promise<FieldErrors>>());
 const setPassword = vi.hoisted(() => vi.fn<() => Promise<void>>());
+const revokeSessionsAt = vi.hoisted(() => vi.fn<() => Promise<void>>());
 
 vi.mock("@/lib/admin/session", () => {
   class AdminAuthError extends Error {
@@ -15,7 +16,7 @@ vi.mock("@/lib/admin/session", () => {
   return { requireAdminAction, AdminAuthError };
 });
 vi.mock("@/lib/admin/users-repo", () => ({ applyTeamChange }));
-vi.mock("@/lib/admin/credentials-repo", () => ({ setPassword }));
+vi.mock("@/lib/admin/credentials-repo", () => ({ setPassword, revokeSessionsAt }));
 
 import { MESSAGES } from "@/lib/admin/action-result";
 import { addTeamMemberAction, updateTeamMemberAction } from "@/lib/admin/actions/team";
@@ -106,6 +107,7 @@ describe("updateTeamMemberAction", () => {
   beforeEach(() => {
     requireAdminAction.mockReset().mockResolvedValue(actor);
     applyTeamChange.mockReset().mockResolvedValue({});
+    revokeSessionsAt.mockReset().mockResolvedValue(undefined);
     vi.spyOn(console, "error").mockImplementation(() => undefined);
   });
 
@@ -148,6 +150,7 @@ describe("updateTeamMemberAction", () => {
       change: { kind: "update", email: "editor@bueno.example.com", role: "admin", active: true },
       now: expect.any(String),
     });
+    expect(revokeSessionsAt).not.toHaveBeenCalled();
   });
 
   it("returns '… can no longer sign in.' when access is removed", async () => {
@@ -158,5 +161,19 @@ describe("updateTeamMemberAction", () => {
       change: { kind: "update", email: "editor@bueno.example.com", role: "editor", active: false },
       now: expect.any(String),
     });
+    expect(revokeSessionsAt).toHaveBeenCalledWith("editor@bueno.example.com", expect.any(Number));
+  });
+});
+
+describe("updateTeamMemberAction and sessions", () => {
+  beforeEach(() => {
+    requireAdminAction.mockReset().mockResolvedValue(actor);
+    revokeSessionsAt.mockReset().mockResolvedValue(undefined);
+  });
+
+  it("does not end anyone's sessions when the change was refused", async () => {
+    applyTeamChange.mockReset().mockResolvedValue({ form: "At least one active admin must remain." });
+    await updateTeamMemberAction({ email: "owner@bueno.example.com", role: "admin", active: false });
+    expect(revokeSessionsAt).not.toHaveBeenCalled();
   });
 });

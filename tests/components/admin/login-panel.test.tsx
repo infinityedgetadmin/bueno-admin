@@ -88,3 +88,22 @@ describe("LoginPanel", () => {
     expect(screen.getByLabelText("Password")).toHaveAttribute("autocomplete", "current-password");
   });
 });
+
+describe("LoginPanel throttling", () => {
+  beforeEach(() => {
+    vi.stubGlobal("fetch", fetchMock);
+    fetchMock.mockReset();
+  });
+
+  afterEach(() => {
+    vi.unstubAllGlobals();
+  });
+
+  it("tells the person to wait when sign-in is temporarily locked", async () => {
+    fetchMock.mockResolvedValue(new Response(JSON.stringify({ ok: false, error: "too_many_attempts" }), { status: 429 }));
+    render(<LoginPanel next="/admin" initialError={null} navigate={vi.fn()} />);
+    await fillAndSubmit();
+    expect(await screen.findByRole("alert")).toHaveTextContent("Too many failed attempts. Wait 15 minutes, then try again.");
+    expect(screen.getByRole("button", { name: "Sign in" })).toBeEnabled();
+  });
+});

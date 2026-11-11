@@ -3,7 +3,7 @@
 import { teamAddSchema, teamUpdateSchema, type TeamAddInput, type TeamUpdateInput } from "@/lib/pricing/schemas";
 import { MESSAGES, invalid, succeed, type ActionResult } from "../action-result";
 import { runAdminAction } from "../action-runtime";
-import { setPassword } from "../credentials-repo";
+import { revokeSessionsAt, setPassword } from "../credentials-repo";
 import { passwordProblem } from "../password";
 import { ROLE_LABELS } from "../permissions";
 import { normalizeEmail } from "../team-rules";
@@ -35,6 +35,9 @@ export async function updateTeamMemberAction(input: TeamUpdateInput): Promise<Ac
       now: new Date().toISOString(),
     });
     if (Object.keys(errors).length > 0) return invalid(errors, errors.form ?? MESSAGES.fixFields);
+    // Removing access also ends the person's sessions, so an old cookie cannot come back to life
+    // if they are given access again later.
+    if (!parsed.data.active) await revokeSessionsAt(email, Date.now());
     return succeed(null, parsed.data.active ? `Access updated for ${email}.` : `${email} can no longer sign in.`);
   });
 }

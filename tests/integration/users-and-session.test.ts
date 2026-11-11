@@ -219,3 +219,40 @@ describe("team changes", () => {
     expect((await listAudit({ limit: 1 }))[0]?.summary).toBe("first@bueno-test.example.com given Admin access");
   });
 });
+
+describe("sessions end when credentials or access change", () => {
+  const EMAIL = "editor@bueno-test.example.com";
+
+  it("ends earlier sessions when the password is reset", async () => {
+    const { setPassword } = await import("@/lib/admin/credentials-repo");
+    await upsertMember({ email: EMAIL, role: "editor" });
+    await setSeedPassword(EMAIL, PASSWORD);
+    const { cookie } = await signInWithPassword({ email: EMAIL, password: PASSWORD }, NOW);
+    const resetAt = new Date(NOW.getTime() + 60_000);
+    await setPassword(EMAIL, "a-different-password-9", resetAt.toISOString());
+    await expect(resolveActorFromSessionCookie(cookie, resetAt)).resolves.toBe("unauthenticated");
+    const later = new Date(resetAt.getTime() + 1_000);
+    const fresh = await signInWithPassword({ email: EMAIL, password: "a-different-password-9" }, later);
+    await expect(resolveActorFromSessionCookie(fresh.cookie, later)).resolves.toMatchObject({ email: EMAIL });
+  });
+
+  it("keeps an old cookie dead after access is removed and later restored", async () => {
+    const { revokeSessionsAt } = await import("@/lib/admin/credentials-repo");
+    await upsertMember({ email: EMAIL, role: "editor" });
+    await setSeedPassword(EMAIL, PASSWORD);
+    const { cookie } = await signInWithPassword({ email: EMAIL, password: PASSWORD }, NOW);
+    await upsertMember({ email: EMAIL, role: "editor", active: false });
+    await revokeSessionsAt(EMAIL, NOW.getTime() + 1);
+    await expect(resolveActorFromSessionCookie(cookie, NOW)).resolves.toBe("not_authorized");
+    await upsertMember({ email: EMAIL, role: "editor", active: true });
+    await expect(resolveActorFromSessionCookie(cookie, new Date(NOW.getTime() + 2))).resolves.toBe("unauthenticated");
+  });
+
+  it("refuses a valid cookie once the credential record is gone", async () => {
+    await upsertMember({ email: EMAIL, role: "editor" });
+    await setSeedPassword(EMAIL, PASSWORD);
+    const { cookie } = await signInWithPassword({ email: EMAIL, password: PASSWORD }, NOW);
+    await writeRawStoreFile(STORE_FILES.credentials, {});
+    await expect(resolveActorFromSessionCookie(cookie, NOW)).resolves.toBe("unauthenticated");
+  });
+});
